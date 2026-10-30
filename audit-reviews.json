@@ -1,0 +1,187 @@
+[
+  {
+    "id": "well-032",
+    "approved": true,
+    "primaryThemes": [
+      "love for god",
+      "adoration"
+    ],
+    "secondaryThemes": [
+      "praise",
+      "joy in worship"
+    ],
+    "lyricSourceUrl": "https://www.hymnallibrary.org/hymns/i-love-you-lord/",
+    "auditNote": "Laurie Klein composition confirmed via Hymnary; focus is affectionate worship and offering praise. Scripture leads: Psalm 18:1; Psalm 19:14, thematic, not quotations."
+  },
+  {
+    "id": "song-0081",
+    "approved": true,
+    "primaryThemes": [
+      "holiness of god",
+      "worthiness of the lamb"
+    ],
+    "secondaryThemes": [
+      "adoration",
+      "heavenly worship"
+    ],
+    "lyricSourceUrl": "https://worshipleader.com/worship-song/agnus-dei/",
+    "auditNote": "Michael W. Smith composition; worship of the Holy Lamb. Revelation 4:8; 5:12 (thematic/close biblical-language parallels)."
+  },
+  {
+    "id": "well-096",
+    "approved": true,
+    "primaryThemes": [
+      "corporate praise",
+      "spiritual awakening"
+    ],
+    "secondaryThemes": [
+      "revival",
+      "unity in worship"
+    ],
+    "lyricSourceUrl": "https://www.worshiptogether.com/songs/did-you-feel-the-mountains-tremble-delirious/",
+    "auditNote": "Delirious song from publisher lyrics. Resurrection of Christ is mentioned, but congregational awakening and public praise are the central emphases. Publisher refs Isaiah 64:3–4; Isaiah 62:10; Psalm 52:9."
+  },
+  {
+    "id": "well-110",
+    "approved": true,
+    "primaryThemes": [
+      "adoration of jesus",
+      "worthiness of christ"
+    ],
+    "secondaryThemes": [
+      "incarnation",
+      "atonement",
+      "resurrection"
+    ],
+    "lyricSourceUrl": "https://integrityworship.com/songs/behold-him-paul-baloche/",
+    "auditNote": "Paul Baloche/Mitch Wong composition according to Integrity Worship; central repeated call is to behold and adore Jesus. Publisher refs Isaiah 6:3, John 1:29, Revelation 1:7. Exact arrangement still unconfirmed."
+  },
+  {
+    "id": "well-115",
+    "approved": true,
+    "primaryThemes": [
+      "humility of christ",
+      "incarnation"
+    ],
+    "secondaryThemes": [
+      "kingship of christ",
+      "atonement",
+      "resurrection"
+    ],
+    "lyricSourceUrl": "https://www.youtube.com/watch?v=LN1cqABGM5Q",
+    "auditNote": "Phil Wickham official lyric video. Main contrast: the King chooses a humble birth, yet reigns. Cross and resurrection appear as supporting gospel storyline. Exact church recording not yet confirmed."
+  },
+  {
+    "id": "well-044",
+    "approved": true,
+    "primaryThemes": [
+      "holy spirit",
+      "prayer for revival"
+    ],
+    "secondaryThemes": [
+      "healing",
+      "renewal"
+    ],
+    "lyricSourceUrl": "https://integrityworship.com/songs/o-god-would-you-move-kxc/",
+    "auditNote": "KXC composition: asks Holy Spirit to move, heal and renew; exact Well arrangement unconfirmed."
+  },
+  {
+    "id": "well-046",
+    "approved": true,
+    "primaryThemes": [
+      "resurrection of christ",
+      "victory over death"
+    ],
+    "secondaryThemes": [
+      "praise",
+      "hope"
+    ],
+    "lyricSourceUrl": "https://www.worshiptogether.com/songs/praise-the-king-corey-voss/",
+    "auditNote": "Corey Voss composition explicitly centers Jesus risen and defeat of death; exact Well recording not linked."
+  },
+  {
+    "id": "well-049",
+    "approved": true,
+    "primaryThemes": [
+      "praise for salvation",
+      "gratitude to jesus"
+    ],
+    "secondaryThemes": [
+      "freedom from sin",
+      "hope"
+    ],
+    "lyricSourceUrl": "https://essentialworship.com/songs/phil-wickham/reason-i-sing/",
+    "auditNote": "Phil Wickham composition emphasizes singing in response to the cross, freedom, and hope; exact Well recording unconfirmed."
+  },
+  {
+    "id": "well-103",
+    "approved": true,
+    "primaryThemes": [
+      "love of christ",
+      "atonement"
+    ],
+    "secondaryThemes": [
+      "forgiveness",
+      "devotion to jesus"
+    ],
+    "lyricSourceUrl": "https://www.worshiptogether.com/songs/you-are-my-king-amazing-love-passion-chris-tomlin/",
+    "auditNote": "Billy Foote You Are My King (Amazing Love) composition; may not match linked Spotify recording, identity still requires confirmation."
+  },
+  {
+    "id": "well-108",
+    "approved": true,
+    "primaryThemes": [
+      "praise at christ’s birth",
+      "glory to god"
+    ],
+    "secondaryThemes": [
+      "adoration",
+      "incarnation"
+    ],
+    "lyricSourceUrl": "https://essentialworship.com/songs/phil-wickham/angels-glory-to-god/",
+    "auditNote": "Phil Wickham arrangement of Angels We Have Heard on High with added glory-to-God refrain."
+  },
+  {
+    "id": "well-109",
+    "approved": true,
+    "primaryThemes": [
+      "incarnation",
+      "adoration of christ"
+    ],
+    "secondaryThemes": [
+      "atonement",
+      "resurrection"
+    ],
+    "lyricSourceUrl": "https://www.wordtoworship.com/song/117060",
+    "auditNote": "Phil Wickham Behold (CCLI 7204354), Christmas coming of Christ with adoration; recording identity requires Spotify metadata check."
+  },
+  {
+    "id": "well-114",
+    "approved": true,
+    "primaryThemes": [
+      "joy at christ’s coming",
+      "kingship of christ"
+    ],
+    "secondaryThemes": [
+      "creation praising god",
+      "adoration"
+    ],
+    "lyricSourceUrl": "https://www.multitracks.com/songs/The-Worship-Initiative/Christmas-with-The-Worship-Initiative/Joy-to-the-World-%28Joyful%2C-Joyful%29/",
+    "auditNote": "Combined Joy to the World and Joyful Joyful arrangement; recording supplied but precise release not independently confirmed."
+  },
+  {
+    "id": "well-041",
+    "approved": true,
+    "primaryThemes": [
+      "uniqueness of god",
+      "worthiness of god"
+    ],
+    "secondaryThemes": [
+      "sovereignty of god",
+      "praise",
+      "adoration"
+    ],
+    "lyricSourceUrl": "https://www.multitracks.com/songs/Flourish-Music/No-Rival/No-Rival/overview/",
+    "auditNote": "Spotify confirms Flourish Music and Austin Davidson. Published lyrics center on God having no rival and being worthy of praise. Flourish Music connects the composition to Jeremiah 10:6, as thematic inspiration."
+  }
+]

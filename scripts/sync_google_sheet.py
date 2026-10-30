@@ -53,7 +53,7 @@ def main():
             if row['spotifyUrl']:
                 if s.get('spotifyUrl')!=row['spotifyUrl']:
                     s['spotifyUrl']=row['spotifyUrl'];s['recordingReference']='linked-from-google-sheet'
-                    s['recordingNeedsReview']=True
+                    s['recordingNeedsReview']=True;s['auditState']='needs-lyric-evidence';s['reviewStatus']='pending-theological-review';s['provisionalThemes']=s.get('themes',[]);s['provisionalScriptures']=s.get('scriptures',[]);s['themes']=[];s['scriptures']=[];s['scriptureConnections']=[]
             new.append(s)
         else:
             # If an existing external song is added to The Well, reuse its original editorial fields.
@@ -61,7 +61,7 @@ def main():
             if match:
                 s=match.copy();outside.remove(match)
                 s.update({'title':row['title'],'wellLibrary':True,'wellCategory':row['category']})
-                if row['spotifyUrl']:s['spotifyUrl']=row['spotifyUrl'];s['recordingReference']='linked-from-google-sheet';s['recordingNeedsReview']=True
+                if row['spotifyUrl']:s['spotifyUrl']=row['spotifyUrl'];s['recordingReference']='linked-from-google-sheet';s['recordingNeedsReview']=True;s['auditState']='needs-lyric-evidence';s['reviewStatus']='pending-theological-review';s['provisionalThemes']=s.get('themes',[]);s['provisionalScriptures']=s.get('scriptures',[]);s['themes']=[];s['scriptures']=[];s['scriptureConnections']=[]
                 new.append(s)
             else:
                 # New titles are searchable by title in the library, but require theology before theme ranking.
@@ -70,7 +70,7 @@ def main():
                     'themes':[],'scriptures':[],'scriptureConnections':[],
                     'wellLibrary':True,'wellCategory':row['category'],
                     'spotifyUrl':row['spotifyUrl'],'recordingReference':'linked-from-google-sheet' if row['spotifyUrl'] else '',
-                    'reviewStatus':'pending-theological-review','reviewNote':'New song from Google Sheet; theme and Scripture matching pending.',
+                    'auditState':'needs-lyric-evidence','reviewStatus':'pending-theological-review','reviewNote':'New song from Google Sheet; theme and Scripture matching pending.',
                     'scriptureBasis':'No Scripture references verified or assigned yet.',
                     'source':'Songs at The Well (Google Sheets sync)'})
     # Demoted songs remain discoverable as additional music; preserve their theological annotations.
