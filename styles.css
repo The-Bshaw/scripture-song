@@ -324,3 +324,20 @@ footer span:first-child{
   .searchrow input {font-size:18px;}
   .searchrow input::placeholder {font-size:16px;}
 }
+
+
+/* ==============================
+   HERO FINAL CONTRAST AND LAYOUT
+   ============================== */
+.masthead{background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.69)),url('assets/worship-header.jpg') center center/cover no-repeat !important;}
+.masthead .top{background:transparent!important;border:0!important;}
+.masthead .hero{background:transparent!important;border:0!important;border-radius:0!important;box-shadow:none!important;max-width:1160px!important;margin:0 auto!important;text-align:center!important;padding:104px 32px 118px!important;}
+.masthead .hero h1{color:#fff!important;text-align:center!important;max-width:1060px!important;font-size:clamp(40px,5vw,76px)!important;letter-spacing:-1.9px!important;line-height:1.15!important;margin:0 auto 40px!important;}
+.masthead .searchform{margin:0 auto!important;max-width:880px!important;}
+.masthead .searchform>label{color:#fff!important;text-align:center!important;letter-spacing:1.2px!important;}
+.masthead .searchrow input{font-size:21px!important;}
+.masthead .top-right{color:#fff!important;}
+.masthead .samples{display:none!important;}
+.results-heading .eyebrow,#resultsDesc{display:none!important;}
+@media(max-width:820px){.masthead .hero{padding:78px 24px 90px!important}.masthead .hero h1{font-size:clamp(35px,6.4vw,54px)!important;letter-spacing:-1.1px!important}}
+@media(max-width:570px){.masthead .hero{padding:62px 20px 76px!important}.masthead .hero h1{font-size:clamp(30px,8vw,42px)!important;letter-spacing:-.7px!important;margin-bottom:30px!important}.masthead .searchrow input{font-size:18px!important}}
