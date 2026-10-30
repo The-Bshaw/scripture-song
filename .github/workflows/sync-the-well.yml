@@ -1,0 +1,36 @@
+name: Sync The Well Songs
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '7,22,37,52 * * * *'
+permissions:
+  contents: write
+concurrency:
+  group: the-well-library-sync
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Sync Google Sheet
+        env:
+          SHEET_SYNC_URL: ${{ secrets.SHEET_SYNC_URL }}
+          SHEET_SYNC_TOKEN: ${{ secrets.SHEET_SYNC_TOKEN }}
+        run: python scripts/sync_google_sheet.py
+      - name: Commit updated catalog
+        run: |
+          if ! git diff --quiet -- data/songs.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/songs.json
+            git commit -m "Sync Songs at The Well library"
+            git push
+          else
+            echo "No library changes."
+          fi

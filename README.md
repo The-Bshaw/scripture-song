@@ -55,3 +55,12 @@ Version 3.2 keeps the **117-song reviewed The Well library first**, preserves Sc
 - `theological-review.csv` — previously reviewed audit notes
 
 This release does **not** edit your original Google Sheet and does **not** automatically verify new lyrics or theology.
+
+
+## V3.4 Focused matching (editorial beta)
+- Topic queries now require explicit, narrower song themes (no indirect chapter-topic expansion).
+- Passage queries require an explicit song-to-passage annotation or at least two distinctive shared tags; single broad tags never qualify.
+- The previous broad themes are retained as `legacyThemes` solely for editorial comparison, **not** used for matching or displayed as active themes.
+- Active themes are conservatively reduced to up to four per song and remain provisional, **not verified against complete lyrics**.
+- `themeReviewStatus` marks this distinction. For a fully verified theological catalog, each song must be checked against its actual licensed lyrics and documented source passages.
+- The Google Sheet sync continues to preserve both active and legacy annotations. New songs remain unindexed pending review.

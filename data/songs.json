@@ -4,10 +4,8 @@
     "author": "",
     "type": "Contemporary",
     "themes": [
-      "praise",
-      "worship",
-      "glory",
-      "names of god"
+      "names of god",
+      "praise"
     ],
     "scriptures": [
       "Psalm 145:1-3",
@@ -33,16 +31,21 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "praise",
+      "worship",
+      "glory",
+      "names of god"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "A Thousand Hallelujahs",
     "author": "",
     "type": "Contemporary",
     "themes": [
-      "praise",
-      "worship",
-      "glory"
+      "praise"
     ],
     "scriptures": [
       "Revelation 5:11-13"
@@ -61,7 +64,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "praise",
+      "worship",
+      "glory"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Abide",
@@ -70,8 +79,7 @@
     "themes": [
       "abiding",
       "dependence",
-      "faithfulness",
-      "trust"
+      "faithfulness"
     ],
     "scriptures": [
       "John 15:4-5"
@@ -92,7 +100,14 @@
     ],
     "reviewNote": "The Well supplied this exact Spotify recording; theological and direct-lyric verification remain editorial.",
     "spotifyUrl": "https://open.spotify.com/track/57FO5LvAsUPCu4h3yV0C4S",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "abiding",
+      "dependence",
+      "faithfulness",
+      "trust"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "All Hail King Jesus",
@@ -100,9 +115,8 @@
     "type": "Contemporary",
     "themes": [
       "kingship",
-      "christ",
-      "worship",
-      "resurrection"
+      "resurrection",
+      "exaltation"
     ],
     "scriptures": [
       "Philippians 2:9-11",
@@ -128,17 +142,23 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "kingship",
+      "christ",
+      "worship",
+      "resurrection"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "All Suficient Merit",
     "author": "",
     "type": "Contemporary",
     "themes": [
-      "grace",
-      "salvation",
-      "atonement",
-      "christ"
+      "justification",
+      "righteousness",
+      "grace"
     ],
     "scriptures": [
       "Philippians 3:9",
@@ -174,7 +194,14 @@
     "reviewNote": "Listed among song-specific Scripture references by Word to Worship / Worship Initiative.",
     "evidenceUrls": [
       "https://www.wordtoworship.com/song/117264"
-    ]
+    ],
+    "legacyThemes": [
+      "grace",
+      "salvation",
+      "atonement",
+      "christ"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Always on Time",
@@ -182,7 +209,6 @@
     "type": "Contemporary",
     "themes": [
       "faithfulness",
-      "trust",
       "provision"
     ],
     "scriptures": [
@@ -211,16 +237,20 @@
     ],
     "reviewNote": "The Well supplied this exact Spotify recording; theological and direct-lyric verification remain editorial.",
     "spotifyUrl": "https://open.spotify.com/track/33yHP6zrCHPxHqMu1vRXT0",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "faithfulness",
+      "trust",
+      "provision"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Ancient Gates",
     "author": "",
     "type": "Contemporary",
     "themes": [
-      "kingship",
-      "glory",
-      "worship"
+      "kingship"
     ],
     "scriptures": [
       "Psalm 24:7-10"
@@ -239,7 +269,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "kingship",
+      "glory",
+      "worship"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Another Like You",
@@ -247,8 +283,8 @@
     "type": "Contemporary",
     "themes": [
       "holiness",
-      "praise",
-      "glory"
+      "majesty",
+      "praise"
     ],
     "scriptures": [
       "Exodus 15:11"
@@ -269,17 +305,22 @@
     ],
     "reviewNote": "The Well supplied this exact Spotify recording; theological and direct-lyric verification remain editorial.",
     "spotifyUrl": "https://open.spotify.com/track/6cJ2Kbbbe5AT6M1SjZefqw",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "holiness",
+      "praise",
+      "glory"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Because of Christ",
     "author": "",
     "type": "Contemporary",
     "themes": [
-      "salvation",
-      "grace",
       "identity",
-      "christ"
+      "salvation",
+      "grace"
     ],
     "scriptures": [
       "2 Corinthians 5:17",
@@ -307,18 +348,23 @@
     ],
     "reviewNote": "The Well supplied this exact Spotify recording; theological and direct-lyric verification remain editorial.",
     "spotifyUrl": "https://open.spotify.com/track/7r7cqJyvYepirmrIWZESjz",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "salvation",
+      "grace",
+      "identity",
+      "christ"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Build my Life",
     "author": "Pat Barrett / Brett Younker / Karl Martin / Kirby Kaple / Matt Redman",
     "type": "Contemporary",
     "themes": [
-      "holiness",
-      "trust",
       "discipleship",
-      "devotion",
-      "love"
+      "foundation",
+      "holiness"
     ],
     "scriptures": [
       "Matthew 7:24-27"
@@ -338,14 +384,21 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "holiness",
+      "trust",
+      "discipleship",
+      "devotion",
+      "love"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Center",
     "author": "",
     "type": "Contemporary",
     "themes": [
-      "christ",
       "devotion",
       "surrender"
     ],
@@ -368,17 +421,22 @@
     ],
     "reviewNote": "The Well supplied this exact Spotify recording; theological and direct-lyric verification remain editorial.",
     "spotifyUrl": "https://open.spotify.com/track/1yu6UKfMvbFZ0esY29yYlT",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "christ",
+      "devotion",
+      "surrender"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Christ be Magnified",
     "author": "Cody Carnes",
     "type": "Contemporary",
     "themes": [
-      "worship",
+      "exaltation",
       "surrender",
-      "christ",
-      "exaltation"
+      "worship"
     ],
     "scriptures": [
       "Philippians 1:20"
@@ -398,7 +456,14 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "worship",
+      "surrender",
+      "christ",
+      "exaltation"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Christ our Hope in Life and Death",
@@ -407,10 +472,7 @@
     "themes": [
       "hope",
       "resurrection",
-      "assurance",
-      "christ",
-      "suffering",
-      "trust"
+      "assurance"
     ],
     "scriptures": [
       "Romans 14:7-9",
@@ -437,7 +499,16 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "hope",
+      "resurrection",
+      "assurance",
+      "christ",
+      "suffering",
+      "trust"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Come Lord Jesus Come",
@@ -445,8 +516,8 @@
     "type": "Contemporary",
     "themes": [
       "second coming",
-      "hope",
-      "longing"
+      "longing",
+      "hope"
     ],
     "scriptures": [
       "Revelation 22:17-20"
@@ -467,7 +538,13 @@
     ],
     "reviewNote": "The Well supplied this exact Spotify recording; theological and direct-lyric verification remain editorial.",
     "spotifyUrl": "https://open.spotify.com/track/77hNrg29AvHnxHNDKqAvvE",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "second coming",
+      "hope",
+      "longing"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Death Was Arrested",
@@ -475,7 +552,6 @@
     "type": "Contemporary",
     "themes": [
       "resurrection",
-      "salvation",
       "freedom"
     ],
     "scriptures": [
@@ -502,18 +578,22 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "resurrection",
+      "salvation",
+      "freedom"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Firm Foundation (He Won't)",
     "author": "Cody Carnes",
     "type": "Contemporary",
     "themes": [
-      "trust",
       "faithfulness",
       "foundation",
-      "refuge",
-      "perseverance"
+      "refuge"
     ],
     "scriptures": [
       "Matthew 7:24-27"
@@ -533,7 +613,15 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "trust",
+      "faithfulness",
+      "foundation",
+      "refuge",
+      "perseverance"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Forever",
@@ -541,8 +629,8 @@
     "type": "Contemporary",
     "themes": [
       "resurrection",
-      "praise",
-      "victory"
+      "victory",
+      "praise"
     ],
     "scriptures": [
       "Matthew 28:5-6",
@@ -570,7 +658,13 @@
     ],
     "reviewNote": "The Well supplied this exact Spotify recording; theological and direct-lyric verification remain editorial.",
     "spotifyUrl": "https://open.spotify.com/track/5y0AjH2iVJ8sZXZvUEWzLD",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "resurrection",
+      "praise",
+      "victory"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Glorious Day",
@@ -578,8 +672,8 @@
     "type": "Contemporary",
     "themes": [
       "salvation",
-      "resurrection",
-      "freedom"
+      "freedom",
+      "resurrection"
     ],
     "scriptures": [
       "1 Peter 2:9",
@@ -605,14 +699,19 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "salvation",
+      "resurrection",
+      "freedom"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "God I Look to You",
     "author": "",
     "type": "Contemporary",
     "themes": [
-      "trust",
       "guidance",
       "wisdom"
     ],
@@ -640,7 +739,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "trust",
+      "guidance",
+      "wisdom"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "God so Loved",
@@ -668,7 +773,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "love",
+      "salvation",
+      "grace"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Goodness of God",
@@ -677,9 +788,7 @@
     "themes": [
       "goodness",
       "faithfulness",
-      "gratitude",
-      "mercy",
-      "trust"
+      "gratitude"
     ],
     "scriptures": [
       "Psalm 23:6",
@@ -706,7 +815,15 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "goodness",
+      "faithfulness",
+      "gratitude",
+      "mercy",
+      "trust"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Gratitude",
@@ -714,8 +831,7 @@
     "type": "Contemporary",
     "themes": [
       "gratitude",
-      "praise",
-      "worship"
+      "praise"
     ],
     "scriptures": [
       "Psalm 150:6",
@@ -741,19 +857,22 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "gratitude",
+      "praise",
+      "worship"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Graves into Gardens",
     "author": "Elevation Worship",
     "type": "Contemporary",
     "themes": [
-      "resurrection",
       "restoration",
-      "hope",
       "renewal",
-      "salvation",
-      "power"
+      "resurrection"
     ],
     "scriptures": [
       "Isaiah 61:3",
@@ -780,18 +899,25 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "resurrection",
+      "restoration",
+      "hope",
+      "renewal",
+      "salvation",
+      "power"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Great Things",
     "author": "Phil Wickham",
     "type": "Contemporary",
     "themes": [
-      "praise",
       "faithfulness",
       "victory",
-      "deliverance",
-      "joy"
+      "deliverance"
     ],
     "scriptures": [
       "Psalm 126:3",
@@ -818,14 +944,21 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "praise",
+      "faithfulness",
+      "victory",
+      "deliverance",
+      "joy"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "He's the One",
     "author": "",
     "type": "Contemporary",
     "themes": [
-      "christ",
       "exaltation",
       "trust"
     ],
@@ -848,7 +981,13 @@
     ],
     "reviewNote": "The Well supplied this exact Spotify recording; theological and direct-lyric verification remain editorial.",
     "spotifyUrl": "https://open.spotify.com/track/4R5fHK7Sn5qt5Ze228zXZg",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "christ",
+      "exaltation",
+      "trust"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "His Mercy is More",
@@ -857,9 +996,7 @@
     "themes": [
       "mercy",
       "forgiveness",
-      "grace",
-      "salvation",
-      "gratitude"
+      "grace"
     ],
     "scriptures": [
       "Psalm 103:8-12",
@@ -886,7 +1023,15 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "mercy",
+      "forgiveness",
+      "grace",
+      "salvation",
+      "gratitude"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Holy Forever",
@@ -894,9 +1039,6 @@
     "type": "Contemporary",
     "themes": [
       "holiness",
-      "worship",
-      "glory",
-      "praise",
       "majesty"
     ],
     "scriptures": [
@@ -924,7 +1066,15 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "holiness",
+      "worship",
+      "glory",
+      "praise",
+      "majesty"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Holy Spirit",
@@ -933,8 +1083,7 @@
     "themes": [
       "holy spirit",
       "presence",
-      "renewal",
-      "prayer"
+      "renewal"
     ],
     "scriptures": [
       "John 14:16-17",
@@ -961,17 +1110,23 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "holy spirit",
+      "presence",
+      "renewal",
+      "prayer"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "I Believe",
     "author": "Phil Wickham",
     "type": "Contemporary",
     "themes": [
-      "faith",
-      "christ",
+      "creed",
       "resurrection",
-      "creed"
+      "faith"
     ],
     "scriptures": [
       "1 Corinthians 15:3-4",
@@ -1000,7 +1155,14 @@
     ],
     "reviewNote": "The Well supplied this exact Spotify recording; theological and direct-lyric verification remain editorial.",
     "spotifyUrl": "https://open.spotify.com/track/5yGqicSYTfzMijkD6Qu35O",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "faith",
+      "christ",
+      "resurrection",
+      "creed"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "I Don't Have Much",
@@ -1035,16 +1197,20 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "surrender",
+      "gratitude",
+      "devotion"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "I Know a Name",
     "author": "Elevation Worship",
     "type": "Contemporary",
     "themes": [
-      "christ",
       "power",
-      "hope",
       "victory",
       "prayer"
     ],
@@ -1075,7 +1241,15 @@
     ],
     "reviewNote": "The Well supplied this exact Spotify recording; theological and direct-lyric verification remain editorial.",
     "spotifyUrl": "https://open.spotify.com/track/1r8WQfbxvLiyxBjY1jgKIW",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "christ",
+      "power",
+      "hope",
+      "victory",
+      "prayer"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "I Love You, Lord",
@@ -1083,8 +1257,7 @@
     "type": "Contemporary",
     "themes": [
       "love",
-      "devotion",
-      "worship"
+      "devotion"
     ],
     "scriptures": [
       "Psalm 18:1"
@@ -1103,16 +1276,22 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "love",
+      "devotion",
+      "worship"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Jesus be the Name",
     "author": "",
     "type": "Contemporary",
     "themes": [
-      "christ",
+      "exaltation",
       "worship",
-      "exaltation"
+      "christ"
     ],
     "scriptures": [
       "Philippians 2:9-11"
@@ -1133,7 +1312,13 @@
     ],
     "reviewNote": "The Well supplied this exact Spotify recording; theological and direct-lyric verification remain editorial.",
     "spotifyUrl": "https://open.spotify.com/track/50irUgP4UUg2s90ULqMGxe",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "christ",
+      "worship",
+      "exaltation"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Jireh",
@@ -1141,10 +1326,8 @@
     "type": "Contemporary",
     "themes": [
       "provision",
-      "trust",
       "faithfulness",
-      "fatherhood",
-      "contentment"
+      "fatherhood"
     ],
     "scriptures": [
       "Genesis 22:14",
@@ -1171,21 +1354,25 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "provision",
+      "trust",
+      "faithfulness",
+      "fatherhood",
+      "contentment"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "King of Kings",
     "author": "Hillsong Worship",
     "type": "Contemporary",
     "themes": [
-      "christ",
-      "kingship",
-      "salvation",
-      "resurrection",
       "gospel",
       "incarnation",
-      "cross",
-      "trinity"
+      "resurrection",
+      "kingship"
     ],
     "scriptures": [
       "Philippians 2:6-11",
@@ -1212,7 +1399,18 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "christ",
+      "kingship",
+      "salvation",
+      "resurrection",
+      "gospel",
+      "incarnation",
+      "cross",
+      "trinity"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Life Defined",
@@ -1220,7 +1418,6 @@
     "type": "Contemporary",
     "themes": [
       "identity",
-      "christ",
       "surrender"
     ],
     "scriptures": [
@@ -1240,7 +1437,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "identity",
+      "christ",
+      "surrender"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Made for More",
@@ -1277,7 +1480,13 @@
     ],
     "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
     "spotifyUrl": "https://open.spotify.com/track/1qo2WigLGq2fi2s4uSs5Pi",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "calling",
+      "identity",
+      "transformation"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Make Room",
@@ -1307,7 +1516,13 @@
     ],
     "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
     "spotifyUrl": "https://open.spotify.com/track/0X98LFhbqEYiUv4g1Vjppr",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "surrender",
+      "devotion",
+      "discipleship"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "More Like Jesus",
@@ -1315,8 +1530,7 @@
     "type": "Contemporary",
     "themes": [
       "sanctification",
-      "discipleship",
-      "christ"
+      "discipleship"
     ],
     "scriptures": [
       "2 Corinthians 3:18",
@@ -1342,7 +1556,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "sanctification",
+      "discipleship",
+      "christ"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Morning by Morning",
@@ -1370,7 +1590,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "faithfulness",
+      "mercy",
+      "gratitude"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "No Rival",
@@ -1378,8 +1604,7 @@
     "type": "Contemporary",
     "themes": [
       "kingship",
-      "victory",
-      "christ"
+      "victory"
     ],
     "scriptures": [
       "Philippians 2:9-11"
@@ -1398,7 +1623,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "kingship",
+      "victory",
+      "christ"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Nothing Else",
@@ -1407,9 +1638,7 @@
     "themes": [
       "devotion",
       "repentance",
-      "surrender",
-      "worship",
-      "presence"
+      "surrender"
     ],
     "scriptures": [
       "Psalm 27:4",
@@ -1436,7 +1665,15 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "devotion",
+      "repentance",
+      "surrender",
+      "worship",
+      "presence"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "O Come to the Altar",
@@ -1445,9 +1682,7 @@
     "themes": [
       "repentance",
       "forgiveness",
-      "grace",
-      "invitation",
-      "cross"
+      "invitation"
     ],
     "scriptures": [
       "Matthew 11:28",
@@ -1474,7 +1709,15 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "repentance",
+      "forgiveness",
+      "grace",
+      "invitation",
+      "cross"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "O God Would You Move",
@@ -1509,7 +1752,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "revival",
+      "prayer",
+      "holy spirit"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "O Praise the Name",
@@ -1517,8 +1766,8 @@
     "type": "Contemporary",
     "themes": [
       "resurrection",
-      "praise",
-      "christ"
+      "cross",
+      "praise"
     ],
     "scriptures": [
       "1 Corinthians 15:3-4",
@@ -1544,7 +1793,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "resurrection",
+      "praise",
+      "christ"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Praise the King",
@@ -1552,8 +1807,7 @@
     "type": "Contemporary",
     "themes": [
       "resurrection",
-      "kingship",
-      "praise"
+      "kingship"
     ],
     "scriptures": [
       "1 Corinthians 15:55-57"
@@ -1572,7 +1826,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "resurrection",
+      "kingship",
+      "praise"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Promises",
@@ -1580,8 +1840,6 @@
     "type": "Contemporary",
     "themes": [
       "faithfulness",
-      "trust",
-      "hope",
       "covenant"
     ],
     "scriptures": [
@@ -1611,7 +1869,14 @@
     ],
     "reviewNote": "The Well supplied this exact Spotify recording; theological and direct-lyric verification remain editorial.",
     "spotifyUrl": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "faithfulness",
+      "trust",
+      "hope",
+      "covenant"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Raise a Hallelujah",
@@ -1619,11 +1884,8 @@
     "type": "Contemporary",
     "themes": [
       "praise",
-      "trust",
-      "victory",
-      "suffering",
-      "faith",
-      "spiritual warfare"
+      "spiritual warfare",
+      "trust"
     ],
     "scriptures": [
       "Psalm 34:1",
@@ -1650,7 +1912,16 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "praise",
+      "trust",
+      "victory",
+      "suffering",
+      "faith",
+      "spiritual warfare"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Reason I Sing",
@@ -1678,7 +1949,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "gratitude",
+      "salvation",
+      "praise"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Reckless Love",
@@ -1686,7 +1963,6 @@
     "type": "Contemporary",
     "themes": [
       "love",
-      "grace",
       "mercy",
       "shepherd"
     ],
@@ -1715,7 +1991,14 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "love",
+      "grace",
+      "mercy",
+      "shepherd"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Resurrender",
@@ -1750,7 +2033,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "surrender",
+      "repentance",
+      "devotion"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Run to the Father",
@@ -1758,11 +2047,8 @@
     "type": "Contemporary",
     "themes": [
       "adoption",
-      "grace",
       "mercy",
-      "fatherhood",
-      "repentance",
-      "prayer"
+      "fatherhood"
     ],
     "scriptures": [
       "Luke 15:20-24",
@@ -1789,7 +2075,16 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "adoption",
+      "grace",
+      "mercy",
+      "fatherhood",
+      "repentance",
+      "prayer"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Son of Suffering",
@@ -1797,8 +2092,7 @@
     "type": "Contemporary",
     "themes": [
       "suffering",
-      "atonement",
-      "christ"
+      "atonement"
     ],
     "scriptures": [
       "Isaiah 53:3-5",
@@ -1824,7 +2118,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "suffering",
+      "atonement",
+      "christ"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Thank You Jesus for the Blood",
@@ -1833,9 +2133,7 @@
     "themes": [
       "atonement",
       "redemption",
-      "gratitude",
-      "cross",
-      "salvation"
+      "gratitude"
     ],
     "scriptures": [
       "Ephesians 1:7",
@@ -1862,7 +2160,15 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "atonement",
+      "redemption",
+      "gratitude",
+      "cross",
+      "salvation"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "The Blessing",
@@ -1871,8 +2177,6 @@
     "themes": [
       "blessing",
       "peace",
-      "faithfulness",
-      "presence",
       "family"
     ],
     "scriptures": [
@@ -1893,7 +2197,15 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "blessing",
+      "peace",
+      "faithfulness",
+      "presence",
+      "family"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "The Blood",
@@ -1923,7 +2235,13 @@
     ],
     "reviewNote": "The Well supplied this exact Spotify recording; theological and direct-lyric verification remain editorial.",
     "spotifyUrl": "https://open.spotify.com/track/71cDTlRal4bmGUcu213rYt",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "atonement",
+      "redemption",
+      "forgiveness"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "The Lion and the Lamb",
@@ -1931,7 +2249,6 @@
     "type": "Contemporary",
     "themes": [
       "kingship",
-      "christ",
       "victory"
     ],
     "scriptures": [
@@ -1951,7 +2268,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "kingship",
+      "christ",
+      "victory"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "The Lord our God",
@@ -1979,7 +2302,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "faithfulness",
+      "trust",
+      "praise"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "The Passion",
@@ -1987,7 +2316,6 @@
     "type": "Contemporary",
     "themes": [
       "atonement",
-      "christ",
       "love"
     ],
     "scriptures": [
@@ -2016,16 +2344,22 @@
     ],
     "reviewNote": "The Well supplied this exact Spotify recording; theological and direct-lyric verification remain editorial.",
     "spotifyUrl": "https://open.spotify.com/track/1hi0iTq8sf3gJB7kExWAdV",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "atonement",
+      "christ",
+      "love"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "This is Amazing Grace",
     "author": "",
     "type": "Contemporary",
     "themes": [
+      "freedom",
       "grace",
-      "salvation",
-      "freedom"
+      "salvation"
     ],
     "scriptures": [
       "Ephesians 2:8-9",
@@ -2051,7 +2385,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "grace",
+      "salvation",
+      "freedom"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "The Lord will Provide",
@@ -2059,7 +2399,6 @@
     "type": "Contemporary",
     "themes": [
       "provision",
-      "trust",
       "faithfulness"
     ],
     "scriptures": [
@@ -2087,18 +2426,22 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "provision",
+      "trust",
+      "faithfulness"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Trust in God",
     "author": "Elevation Worship",
     "type": "Contemporary",
     "themes": [
-      "trust",
       "faith",
       "assurance",
-      "provision",
-      "hope"
+      "provision"
     ],
     "scriptures": [
       "Proverbs 3:5-6"
@@ -2118,17 +2461,24 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "trust",
+      "faith",
+      "assurance",
+      "provision",
+      "hope"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Way Maker",
     "author": "Sinach / Leeland",
     "type": "Contemporary",
     "themes": [
-      "faithfulness",
       "miracles",
-      "hope",
-      "trust"
+      "faithfulness",
+      "hope"
     ],
     "scriptures": [
       "Isaiah 43:19",
@@ -2155,16 +2505,23 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "faithfulness",
+      "miracles",
+      "hope",
+      "trust"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "What a God",
     "author": "",
     "type": "Contemporary",
     "themes": [
-      "glory",
-      "praise",
-      "holiness"
+      "holiness",
+      "majesty",
+      "praise"
     ],
     "scriptures": [
       "Psalm 145:3"
@@ -2185,7 +2542,13 @@
     ],
     "reviewNote": "The Well supplied this exact Spotify recording; theological and direct-lyric verification remain editorial.",
     "spotifyUrl": "https://open.spotify.com/track/5IB4ugsKzjD4hWuIEFZtAE",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "glory",
+      "praise",
+      "holiness"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Who Else",
@@ -2193,8 +2556,8 @@
     "type": "Contemporary",
     "themes": [
       "holiness",
-      "worship",
-      "glory"
+      "majesty",
+      "worship"
     ],
     "scriptures": [
       "Exodus 15:11",
@@ -2222,7 +2585,13 @@
     ],
     "reviewNote": "The Well supplied this exact Spotify recording; theological and direct-lyric verification remain editorial.",
     "spotifyUrl": "https://open.spotify.com/track/2hUVIsZyLfy4xs35CHTlmN",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "holiness",
+      "worship",
+      "glory"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Who You Say I am",
@@ -2231,9 +2600,7 @@
     "themes": [
       "identity",
       "adoption",
-      "freedom",
-      "grace",
-      "salvation"
+      "freedom"
     ],
     "scriptures": [
       "John 8:36",
@@ -2260,19 +2627,24 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "identity",
+      "adoption",
+      "freedom",
+      "grace",
+      "salvation"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Yet not I but Through Christ in me",
     "author": "CityAlight",
     "type": "Contemporary",
     "themes": [
-      "christ",
-      "grace",
       "perseverance",
-      "faith",
-      "assurance",
-      "hope"
+      "grace",
+      "identity"
     ],
     "scriptures": [
       "Galatians 2:20",
@@ -2299,7 +2671,16 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "christ",
+      "grace",
+      "perseverance",
+      "faith",
+      "assurance",
+      "hope"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "You've Already Won",
@@ -2334,16 +2715,21 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "victory",
+      "hope",
+      "trust"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Tis so sweet to trust in Jesus",
     "author": "",
     "type": "Hymn",
     "themes": [
-      "trust",
       "faith",
-      "christ"
+      "trust"
     ],
     "scriptures": [
       "Proverbs 3:5-6"
@@ -2362,15 +2748,19 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "trust",
+      "faith",
+      "christ"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Amazing Grace",
     "author": "John Newton",
     "type": "Hymn",
     "themes": [
-      "grace",
-      "salvation",
       "mercy",
       "faith",
       "assurance"
@@ -2400,7 +2790,15 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "grace",
+      "salvation",
+      "mercy",
+      "faith",
+      "assurance"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Be Thou My Vision",
@@ -2409,9 +2807,7 @@
     "themes": [
       "guidance",
       "wisdom",
-      "devotion",
-      "christ",
-      "trust"
+      "devotion"
     ],
     "scriptures": [
       "Colossians 3:1-2",
@@ -2437,7 +2833,15 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "guidance",
+      "wisdom",
+      "devotion",
+      "christ",
+      "trust"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Blessed Assurance",
@@ -2445,8 +2849,6 @@
     "type": "Hymn",
     "themes": [
       "assurance",
-      "salvation",
-      "hope",
       "joy",
       "faith"
     ],
@@ -2475,17 +2877,23 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "assurance",
+      "salvation",
+      "hope",
+      "joy",
+      "faith"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Come Thou Fount",
     "author": "Robert Robinson",
     "type": "Hymn",
     "themes": [
-      "grace",
       "faithfulness",
       "devotion",
-      "worship",
       "repentance"
     ],
     "scriptures": [
@@ -2513,16 +2921,22 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "grace",
+      "faithfulness",
+      "devotion",
+      "worship",
+      "repentance"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Doxology",
     "author": "",
     "type": "Hymn",
     "themes": [
-      "praise",
-      "glory",
-      "worship"
+      "praise"
     ],
     "scriptures": [
       "Psalm 150:6",
@@ -2548,17 +2962,19 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "praise",
+      "glory",
+      "worship"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Fairest Lord Jesus",
     "author": "",
     "type": "Hymn",
-    "themes": [
-      "christ",
-      "glory",
-      "worship"
-    ],
+    "themes": [],
     "scriptures": [
       "Colossians 1:15-18"
     ],
@@ -2576,7 +2992,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "christ",
+      "glory",
+      "worship"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Great is Thy Faithfulness",
@@ -2585,9 +3007,7 @@
     "themes": [
       "faithfulness",
       "mercy",
-      "provision",
-      "hope",
-      "gratitude"
+      "provision"
     ],
     "scriptures": [
       "Lamentations 3:22-23"
@@ -2607,7 +3027,15 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "faithfulness",
+      "mercy",
+      "provision",
+      "hope",
+      "gratitude"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Holy Holy Holy",
@@ -2616,8 +3044,6 @@
     "themes": [
       "holiness",
       "trinity",
-      "worship",
-      "glory",
       "majesty"
     ],
     "scriptures": [
@@ -2645,7 +3071,15 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "holiness",
+      "trinity",
+      "worship",
+      "glory",
+      "majesty"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "How Deep the Father's Love for us",
@@ -2654,9 +3088,7 @@
     "themes": [
       "atonement",
       "love",
-      "grace",
-      "cross",
-      "salvation"
+      "cross"
     ],
     "scriptures": [
       "Romans 5:8",
@@ -2683,7 +3115,15 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "atonement",
+      "love",
+      "grace",
+      "cross",
+      "salvation"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "How Great Thou Art",
@@ -2691,11 +3131,7 @@
     "type": "Hymn",
     "themes": [
       "creation",
-      "glory",
-      "praise",
-      "majesty",
-      "worship",
-      "salvation"
+      "majesty"
     ],
     "scriptures": [
       "Psalm 8:3-4",
@@ -2722,7 +3158,16 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "creation",
+      "glory",
+      "praise",
+      "majesty",
+      "worship",
+      "salvation"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "I Need Thee Every Hour",
@@ -2730,8 +3175,7 @@
     "type": "Hymn",
     "themes": [
       "dependence",
-      "prayer",
-      "trust"
+      "prayer"
     ],
     "scriptures": [
       "John 15:5",
@@ -2757,7 +3201,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "dependence",
+      "prayer",
+      "trust"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "I Stand Amazed",
@@ -2765,8 +3215,7 @@
     "type": "Hymn",
     "themes": [
       "love",
-      "atonement",
-      "grace"
+      "atonement"
     ],
     "scriptures": [
       "Romans 5:8",
@@ -2792,19 +3241,22 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "love",
+      "atonement",
+      "grace"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "In Christ Alone",
     "author": "Keith Getty / Stuart Townend",
     "type": "Contemporary",
     "themes": [
-      "salvation",
       "atonement",
       "resurrection",
-      "assurance",
-      "christ",
-      "hope"
+      "assurance"
     ],
     "scriptures": [
       "Ephesians 2:8-9",
@@ -2838,7 +3290,16 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "salvation",
+      "atonement",
+      "resurrection",
+      "assurance",
+      "christ",
+      "hope"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "It is Well",
@@ -2846,7 +3307,6 @@
     "type": "Hymn",
     "themes": [
       "peace",
-      "trust",
       "suffering"
     ],
     "scriptures": [
@@ -2873,7 +3333,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "peace",
+      "trust",
+      "suffering"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Jesus Paid it all",
@@ -2882,10 +3348,7 @@
     "themes": [
       "atonement",
       "redemption",
-      "forgiveness",
-      "cross",
-      "grace",
-      "salvation"
+      "forgiveness"
     ],
     "scriptures": [
       "Colossians 2:13-14",
@@ -2912,7 +3375,16 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "atonement",
+      "redemption",
+      "forgiveness",
+      "cross",
+      "grace",
+      "salvation"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Nothing but the Blood",
@@ -2921,9 +3393,7 @@
     "themes": [
       "atonement",
       "forgiveness",
-      "redemption",
-      "cross",
-      "salvation"
+      "redemption"
     ],
     "scriptures": [
       "1 John 1:7",
@@ -2950,14 +3420,21 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "atonement",
+      "forgiveness",
+      "redemption",
+      "cross",
+      "salvation"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "The Solid Rock",
     "author": "",
     "type": "Hymn",
     "themes": [
-      "trust",
       "foundation",
       "assurance"
     ],
@@ -2985,7 +3462,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "trust",
+      "foundation",
+      "assurance"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "The Wonderful Cross (When I Survey)",
@@ -3020,16 +3503,20 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "atonement",
+      "surrender",
+      "love"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Turn Your Eyes",
     "author": "Sovereign Grace Music",
     "type": "Contemporary",
     "themes": [
-      "christ",
       "devotion",
-      "worship",
       "hope"
     ],
     "scriptures": [
@@ -3059,7 +3546,14 @@
     ],
     "reviewNote": "The Well supplied this exact Spotify recording; theological and direct-lyric verification remain editorial.",
     "spotifyUrl": "https://open.spotify.com/track/0dTOSYfLsKvbeG7Xv6Onjc",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "christ",
+      "devotion",
+      "worship",
+      "hope"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "What a Friend we Have in Jesus",
@@ -3067,8 +3561,7 @@
     "type": "Hymn",
     "themes": [
       "prayer",
-      "comfort",
-      "trust"
+      "comfort"
     ],
     "scriptures": [
       "Philippians 4:6-7",
@@ -3094,7 +3587,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "prayer",
+      "comfort",
+      "trust"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "My Worth is Not in What I Own",
@@ -3102,11 +3601,8 @@
     "type": "Contemporary",
     "themes": [
       "identity",
-      "christ",
       "atonement",
-      "cross",
-      "humility",
-      "salvation"
+      "cross"
     ],
     "scriptures": [
       "Philippians 3:7-8",
@@ -3133,7 +3629,16 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "identity",
+      "christ",
+      "atonement",
+      "cross",
+      "humility",
+      "salvation"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Before the Throne",
@@ -3168,7 +3673,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "intercession",
+      "assurance",
+      "atonement"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "There is a Fountain (Full of Love)",
@@ -3205,16 +3716,21 @@
     ],
     "reviewNote": "The Well supplied this exact Spotify recording; theological and direct-lyric verification remain editorial.",
     "spotifyUrl": "https://open.spotify.com/track/1ZoIscSn8Hdcs8tXodPak6",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "atonement",
+      "forgiveness",
+      "redemption"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "10,000 Reasons",
     "author": "",
     "type": "Contemporary",
     "themes": [
-      "praise",
       "gratitude",
-      "worship"
+      "praise"
     ],
     "scriptures": [
       "Psalm 103:1-5"
@@ -3233,17 +3749,20 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "praise",
+      "gratitude",
+      "worship"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Agnus Dei",
     "author": "Michael W. Smith",
     "type": "Contemporary",
     "themes": [
-      "holiness",
-      "worship",
-      "christ",
-      "glory"
+      "holiness"
     ],
     "scriptures": [
       "Revelation 5:12",
@@ -3270,7 +3789,14 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "holiness",
+      "worship",
+      "christ",
+      "glory"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Cornerstone",
@@ -3278,9 +3804,6 @@
     "type": "Contemporary",
     "themes": [
       "foundation",
-      "trust",
-      "christ",
-      "hope",
       "assurance",
       "faith"
     ],
@@ -3309,7 +3832,16 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "foundation",
+      "trust",
+      "christ",
+      "hope",
+      "assurance",
+      "faith"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Did you feel the Mountains Tremble",
@@ -3317,7 +3849,6 @@
     "type": "Contemporary",
     "themes": [
       "revival",
-      "praise",
       "joy"
     ],
     "scriptures": [
@@ -3344,7 +3875,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "revival",
+      "praise",
+      "joy"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Forever Reign",
@@ -3352,8 +3889,7 @@
     "type": "Contemporary",
     "themes": [
       "kingship",
-      "love",
-      "trust"
+      "love"
     ],
     "scriptures": [
       "Psalm 136:1",
@@ -3379,7 +3915,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "kingship",
+      "love",
+      "trust"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Lord I Need You",
@@ -3387,10 +3929,8 @@
     "type": "Contemporary",
     "themes": [
       "dependence",
-      "grace",
       "prayer",
-      "humility",
-      "faith"
+      "humility"
     ],
     "scriptures": [
       "Hebrews 4:16",
@@ -3417,7 +3957,15 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "dependence",
+      "grace",
+      "prayer",
+      "humility",
+      "faith"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "The Stand",
@@ -3425,8 +3973,7 @@
     "type": "Contemporary",
     "themes": [
       "surrender",
-      "atonement",
-      "worship"
+      "atonement"
     ],
     "scriptures": [
       "Romans 12:1",
@@ -3452,14 +3999,19 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "surrender",
+      "atonement",
+      "worship"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Marvelous Light",
     "author": "",
     "type": "Contemporary",
     "themes": [
-      "salvation",
       "light",
       "freedom"
     ],
@@ -3480,16 +4032,19 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "salvation",
+      "light",
+      "freedom"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "How Great is our God",
     "author": "Chris Tomlin",
     "type": "Contemporary",
     "themes": [
-      "glory",
-      "praise",
-      "worship",
       "majesty",
       "creation"
     ],
@@ -3518,7 +4073,15 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "glory",
+      "praise",
+      "worship",
+      "majesty",
+      "creation"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Because He Lives",
@@ -3526,7 +4089,6 @@
     "type": "Contemporary",
     "themes": [
       "resurrection",
-      "hope",
       "assurance"
     ],
     "scriptures": [
@@ -3553,7 +4115,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "resurrection",
+      "hope",
+      "assurance"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Amazing Love",
@@ -3561,7 +4129,6 @@
     "type": "Contemporary",
     "themes": [
       "atonement",
-      "grace",
       "love"
     ],
     "scriptures": [
@@ -3590,7 +4157,13 @@
     ],
     "reviewNote": "The Well supplied this exact Spotify recording; theological and direct-lyric verification remain editorial.",
     "spotifyUrl": "https://open.spotify.com/track/6SvW9GN8EBSqfgBJfC3rHA",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "atonement",
+      "grace",
+      "love"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Better is One Day",
@@ -3598,8 +4171,7 @@
     "type": "Contemporary",
     "themes": [
       "presence",
-      "devotion",
-      "worship"
+      "devotion"
     ],
     "scriptures": [
       "Psalm 84:10"
@@ -3618,7 +4190,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "presence",
+      "devotion",
+      "worship"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "As the Deer",
@@ -3626,8 +4204,7 @@
     "type": "Contemporary",
     "themes": [
       "longing",
-      "devotion",
-      "trust"
+      "devotion"
     ],
     "scriptures": [
       "Psalm 42:1-2"
@@ -3646,17 +4223,22 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "longing",
+      "devotion",
+      "trust"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Blessed be Your name",
     "author": "Matt Redman",
     "type": "Contemporary",
     "themes": [
-      "praise",
       "suffering",
-      "trust",
-      "worship"
+      "praise",
+      "trust"
     ],
     "scriptures": [
       "Job 1:21"
@@ -3676,7 +4258,14 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "praise",
+      "suffering",
+      "trust",
+      "worship"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Thank You, Lord (Thanksgiving)",
@@ -3684,7 +4273,6 @@
     "type": "Contemporary",
     "themes": [
       "gratitude",
-      "praise",
       "provision"
     ],
     "scriptures": [
@@ -3713,7 +4301,13 @@
     ],
     "reviewNote": "The Well supplied this exact Spotify recording; theological and direct-lyric verification remain editorial.",
     "spotifyUrl": "https://open.spotify.com/track/47OVdcEEVaKGPzt49VM8gg",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "gratitude",
+      "praise",
+      "provision"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Angels (Glory to God)",
@@ -3722,7 +4316,6 @@
     "themes": [
       "advent",
       "incarnation",
-      "glory",
       "praise"
     ],
     "scriptures": [
@@ -3744,7 +4337,14 @@
     ],
     "reviewNote": "The Well supplied this exact Spotify recording; theological and direct-lyric verification remain editorial.",
     "spotifyUrl": "https://open.spotify.com/track/42DchnaF99pgKjfktVMU5g",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "advent",
+      "incarnation",
+      "glory",
+      "praise"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Behold",
@@ -3753,7 +4353,7 @@
     "themes": [
       "advent",
       "incarnation",
-      "christ"
+      "worship"
     ],
     "scriptures": [
       "John 1:14"
@@ -3774,16 +4374,20 @@
     ],
     "reviewNote": "The Well supplied this exact Spotify recording; theological and direct-lyric verification remain editorial.",
     "spotifyUrl": "https://open.spotify.com/track/1gGU2zFtIMMx2SAA5d0XyJ",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "advent",
+      "incarnation",
+      "christ"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Behold Him",
     "author": "",
     "type": "Contemporary",
     "themes": [
-      "advent",
-      "christ",
-      "worship"
+      "advent"
     ],
     "scriptures": [
       "John 1:29",
@@ -3809,7 +4413,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "advent",
+      "christ",
+      "worship"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Come Thou Long Expected Jesus",
@@ -3817,7 +4427,6 @@
     "type": "Contemporary",
     "themes": [
       "advent",
-      "hope",
       "incarnation"
     ],
     "scriptures": [
@@ -3844,16 +4453,22 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "advent",
+      "hope",
+      "incarnation"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "God With Us",
     "author": "",
     "type": "Contemporary",
     "themes": [
-      "advent",
       "incarnation",
-      "presence"
+      "presence",
+      "advent"
     ],
     "scriptures": [
       "Matthew 1:23",
@@ -3881,7 +4496,13 @@
     ],
     "reviewNote": "The Well supplied this exact Spotify recording; theological and direct-lyric verification remain editorial.",
     "spotifyUrl": "https://open.spotify.com/track/3SaQ6G0onYI3WpQ5CzCTfL",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "advent",
+      "incarnation",
+      "presence"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Hark the Herald Angels Sing",
@@ -3889,8 +4510,7 @@
     "type": "Contemporary",
     "themes": [
       "advent",
-      "incarnation",
-      "glory"
+      "incarnation"
     ],
     "scriptures": [
       "Luke 2:13-14",
@@ -3916,7 +4536,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "advent",
+      "incarnation",
+      "glory"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Joy to the World (Joyful, Joyful)",
@@ -3953,7 +4579,13 @@
     ],
     "reviewNote": "The Well supplied this exact Spotify recording; theological and direct-lyric verification remain editorial.",
     "spotifyUrl": "https://open.spotify.com/track/2CBsK876b5MGc6PXorYiaB",
-    "recordingReference": "provided-by-the-well"
+    "recordingReference": "provided-by-the-well",
+    "legacyThemes": [
+      "advent",
+      "joy",
+      "kingship"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Manger Throne",
@@ -3988,7 +4620,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "advent",
+      "incarnation",
+      "kingship"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "O Come all Ye Faithful",
@@ -3996,8 +4634,7 @@
     "type": "Contemporary",
     "themes": [
       "advent",
-      "incarnation",
-      "worship"
+      "incarnation"
     ],
     "scriptures": [
       "Luke 2:15-16",
@@ -4023,7 +4660,13 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "advent",
+      "incarnation",
+      "worship"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "O Holy Night",
@@ -4031,8 +4674,7 @@
     "type": "Contemporary",
     "themes": [
       "advent",
-      "incarnation",
-      "hope"
+      "incarnation"
     ],
     "scriptures": [
       "Luke 2:10-11",
@@ -4058,15 +4700,19 @@
         "note": "Passage illustrates a prominent theme; not asserted as a direct lyric citation."
       }
     ],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established."
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "advent",
+      "incarnation",
+      "hope"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "And Can It Be",
     "author": "Charles Wesley",
     "type": "Hymn",
     "themes": [
-      "grace",
-      "salvation",
       "freedom",
       "atonement",
       "assurance"
@@ -4080,7 +4726,15 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "grace",
+      "salvation",
+      "freedom",
+      "atonement",
+      "assurance"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Before the Throne of God Above",
@@ -4089,9 +4743,7 @@
     "themes": [
       "intercession",
       "assurance",
-      "atonement",
-      "grace",
-      "christ"
+      "atonement"
     ],
     "scriptures": [
       "Hebrews 4:14-16",
@@ -4102,7 +4754,15 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "intercession",
+      "assurance",
+      "atonement",
+      "grace",
+      "christ"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "It Is Well with My Soul",
@@ -4111,9 +4771,7 @@
     "themes": [
       "peace",
       "suffering",
-      "trust",
-      "assurance",
-      "hope"
+      "assurance"
     ],
     "scriptures": [
       "Philippians 4:7",
@@ -4124,7 +4782,15 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "peace",
+      "suffering",
+      "trust",
+      "assurance",
+      "hope"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "A Mighty Fortress Is Our God",
@@ -4132,10 +4798,8 @@
     "type": "Hymn",
     "themes": [
       "refuge",
-      "trust",
       "victory",
-      "spiritual warfare",
-      "faithfulness"
+      "spiritual warfare"
     ],
     "scriptures": [
       "Psalm 46:1-11",
@@ -4146,7 +4810,15 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "refuge",
+      "trust",
+      "victory",
+      "spiritual warfare",
+      "faithfulness"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "All Creatures of Our God and King",
@@ -4154,9 +4826,7 @@
     "type": "Hymn",
     "themes": [
       "creation",
-      "praise",
-      "worship",
-      "glory"
+      "praise"
     ],
     "scriptures": [
       "Psalm 148:1-14",
@@ -4166,7 +4836,14 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "creation",
+      "praise",
+      "worship",
+      "glory"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Crown Him with Many Crowns",
@@ -4174,10 +4851,8 @@
     "type": "Hymn",
     "themes": [
       "kingship",
-      "christ",
       "majesty",
-      "resurrection",
-      "glory"
+      "resurrection"
     ],
     "scriptures": [
       "Revelation 19:12-16",
@@ -4188,7 +4863,15 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "kingship",
+      "christ",
+      "majesty",
+      "resurrection",
+      "glory"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "When I Survey the Wondrous Cross",
@@ -4197,9 +4880,7 @@
     "themes": [
       "cross",
       "atonement",
-      "devotion",
-      "sacrifice",
-      "humility"
+      "devotion"
     ],
     "scriptures": [
       "Galatians 6:14",
@@ -4210,7 +4891,15 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "cross",
+      "atonement",
+      "devotion",
+      "sacrifice",
+      "humility"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Christ the Lord Is Risen Today",
@@ -4218,10 +4907,7 @@
     "type": "Hymn",
     "themes": [
       "resurrection",
-      "victory",
-      "hope",
-      "christ",
-      "praise"
+      "victory"
     ],
     "scriptures": [
       "1 Corinthians 15:20-22",
@@ -4232,7 +4918,15 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "resurrection",
+      "victory",
+      "hope",
+      "christ",
+      "praise"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "All Hail the Power of Jesus' Name",
@@ -4240,10 +4934,7 @@
     "type": "Hymn",
     "themes": [
       "kingship",
-      "praise",
-      "glory",
-      "christ",
-      "worship"
+      "praise"
     ],
     "scriptures": [
       "Philippians 2:9-11",
@@ -4254,7 +4945,15 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "kingship",
+      "praise",
+      "glory",
+      "christ",
+      "worship"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Abide with Me",
@@ -4263,9 +4962,7 @@
     "themes": [
       "presence",
       "suffering",
-      "comfort",
-      "hope",
-      "faithfulness"
+      "comfort"
     ],
     "scriptures": [
       "Luke 24:29",
@@ -4276,18 +4973,23 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "presence",
+      "suffering",
+      "comfort",
+      "hope",
+      "faithfulness"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Doxology (Praise God from Whom All Blessings Flow)",
     "author": "Thomas Ken",
     "type": "Hymn",
     "themes": [
-      "praise",
       "trinity",
-      "gratitude",
-      "worship",
-      "glory"
+      "gratitude"
     ],
     "scriptures": [
       "Ephesians 1:3",
@@ -4298,15 +5000,21 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "praise",
+      "trinity",
+      "gratitude",
+      "worship",
+      "glory"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "The Lord Is My Salvation",
     "author": "Keith Getty / Kristyn Getty / Nathan Nockels / Jonas Myrin",
     "type": "Contemporary",
     "themes": [
-      "salvation",
-      "trust",
       "refuge",
       "victory",
       "assurance"
@@ -4320,7 +5028,15 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "salvation",
+      "trust",
+      "refuge",
+      "victory",
+      "assurance"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "He Will Hold Me Fast",
@@ -4329,9 +5045,7 @@
     "themes": [
       "perseverance",
       "assurance",
-      "faithfulness",
-      "trust",
-      "salvation"
+      "faithfulness"
     ],
     "scriptures": [
       "John 10:27-29",
@@ -4342,7 +5056,15 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "perseverance",
+      "assurance",
+      "faithfulness",
+      "trust",
+      "salvation"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Living Hope",
@@ -4350,8 +5072,6 @@
     "type": "Contemporary",
     "themes": [
       "resurrection",
-      "salvation",
-      "hope",
       "mercy",
       "cross"
     ],
@@ -4364,16 +5084,22 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "resurrection",
+      "salvation",
+      "hope",
+      "mercy",
+      "cross"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "10,000 Reasons (Bless the Lord)",
     "author": "Matt Redman / Jonas Myrin",
     "type": "Contemporary",
     "themes": [
-      "praise",
       "gratitude",
-      "worship",
       "faithfulness",
       "mercy"
     ],
@@ -4386,7 +5112,15 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "praise",
+      "gratitude",
+      "worship",
+      "faithfulness",
+      "mercy"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "O Praise the Name (Anástasis)",
@@ -4394,10 +5128,7 @@
     "type": "Contemporary",
     "themes": [
       "cross",
-      "resurrection",
-      "praise",
-      "hope",
-      "christ"
+      "resurrection"
     ],
     "scriptures": [
       "Luke 23:50-56",
@@ -4408,18 +5139,23 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "cross",
+      "resurrection",
+      "praise",
+      "hope",
+      "christ"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Is He Worthy?",
     "author": "Andrew Peterson / Ben Shive",
     "type": "Contemporary",
     "themes": [
-      "christ",
       "kingship",
-      "redemption",
-      "worship",
-      "glory"
+      "redemption"
     ],
     "scriptures": [
       "Revelation 5:1-14"
@@ -4429,7 +5165,15 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "christ",
+      "kingship",
+      "redemption",
+      "worship",
+      "glory"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Psalm 23 (Surely Goodness, Surely Mercy)",
@@ -4437,10 +5181,8 @@
     "type": "Contemporary",
     "themes": [
       "shepherd",
-      "trust",
       "comfort",
-      "provision",
-      "goodness"
+      "provision"
     ],
     "scriptures": [
       "Psalm 23:1-6"
@@ -4450,7 +5192,15 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "shepherd",
+      "trust",
+      "comfort",
+      "provision",
+      "goodness"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Psalm 46 (Lord of Hosts)",
@@ -4458,10 +5208,8 @@
     "type": "Contemporary",
     "themes": [
       "refuge",
-      "trust",
       "strength",
-      "spiritual warfare",
-      "faithfulness"
+      "spiritual warfare"
     ],
     "scriptures": [
       "Psalm 46:1-11"
@@ -4470,16 +5218,21 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "refuge",
+      "trust",
+      "strength",
+      "spiritual warfare",
+      "faithfulness"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "All I Have Is Christ",
     "author": "Jordan Kauflin",
     "type": "Contemporary",
     "themes": [
-      "salvation",
-      "grace",
-      "christ",
       "redemption",
       "devotion"
     ],
@@ -4492,18 +5245,24 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "salvation",
+      "grace",
+      "christ",
+      "redemption",
+      "devotion"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Come Behold the Wondrous Mystery",
     "author": "Matt Boswell / Matt Papa / Michael Bleecker",
     "type": "Contemporary",
     "themes": [
-      "christ",
       "incarnation",
       "atonement",
-      "resurrection",
-      "gospel"
+      "resurrection"
     ],
     "scriptures": [
       "Colossians 1:15-20",
@@ -4514,7 +5273,15 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "christ",
+      "incarnation",
+      "atonement",
+      "resurrection",
+      "gospel"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Only a Holy God",
@@ -4522,10 +5289,7 @@
     "type": "Contemporary",
     "themes": [
       "holiness",
-      "majesty",
-      "worship",
-      "grace",
-      "christ"
+      "majesty"
     ],
     "scriptures": [
       "Isaiah 6:1-5",
@@ -4536,7 +5300,15 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "holiness",
+      "majesty",
+      "worship",
+      "grace",
+      "christ"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Speak O Lord",
@@ -4545,9 +5317,7 @@
     "themes": [
       "scripture",
       "sanctification",
-      "discipleship",
-      "truth",
-      "prayer"
+      "discipleship"
     ],
     "scriptures": [
       "2 Timothy 3:16-17",
@@ -4558,7 +5328,15 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "scripture",
+      "sanctification",
+      "discipleship",
+      "truth",
+      "prayer"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "I Surrender All",
@@ -4567,9 +5345,7 @@
     "themes": [
       "surrender",
       "devotion",
-      "repentance",
-      "discipleship",
-      "humility"
+      "repentance"
     ],
     "scriptures": [
       "Romans 12:1",
@@ -4580,7 +5356,15 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "surrender",
+      "devotion",
+      "repentance",
+      "discipleship",
+      "humility"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Take My Life and Let It Be",
@@ -4589,8 +5373,7 @@
     "themes": [
       "dedication",
       "discipleship",
-      "surrender",
-      "sanctification"
+      "surrender"
     ],
     "scriptures": [
       "Romans 12:1-2",
@@ -4601,7 +5384,14 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "dedication",
+      "discipleship",
+      "surrender",
+      "sanctification"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "O Church Arise",
@@ -4610,9 +5400,7 @@
     "themes": [
       "church",
       "mission",
-      "spiritual warfare",
-      "discipleship",
-      "perseverance"
+      "spiritual warfare"
     ],
     "scriptures": [
       "Ephesians 6:10-18",
@@ -4623,7 +5411,15 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "church",
+      "mission",
+      "spiritual warfare",
+      "discipleship",
+      "perseverance"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Facing a Task Unfinished",
@@ -4632,8 +5428,7 @@
     "themes": [
       "mission",
       "church",
-      "evangelism",
-      "discipleship"
+      "evangelism"
     ],
     "scriptures": [
       "Matthew 28:18-20",
@@ -4643,7 +5438,14 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "mission",
+      "church",
+      "evangelism",
+      "discipleship"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "The Church's One Foundation",
@@ -4652,9 +5454,7 @@
     "themes": [
       "church",
       "unity",
-      "christ",
-      "faithfulness",
-      "hope"
+      "faithfulness"
     ],
     "scriptures": [
       "Ephesians 2:19-22",
@@ -4665,7 +5465,15 @@
     "reviewStatus": "editorial-unverified",
     "source": "editorial starter entry",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "church",
+      "unity",
+      "christ",
+      "faithfulness",
+      "hope"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Good Good Father",
@@ -4674,9 +5482,7 @@
     "themes": [
       "fatherhood",
       "love",
-      "identity",
-      "goodness",
-      "trust"
+      "identity"
     ],
     "scriptures": [],
     "year": 2015,
@@ -4684,16 +5490,21 @@
     "source": "editorial starter entry",
     "id": "song-0052",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "fatherhood",
+      "love",
+      "identity",
+      "goodness",
+      "trust"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "What a Beautiful Name",
     "author": "Hillsong Worship",
     "type": "Contemporary",
     "themes": [
-      "christ",
-      "glory",
-      "worship",
       "exaltation",
       "resurrection"
     ],
@@ -4703,7 +5514,15 @@
     "source": "editorial starter entry",
     "id": "song-0053",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "christ",
+      "glory",
+      "worship",
+      "exaltation",
+      "resurrection"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "So Will I (100 Billion X)",
@@ -4712,9 +5531,7 @@
     "themes": [
       "creation",
       "sovereignty",
-      "worship",
-      "cross",
-      "obedience"
+      "cross"
     ],
     "scriptures": [],
     "year": 2017,
@@ -4722,7 +5539,15 @@
     "source": "editorial starter entry",
     "id": "song-0055",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "creation",
+      "sovereignty",
+      "worship",
+      "cross",
+      "obedience"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Oceans (Where Feet May Fail)",
@@ -4730,7 +5555,6 @@
     "type": "Contemporary",
     "themes": [
       "faith",
-      "trust",
       "presence",
       "discipleship"
     ],
@@ -4740,7 +5564,14 @@
     "source": "editorial starter entry",
     "id": "song-0056",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "faith",
+      "trust",
+      "presence",
+      "discipleship"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Another in the Fire",
@@ -4749,7 +5580,6 @@
     "themes": [
       "suffering",
       "presence",
-      "trust",
       "deliverance"
     ],
     "scriptures": [],
@@ -4758,7 +5588,14 @@
     "source": "editorial starter entry",
     "id": "song-0057",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "suffering",
+      "presence",
+      "trust",
+      "deliverance"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "RATTLE!",
@@ -4767,7 +5604,6 @@
     "themes": [
       "resurrection",
       "new life",
-      "hope",
       "power"
     ],
     "scriptures": [],
@@ -4776,7 +5612,14 @@
     "source": "editorial starter entry",
     "id": "song-0059",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "resurrection",
+      "new life",
+      "hope",
+      "power"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Same God",
@@ -4785,7 +5628,6 @@
     "themes": [
       "faithfulness",
       "prayer",
-      "trust",
       "deliverance"
     ],
     "scriptures": [],
@@ -4794,7 +5636,14 @@
     "source": "editorial starter entry",
     "id": "song-0061",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "faithfulness",
+      "prayer",
+      "trust",
+      "deliverance"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Do It Again",
@@ -4802,8 +5651,6 @@
     "type": "Contemporary",
     "themes": [
       "faithfulness",
-      "trust",
-      "hope",
       "provision"
     ],
     "scriptures": [],
@@ -4812,7 +5659,14 @@
     "source": "editorial starter entry",
     "id": "song-0062",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "faithfulness",
+      "trust",
+      "hope",
+      "provision"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "The Blessing (Live)",
@@ -4821,8 +5675,7 @@
     "themes": [
       "blessing",
       "peace",
-      "presence",
-      "family"
+      "presence"
     ],
     "scriptures": [],
     "year": 2020,
@@ -4830,17 +5683,22 @@
     "source": "editorial starter entry",
     "id": "song-0063",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "blessing",
+      "peace",
+      "presence",
+      "family"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "See a Victory",
     "author": "Elevation Worship",
     "type": "Contemporary",
     "themes": [
-      "trust",
       "spiritual warfare",
-      "deliverance",
-      "hope"
+      "deliverance"
     ],
     "scriptures": [],
     "year": 2019,
@@ -4848,16 +5706,21 @@
     "source": "editorial starter entry",
     "id": "song-0064",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "trust",
+      "spiritual warfare",
+      "deliverance",
+      "hope"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Praise",
     "author": "Elevation Worship",
     "type": "Contemporary",
     "themes": [
-      "praise",
       "joy",
-      "worship",
       "gratitude"
     ],
     "scriptures": [],
@@ -4866,7 +5729,14 @@
     "source": "editorial starter entry",
     "id": "song-0065",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "praise",
+      "joy",
+      "worship",
+      "gratitude"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "The Cross Has the Final Word",
@@ -4875,8 +5745,7 @@
     "themes": [
       "cross",
       "victory",
-      "atonement",
-      "resurrection"
+      "atonement"
     ],
     "scriptures": [],
     "year": 2017,
@@ -4884,14 +5753,20 @@
     "source": "editorial starter entry",
     "id": "song-0070",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "cross",
+      "victory",
+      "atonement",
+      "resurrection"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Battle Belongs",
     "author": "Phil Wickham",
     "type": "Contemporary",
     "themes": [
-      "trust",
       "spiritual warfare",
       "prayer",
       "deliverance"
@@ -4902,17 +5777,22 @@
     "source": "editorial starter entry",
     "id": "song-0072",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "trust",
+      "spiritual warfare",
+      "prayer",
+      "deliverance"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "This Is Our God",
     "author": "Phil Wickham",
     "type": "Contemporary",
     "themes": [
-      "salvation",
       "cross",
-      "resurrection",
-      "praise"
+      "resurrection"
     ],
     "scriptures": [],
     "year": 2023,
@@ -4920,7 +5800,14 @@
     "source": "editorial starter entry",
     "id": "song-0073",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "salvation",
+      "cross",
+      "resurrection",
+      "praise"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "House of the Lord",
@@ -4928,8 +5815,6 @@
     "type": "Contemporary",
     "themes": [
       "joy",
-      "worship",
-      "praise",
       "freedom"
     ],
     "scriptures": [],
@@ -4938,7 +5823,14 @@
     "source": "editorial starter entry",
     "id": "song-0074",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "joy",
+      "worship",
+      "praise",
+      "freedom"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Living Hope (Phil Wickham)",
@@ -4946,8 +5838,6 @@
     "type": "Contemporary",
     "themes": [
       "resurrection",
-      "salvation",
-      "hope",
       "cross"
     ],
     "scriptures": [],
@@ -4956,7 +5846,14 @@
     "source": "editorial starter entry",
     "id": "song-0075",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "resurrection",
+      "salvation",
+      "hope",
+      "cross"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "The Jesus Way",
@@ -4965,8 +5862,7 @@
     "themes": [
       "discipleship",
       "obedience",
-      "mercy",
-      "humility"
+      "mercy"
     ],
     "scriptures": [],
     "year": 2023,
@@ -4974,7 +5870,14 @@
     "source": "editorial starter entry",
     "id": "song-0076",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "discipleship",
+      "obedience",
+      "mercy",
+      "humility"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Revelation Song",
@@ -4982,9 +5885,6 @@
     "type": "Contemporary",
     "themes": [
       "holiness",
-      "glory",
-      "worship",
-      "christ",
       "exaltation"
     ],
     "scriptures": [],
@@ -4993,7 +5893,15 @@
     "source": "editorial starter entry",
     "id": "song-0079",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "holiness",
+      "glory",
+      "worship",
+      "christ",
+      "exaltation"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Forever (We Sing Hallelujah)",
@@ -5002,8 +5910,7 @@
     "themes": [
       "cross",
       "resurrection",
-      "victory",
-      "worship"
+      "victory"
     ],
     "scriptures": [],
     "year": 2013,
@@ -5011,7 +5918,14 @@
     "source": "editorial starter entry",
     "id": "song-0080",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "cross",
+      "resurrection",
+      "victory",
+      "worship"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Here I Am to Worship",
@@ -5019,7 +5933,6 @@
     "type": "Contemporary",
     "themes": [
       "incarnation",
-      "christ",
       "adoration",
       "humility"
     ],
@@ -5029,14 +5942,20 @@
     "source": "editorial starter entry",
     "id": "song-0082",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "incarnation",
+      "christ",
+      "adoration",
+      "humility"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "The Heart of Worship",
     "author": "Matt Redman",
     "type": "Contemporary",
     "themes": [
-      "worship",
       "repentance",
       "devotion",
       "humility"
@@ -5047,7 +5966,14 @@
     "source": "editorial starter entry",
     "id": "song-0083",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "worship",
+      "repentance",
+      "devotion",
+      "humility"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Never Once",
@@ -5056,8 +5982,7 @@
     "themes": [
       "presence",
       "faithfulness",
-      "perseverance",
-      "trust"
+      "perseverance"
     ],
     "scriptures": [],
     "year": 2011,
@@ -5065,7 +5990,14 @@
     "source": "editorial starter entry",
     "id": "song-0085",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "presence",
+      "faithfulness",
+      "perseverance",
+      "trust"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Our God",
@@ -5074,7 +6006,6 @@
     "themes": [
       "power",
       "faith",
-      "trust",
       "deliverance"
     ],
     "scriptures": [],
@@ -5083,7 +6014,14 @@
     "source": "editorial starter entry",
     "id": "song-0086",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "power",
+      "faith",
+      "trust",
+      "deliverance"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Holy Is the Lord",
@@ -5091,8 +6029,6 @@
     "type": "Contemporary",
     "themes": [
       "holiness",
-      "glory",
-      "worship",
       "praise"
     ],
     "scriptures": [],
@@ -5101,7 +6037,14 @@
     "source": "editorial starter entry",
     "id": "song-0088",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "holiness",
+      "glory",
+      "worship",
+      "praise"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Whom Shall I Fear (God of Angel Armies)",
@@ -5109,7 +6052,6 @@
     "type": "Contemporary",
     "themes": [
       "refuge",
-      "trust",
       "spiritual warfare",
       "presence"
     ],
@@ -5119,7 +6061,14 @@
     "source": "editorial starter entry",
     "id": "song-0089",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "refuge",
+      "trust",
+      "spiritual warfare",
+      "presence"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Jesus Messiah",
@@ -5127,10 +6076,7 @@
     "type": "Contemporary",
     "themes": [
       "atonement",
-      "christ",
-      "cross",
-      "grace",
-      "salvation"
+      "cross"
     ],
     "scriptures": [],
     "year": 2008,
@@ -5138,7 +6084,15 @@
     "source": "editorial starter entry",
     "id": "song-0090",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "atonement",
+      "christ",
+      "cross",
+      "grace",
+      "salvation"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "At the Cross (Love Ran Red)",
@@ -5147,8 +6101,7 @@
     "themes": [
       "cross",
       "atonement",
-      "love",
-      "forgiveness"
+      "love"
     ],
     "scriptures": [],
     "year": 2014,
@@ -5156,16 +6109,21 @@
     "source": "editorial starter entry",
     "id": "song-0091",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "cross",
+      "atonement",
+      "love",
+      "forgiveness"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Amazing Grace (My Chains Are Gone)",
     "author": "Chris Tomlin",
     "type": "Contemporary",
     "themes": [
-      "grace",
       "freedom",
-      "salvation",
       "assurance"
     ],
     "scriptures": [],
@@ -5174,7 +6132,14 @@
     "source": "editorial starter entry",
     "id": "song-0092",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "grace",
+      "freedom",
+      "salvation",
+      "assurance"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "I Will Follow",
@@ -5183,7 +6148,6 @@
     "themes": [
       "discipleship",
       "obedience",
-      "trust",
       "surrender"
     ],
     "scriptures": [],
@@ -5192,7 +6156,14 @@
     "source": "editorial starter entry",
     "id": "song-0093",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "discipleship",
+      "obedience",
+      "trust",
+      "surrender"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Indescribable",
@@ -5200,9 +6171,7 @@
     "type": "Contemporary",
     "themes": [
       "creation",
-      "glory",
-      "majesty",
-      "praise"
+      "majesty"
     ],
     "scriptures": [],
     "year": 2004,
@@ -5210,7 +6179,14 @@
     "source": "editorial starter entry",
     "id": "song-0094",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "creation",
+      "glory",
+      "majesty",
+      "praise"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "God of This City",
@@ -5218,7 +6194,6 @@
     "type": "Contemporary",
     "themes": [
       "mission",
-      "hope",
       "kingdom",
       "prayer"
     ],
@@ -5228,7 +6203,14 @@
     "source": "editorial starter entry",
     "id": "song-0095",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "mission",
+      "hope",
+      "kingdom",
+      "prayer"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Lord Have Mercy (For What We Have Done)",
@@ -5237,8 +6219,7 @@
     "themes": [
       "repentance",
       "mercy",
-      "forgiveness",
-      "grace"
+      "forgiveness"
     ],
     "scriptures": [],
     "year": 2013,
@@ -5246,17 +6227,23 @@
     "source": "editorial starter entry",
     "id": "song-0096",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "repentance",
+      "mercy",
+      "forgiveness",
+      "grace"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "All I Have Is Christ (Sovereign Grace)",
     "author": "Sovereign Grace Music",
     "type": "Contemporary",
     "themes": [
-      "salvation",
-      "grace",
       "conversion",
-      "christ"
+      "salvation",
+      "grace"
     ],
     "scriptures": [],
     "year": 2008,
@@ -5264,7 +6251,14 @@
     "source": "editorial starter entry",
     "id": "song-0097",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "salvation",
+      "grace",
+      "conversion",
+      "christ"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "O Great God",
@@ -5273,8 +6267,7 @@
     "themes": [
       "holiness",
       "sanctification",
-      "devotion",
-      "prayer"
+      "devotion"
     ],
     "scriptures": [],
     "year": 2006,
@@ -5282,7 +6275,14 @@
     "source": "editorial starter entry",
     "id": "song-0098",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "holiness",
+      "sanctification",
+      "devotion",
+      "prayer"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Jesus Thank You",
@@ -5291,8 +6291,7 @@
     "themes": [
       "atonement",
       "gratitude",
-      "reconciliation",
-      "cross"
+      "reconciliation"
     ],
     "scriptures": [],
     "year": 2006,
@@ -5300,7 +6299,14 @@
     "source": "editorial starter entry",
     "id": "song-0099",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "atonement",
+      "gratitude",
+      "reconciliation",
+      "cross"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Behold Our God",
@@ -5308,9 +6314,7 @@
     "type": "Contemporary",
     "themes": [
       "sovereignty",
-      "glory",
-      "majesty",
-      "worship"
+      "majesty"
     ],
     "scriptures": [],
     "year": 2011,
@@ -5318,15 +6322,20 @@
     "source": "editorial starter entry",
     "id": "song-0100",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "sovereignty",
+      "glory",
+      "majesty",
+      "worship"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "The Glorious Christ",
     "author": "Sovereign Grace Music",
     "type": "Contemporary",
     "themes": [
-      "christ",
-      "glory",
       "incarnation",
       "resurrection"
     ],
@@ -5336,7 +6345,14 @@
     "source": "editorial starter entry",
     "id": "song-0101",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "christ",
+      "glory",
+      "incarnation",
+      "resurrection"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Your Will Be Done",
@@ -5345,8 +6361,7 @@
     "themes": [
       "surrender",
       "prayer",
-      "obedience",
-      "trust"
+      "obedience"
     ],
     "scriptures": [],
     "year": 2020,
@@ -5354,18 +6369,22 @@
     "source": "editorial starter entry",
     "id": "song-0103",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "surrender",
+      "prayer",
+      "obedience",
+      "trust"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Jesus Strong and Kind",
     "author": "CityAlight",
     "type": "Contemporary",
     "themes": [
-      "christ",
       "comfort",
-      "trust",
-      "children",
-      "grace"
+      "children"
     ],
     "scriptures": [],
     "year": 2019,
@@ -5373,7 +6392,15 @@
     "source": "editorial starter entry",
     "id": "song-0104",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "christ",
+      "comfort",
+      "trust",
+      "children",
+      "grace"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Only a Holy God (CityAlight)",
@@ -5381,9 +6408,7 @@
     "type": "Contemporary",
     "themes": [
       "holiness",
-      "majesty",
-      "worship",
-      "grace"
+      "majesty"
     ],
     "scriptures": [],
     "year": 2016,
@@ -5391,7 +6416,14 @@
     "source": "editorial starter entry",
     "id": "song-0105",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "holiness",
+      "majesty",
+      "worship",
+      "grace"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "The Night Song",
@@ -5399,8 +6431,6 @@
     "type": "Contemporary",
     "themes": [
       "suffering",
-      "hope",
-      "trust",
       "faithfulness"
     ],
     "scriptures": [],
@@ -5409,7 +6439,14 @@
     "source": "editorial starter entry",
     "id": "song-0106",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "suffering",
+      "hope",
+      "trust",
+      "faithfulness"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Ancient of Days",
@@ -5418,8 +6455,7 @@
     "themes": [
       "sovereignty",
       "faithfulness",
-      "kingdom",
-      "hope"
+      "kingdom"
     ],
     "scriptures": [],
     "year": 2018,
@@ -5427,7 +6463,14 @@
     "source": "editorial starter entry",
     "id": "song-0107",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "sovereignty",
+      "faithfulness",
+      "kingdom",
+      "hope"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "God Is for Us",
@@ -5436,8 +6479,7 @@
     "themes": [
       "assurance",
       "grace",
-      "trust",
-      "salvation"
+      "trust"
     ],
     "scriptures": [],
     "year": 2018,
@@ -5445,7 +6487,14 @@
     "source": "editorial starter entry",
     "id": "song-0108",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "assurance",
+      "grace",
+      "trust",
+      "salvation"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "There Is One Gospel",
@@ -5453,8 +6502,6 @@
     "type": "Contemporary",
     "themes": [
       "gospel",
-      "salvation",
-      "christ",
       "church"
     ],
     "scriptures": [],
@@ -5463,7 +6510,14 @@
     "source": "editorial starter entry",
     "id": "song-0109",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "gospel",
+      "salvation",
+      "christ",
+      "church"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "All My Ways Are Known to You",
@@ -5471,7 +6525,6 @@
     "type": "Contemporary",
     "themes": [
       "sovereignty",
-      "trust",
       "guidance",
       "assurance"
     ],
@@ -5481,17 +6534,22 @@
     "source": "editorial starter entry",
     "id": "song-0110",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "sovereignty",
+      "trust",
+      "guidance",
+      "assurance"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Good and Gracious King",
     "author": "CityAlight",
     "type": "Contemporary",
     "themes": [
-      "grace",
-      "worship",
-      "christ",
-      "gratitude"
+      "gratitude",
+      "grace"
     ],
     "scriptures": [],
     "year": 2017,
@@ -5499,7 +6557,14 @@
     "source": "editorial starter entry",
     "id": "song-0111",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "grace",
+      "worship",
+      "christ",
+      "gratitude"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "How I Long to Breathe the Air of Heaven",
@@ -5507,9 +6572,7 @@
     "type": "Contemporary",
     "themes": [
       "heaven",
-      "hope",
-      "perseverance",
-      "christ"
+      "perseverance"
     ],
     "scriptures": [],
     "year": 2020,
@@ -5517,17 +6580,22 @@
     "source": "editorial starter entry",
     "id": "song-0112",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "heaven",
+      "hope",
+      "perseverance",
+      "christ"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Christ the Sure and Steady Anchor",
     "author": "Matt Boswell / Matt Papa",
     "type": "Contemporary",
     "themes": [
-      "trust",
       "assurance",
-      "suffering",
-      "hope"
+      "suffering"
     ],
     "scriptures": [],
     "year": 2015,
@@ -5535,7 +6603,14 @@
     "source": "editorial starter entry",
     "id": "song-0113",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "trust",
+      "assurance",
+      "suffering",
+      "hope"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "His Glory and My Good",
@@ -5543,8 +6618,6 @@
     "type": "Contemporary",
     "themes": [
       "sovereignty",
-      "glory",
-      "trust",
       "sanctification"
     ],
     "scriptures": [],
@@ -5553,16 +6626,21 @@
     "source": "editorial starter entry",
     "id": "song-0114",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "sovereignty",
+      "glory",
+      "trust",
+      "sanctification"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Psalm 34 (Taste and See)",
     "author": "Shane & Shane",
     "type": "Contemporary",
     "themes": [
-      "praise",
       "refuge",
-      "trust",
       "deliverance"
     ],
     "scriptures": [],
@@ -5571,7 +6649,14 @@
     "source": "editorial starter entry",
     "id": "song-0115",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "praise",
+      "refuge",
+      "trust",
+      "deliverance"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Psalm 91 (On Eagles' Wings)",
@@ -5580,7 +6665,6 @@
     "themes": [
       "refuge",
       "protection",
-      "trust",
       "faithfulness"
     ],
     "scriptures": [],
@@ -5589,7 +6673,14 @@
     "source": "editorial starter entry",
     "id": "song-0116",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "refuge",
+      "protection",
+      "trust",
+      "faithfulness"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Psalm 139 (Far Too Wonderful)",
@@ -5598,8 +6689,7 @@
     "themes": [
       "presence",
       "creation",
-      "identity",
-      "sovereignty"
+      "identity"
     ],
     "scriptures": [],
     "year": 2015,
@@ -5607,17 +6697,22 @@
     "source": "editorial starter entry",
     "id": "song-0117",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "presence",
+      "creation",
+      "identity",
+      "sovereignty"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Psalm 145 (I Will Exalt You)",
     "author": "Shane & Shane",
     "type": "Contemporary",
     "themes": [
-      "praise",
       "majesty",
-      "faithfulness",
-      "worship"
+      "faithfulness"
     ],
     "scriptures": [],
     "year": 2015,
@@ -5625,7 +6720,14 @@
     "source": "editorial starter entry",
     "id": "song-0118",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "praise",
+      "majesty",
+      "faithfulness",
+      "worship"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Though You Slay Me",
@@ -5633,7 +6735,6 @@
     "type": "Contemporary",
     "themes": [
       "suffering",
-      "trust",
       "faith",
       "perseverance"
     ],
@@ -5643,7 +6744,14 @@
     "source": "editorial starter entry",
     "id": "song-0119",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "suffering",
+      "trust",
+      "faith",
+      "perseverance"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "I Will Wait for You (Psalm 130)",
@@ -5652,7 +6760,6 @@
     "themes": [
       "waiting",
       "forgiveness",
-      "hope",
       "redemption"
     ],
     "scriptures": [],
@@ -5661,7 +6768,14 @@
     "source": "editorial starter entry",
     "id": "song-0120",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "waiting",
+      "forgiveness",
+      "hope",
+      "redemption"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "By Faith",
@@ -5670,8 +6784,7 @@
     "themes": [
       "faith",
       "obedience",
-      "mission",
-      "perseverance"
+      "mission"
     ],
     "scriptures": [],
     "year": 2009,
@@ -5679,7 +6792,14 @@
     "source": "editorial starter entry",
     "id": "song-0121",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "faith",
+      "obedience",
+      "mission",
+      "perseverance"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "The Power of the Cross",
@@ -5688,8 +6808,7 @@
     "themes": [
       "cross",
       "atonement",
-      "sacrifice",
-      "salvation"
+      "sacrifice"
     ],
     "scriptures": [],
     "year": 2005,
@@ -5697,7 +6816,14 @@
     "source": "editorial starter entry",
     "id": "song-0122",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "cross",
+      "atonement",
+      "sacrifice",
+      "salvation"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Speak O Lord (Getty)",
@@ -5706,8 +6832,7 @@
     "themes": [
       "scripture",
       "prayer",
-      "obedience",
-      "sanctification"
+      "obedience"
     ],
     "scriptures": [],
     "year": 2005,
@@ -5715,7 +6840,14 @@
     "source": "editorial starter entry",
     "id": "song-0123",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "scripture",
+      "prayer",
+      "obedience",
+      "sanctification"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "The Lord Almighty Reigns",
@@ -5723,8 +6855,6 @@
     "type": "Contemporary",
     "themes": [
       "sovereignty",
-      "worship",
-      "glory",
       "kingdom"
     ],
     "scriptures": [],
@@ -5733,7 +6863,14 @@
     "source": "editorial starter entry",
     "id": "song-0124",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "sovereignty",
+      "worship",
+      "glory",
+      "kingdom"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "He Is Our God",
@@ -5741,9 +6878,7 @@
     "type": "Contemporary",
     "themes": [
       "holiness",
-      "glory",
-      "redemption",
-      "worship"
+      "redemption"
     ],
     "scriptures": [],
     "year": 2017,
@@ -5751,7 +6886,14 @@
     "source": "editorial starter entry",
     "id": "song-0125",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "holiness",
+      "glory",
+      "redemption",
+      "worship"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Resurrecting",
@@ -5759,9 +6901,7 @@
     "type": "Contemporary",
     "themes": [
       "resurrection",
-      "victory",
-      "christ",
-      "hope"
+      "victory"
     ],
     "scriptures": [],
     "year": 2015,
@@ -5769,7 +6909,14 @@
     "source": "editorial starter entry",
     "id": "song-0126",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "resurrection",
+      "victory",
+      "christ",
+      "hope"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "No Longer Slaves",
@@ -5778,8 +6925,7 @@
     "themes": [
       "adoption",
       "identity",
-      "freedom",
-      "fear"
+      "freedom"
     ],
     "scriptures": [],
     "year": 2015,
@@ -5787,7 +6933,14 @@
     "source": "editorial starter entry",
     "id": "song-0129",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "adoption",
+      "identity",
+      "freedom",
+      "fear"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Goodness of God (Bethel)",
@@ -5796,8 +6949,7 @@
     "themes": [
       "goodness",
       "faithfulness",
-      "gratitude",
-      "trust"
+      "gratitude"
     ],
     "scriptures": [],
     "year": 2018,
@@ -5805,7 +6957,14 @@
     "source": "editorial starter entry",
     "id": "song-0130",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "goodness",
+      "faithfulness",
+      "gratitude",
+      "trust"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Egypt",
@@ -5813,9 +6972,7 @@
     "type": "Contemporary",
     "themes": [
       "deliverance",
-      "salvation",
-      "freedom",
-      "praise"
+      "freedom"
     ],
     "scriptures": [],
     "year": 2020,
@@ -5823,7 +6980,14 @@
     "source": "editorial starter entry",
     "id": "song-0131",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "deliverance",
+      "salvation",
+      "freedom",
+      "praise"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "The Father's House",
@@ -5831,7 +6995,6 @@
     "type": "Contemporary",
     "themes": [
       "fatherhood",
-      "grace",
       "homecoming",
       "forgiveness"
     ],
@@ -5841,7 +7004,14 @@
     "source": "editorial starter entry",
     "id": "song-0133",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "fatherhood",
+      "grace",
+      "homecoming",
+      "forgiveness"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Rest on Us",
@@ -5850,8 +7020,7 @@
     "themes": [
       "holy spirit",
       "presence",
-      "prayer",
-      "renewal"
+      "prayer"
     ],
     "scriptures": [],
     "year": 2021,
@@ -5859,7 +7028,14 @@
     "source": "editorial starter entry",
     "id": "song-0134",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "holy spirit",
+      "presence",
+      "prayer",
+      "renewal"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Refiner",
@@ -5868,8 +7044,7 @@
     "themes": [
       "sanctification",
       "holiness",
-      "surrender",
-      "renewal"
+      "surrender"
     ],
     "scriptures": [],
     "year": 2019,
@@ -5877,14 +7052,20 @@
     "source": "editorial starter entry",
     "id": "song-0136",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "sanctification",
+      "holiness",
+      "surrender",
+      "renewal"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "I Speak Jesus",
     "author": "Charity Gayle",
     "type": "Contemporary",
     "themes": [
-      "christ",
       "prayer",
       "healing",
       "deliverance"
@@ -5895,17 +7076,22 @@
     "source": "editorial starter entry",
     "id": "song-0138",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "christ",
+      "prayer",
+      "healing",
+      "deliverance"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Great Are You Lord",
     "author": "All Sons & Daughters",
     "type": "Contemporary",
     "themes": [
-      "praise",
-      "worship",
       "creation",
-      "glory"
+      "praise"
     ],
     "scriptures": [],
     "year": 2012,
@@ -5913,17 +7099,23 @@
     "source": "editorial starter entry",
     "id": "song-0140",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "praise",
+      "worship",
+      "creation",
+      "glory"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Your Grace Is Enough",
     "author": "Matt Maher",
     "type": "Contemporary",
     "themes": [
-      "grace",
       "faithfulness",
-      "salvation",
-      "trust"
+      "grace",
+      "salvation"
     ],
     "scriptures": [],
     "year": 2003,
@@ -5931,7 +7123,14 @@
     "source": "editorial starter entry",
     "id": "song-0141",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "grace",
+      "faithfulness",
+      "salvation",
+      "trust"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Because He Lives (Amen)",
@@ -5939,7 +7138,6 @@
     "type": "Contemporary",
     "themes": [
       "resurrection",
-      "hope",
       "faith",
       "eternal life"
     ],
@@ -5949,7 +7147,14 @@
     "source": "editorial starter entry",
     "id": "song-0142",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "resurrection",
+      "hope",
+      "faith",
+      "eternal life"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Lord I Need You (Matt Maher)",
@@ -5957,7 +7162,6 @@
     "type": "Contemporary",
     "themes": [
       "dependence",
-      "grace",
       "repentance",
       "prayer"
     ],
@@ -5967,14 +7171,20 @@
     "source": "editorial starter entry",
     "id": "song-0143",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "dependence",
+      "grace",
+      "repentance",
+      "prayer"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "I Thank God",
     "author": "Maverick City Music / UPPERROOM",
     "type": "Contemporary",
     "themes": [
-      "salvation",
       "freedom",
       "gratitude",
       "testimony"
@@ -5985,7 +7195,14 @@
     "source": "editorial starter entry",
     "id": "song-0144",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "salvation",
+      "freedom",
+      "gratitude",
+      "testimony"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "How He Loves",
@@ -5993,7 +7210,6 @@
     "type": "Contemporary",
     "themes": [
       "love",
-      "grace",
       "mercy",
       "adoration"
     ],
@@ -6003,16 +7219,21 @@
     "source": "editorial starter entry",
     "id": "song-0145",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "love",
+      "grace",
+      "mercy",
+      "adoration"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Goodness Gracious",
     "author": "Sovereign Grace Music",
     "type": "Contemporary",
     "themes": [
-      "grace",
       "mercy",
-      "worship",
       "gratitude"
     ],
     "scriptures": [],
@@ -6021,15 +7242,20 @@
     "source": "editorial starter entry",
     "id": "song-0146",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "grace",
+      "mercy",
+      "worship",
+      "gratitude"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Doxology (Amen)",
     "author": "Phil Wickham",
     "type": "Contemporary",
     "themes": [
-      "praise",
-      "glory",
       "gratitude",
       "trinity"
     ],
@@ -6039,7 +7265,14 @@
     "source": "editorial starter entry",
     "id": "song-0147",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "praise",
+      "glory",
+      "gratitude",
+      "trinity"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Let the Nations Be Glad",
@@ -6047,7 +7280,6 @@
     "type": "Contemporary",
     "themes": [
       "mission",
-      "praise",
       "kingdom",
       "church"
     ],
@@ -6057,17 +7289,21 @@
     "source": "editorial starter entry",
     "id": "song-0148",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "mission",
+      "praise",
+      "kingdom",
+      "church"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "The King in All His Beauty",
     "author": "Matt Boswell / Matt Papa",
     "type": "Contemporary",
     "themes": [
-      "christ",
-      "glory",
-      "majesty",
-      "worship"
+      "majesty"
     ],
     "scriptures": [],
     "year": 2018,
@@ -6075,17 +7311,23 @@
     "source": "editorial starter entry",
     "id": "song-0149",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "christ",
+      "glory",
+      "majesty",
+      "worship"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "All Sufficient Merit",
     "author": "Shane & Shane / Bethany Barnard",
     "type": "Contemporary",
     "themes": [
-      "grace",
       "justification",
-      "salvation",
-      "christ"
+      "grace",
+      "salvation"
     ],
     "scriptures": [],
     "year": 2023,
@@ -6093,7 +7335,14 @@
     "source": "editorial starter entry",
     "id": "song-0150",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "grace",
+      "justification",
+      "salvation",
+      "christ"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Almost Home",
@@ -6101,7 +7350,6 @@
     "type": "Contemporary",
     "themes": [
       "heaven",
-      "hope",
       "perseverance",
       "pilgrimage"
     ],
@@ -6111,14 +7359,20 @@
     "source": "editorial starter entry",
     "id": "song-0151",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "heaven",
+      "hope",
+      "perseverance",
+      "pilgrimage"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "We Will Feast in the House of Zion",
     "author": "Sandra McCracken",
     "type": "Contemporary",
     "themes": [
-      "hope",
       "heaven",
       "church",
       "joy"
@@ -6129,7 +7383,14 @@
     "source": "editorial starter entry",
     "id": "song-0152",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "hope",
+      "heaven",
+      "church",
+      "joy"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Come Ye Sinners",
@@ -6137,8 +7398,6 @@
     "type": "Hymn",
     "themes": [
       "repentance",
-      "grace",
-      "salvation",
       "invitation"
     ],
     "scriptures": [],
@@ -6147,16 +7406,22 @@
     "source": "editorial starter entry",
     "id": "song-0153",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "repentance",
+      "grace",
+      "salvation",
+      "invitation"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "The Solid Rock (My Hope Is Built)",
     "author": "Edward Mote",
     "type": "Hymn",
     "themes": [
-      "trust",
-      "christ",
       "assurance",
+      "trust",
       "hope"
     ],
     "scriptures": [],
@@ -6165,7 +7430,14 @@
     "source": "editorial starter entry",
     "id": "song-0154",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "trust",
+      "christ",
+      "assurance",
+      "hope"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Rock of Ages",
@@ -6173,8 +7445,6 @@
     "type": "Hymn",
     "themes": [
       "atonement",
-      "grace",
-      "salvation",
       "refuge"
     ],
     "scriptures": [],
@@ -6183,15 +7453,20 @@
     "source": "editorial starter entry",
     "id": "song-0155",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "atonement",
+      "grace",
+      "salvation",
+      "refuge"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "All Glory Be to Christ",
     "author": "Dustin Kensrue",
     "type": "Contemporary",
     "themes": [
-      "christ",
-      "glory",
       "kingdom",
       "hope"
     ],
@@ -6201,17 +7476,22 @@
     "source": "editorial starter entry",
     "id": "song-0156",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "christ",
+      "glory",
+      "kingdom",
+      "hope"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Yet Not I but Through Christ in Me (CityAlight)",
     "author": "CityAlight",
     "type": "Contemporary",
     "themes": [
-      "grace",
       "assurance",
-      "sanctification",
-      "christ"
+      "sanctification"
     ],
     "scriptures": [],
     "year": 2018,
@@ -6219,7 +7499,14 @@
     "source": "editorial starter entry",
     "id": "song-0157",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "grace",
+      "assurance",
+      "sanctification",
+      "christ"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Come Jesus Come",
@@ -6227,8 +7514,6 @@
     "type": "Contemporary",
     "themes": [
       "second coming",
-      "hope",
-      "christ",
       "prayer"
     ],
     "scriptures": [],
@@ -6237,16 +7522,20 @@
     "source": "editorial starter entry",
     "id": "song-0158",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "second coming",
+      "hope",
+      "christ",
+      "prayer"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Worthy",
     "author": "Elevation Worship",
     "type": "Contemporary",
     "themes": [
-      "christ",
-      "glory",
-      "worship",
       "adoration"
     ],
     "scriptures": [],
@@ -6255,7 +7544,14 @@
     "source": "editorial starter entry",
     "id": "song-0159",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "christ",
+      "glory",
+      "worship",
+      "adoration"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   },
   {
     "title": "Holy Forever (Chris Tomlin)",
@@ -6263,8 +7559,6 @@
     "type": "Contemporary",
     "themes": [
       "holiness",
-      "worship",
-      "glory",
       "eternity"
     ],
     "scriptures": [],
@@ -6273,6 +7567,13 @@
     "source": "editorial starter entry",
     "id": "song-0160",
     "wellLibrary": false,
-    "wellCategory": null
+    "wellCategory": null,
+    "legacyThemes": [
+      "holiness",
+      "worship",
+      "glory",
+      "eternity"
+    ],
+    "themeReviewStatus": "conservative-editorial-provisional"
   }
 ]
