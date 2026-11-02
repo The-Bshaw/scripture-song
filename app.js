@@ -2,7 +2,7 @@
 const $=q=>document.querySelector(q);
 const BOOKS=['Genesis','Exodus','Leviticus','Numbers','Deuteronomy','Joshua','Judges','Ruth','1 Samuel','2 Samuel','1 Kings','2 Kings','1 Chronicles','2 Chronicles','Ezra','Nehemiah','Esther','Job','Psalm','Proverbs','Ecclesiastes','Song of Solomon','Isaiah','Jeremiah','Lamentations','Ezekiel','Daniel','Hosea','Joel','Amos','Obadiah','Jonah','Micah','Nahum','Habakkuk','Zephaniah','Haggai','Zechariah','Malachi','Matthew','Mark','Luke','John','Acts','Romans','1 Corinthians','2 Corinthians','Galatians','Ephesians','Philippians','Colossians','1 Thessalonians','2 Thessalonians','1 Timothy','2 Timothy','Titus','Philemon','Hebrews','James','1 Peter','2 Peter','1 John','2 John','3 John','Jude','Revelation'];
 const ALIAS={ps:'Psalm',psa:'Psalm',psalms:'Psalm',song:'Song of Solomon',songofsongs:'Song of Solomon',sos:'Song of Solomon',jn:'John',jhn:'John',rom:'Romans',eph:'Ephesians',phil:'Philippians',php:'Philippians',col:'Colossians',gal:'Galatians',jas:'James',heb:'Hebrews',gen:'Genesis',ex:'Exodus',exo:'Exodus',isa:'Isaiah',jer:'Jeremiah',matt:'Matthew',mt:'Matthew',mk:'Mark',mrk:'Mark',lk:'Luke',rev:'Revelation',acts:'Acts',act:'Acts',cor:'1 Corinthians',deut:'Deuteronomy',dt:'Deuteronomy',pet:'1 Peter',tim:'1 Timothy',thess:'1 Thessalonians',sam:'1 Samuel',kings:'1 Kings',chron:'1 Chronicles',zec:'Zechariah',zech:'Zechariah'};
-let songs=[],chapterThemes={},allResults=[],lastRefs=[],availableThemes=[],excludedThemes=new Set();
+let songs=[],chapterThemes={},allResults=[],lastRefs=[],availableThemes=[],excludedThemes=new Set(),bibleOverviews={books:{},chapters:{}},activeDiscovery=null,selectedDiscoveryThemes=new Set();
 const TOPIC_ALIASES={"god's faithfulness":"faithfulness","god's love":"love","holy ghost":"holy spirit","spirit":"holy spirit","forgiven":"forgiveness","forgive":"forgiveness","redeemer":"redemption","redeemed":"redemption","saved":"salvation","savior":"salvation","saviour":"salvation","thanksgiving":"gratitude","thankfulness":"gratitude","thankful":"gratitude","trusting":"trust","worshiping":"worship","worshipping":"worship","humble":"humility","healed":"healing","risen":"resurrection","jesus":"christ","jesus christ":"christ","god's grace":"grace","god's mercy":"mercy"};
 const normTopic=s=>s.toLowerCase().replace(/[’‘]/g,"'").replace(/[^a-z0-9\s']/g,' ').replace(/\s+/g,' ').trim();
 // Controlled theological vocabulary. Specific lyrics retain their original primary tags;
@@ -99,6 +99,45 @@ function rank(refs,topics=[]){
   }).filter(Boolean).sort((a,b)=>b.score-a.score||a.title.localeCompare(b.title));
 }
 
+
+const CHAPTER_COUNTS=[50,40,27,36,34,24,21,4,31,24,22,25,29,36,10,13,10,42,150,31,12,8,66,52,5,48,12,14,3,9,1,4,7,3,3,3,2,14,4,28,16,24,21,28,16,16,13,6,6,4,4,5,3,6,4,3,1,13,5,5,3,5,1,1,1,22];
+const BOOK_CHAPTERS=Object.fromEntries(BOOKS.map((b,i)=>[b,CHAPTER_COUNTS[i]]));
+function parseBookOrChapter(q){
+  const book=normalBook(q.trim());
+  if(book)return {book,chapter:null};
+  const ref=parseRef(q.trim());
+  if(ref&&ref.v===null&&ref.ch===ref.endCh)return {book:ref.book,chapter:ref.ch};
+  return null;
+}
+function renderDiscovery(){
+  const box=$('#bibleDiscovery');
+  if(!activeDiscovery){box.hidden=true;box.innerHTML='';return;}
+  const {book,chapter}=activeDiscovery;
+  const key=chapter?`${book} ${chapter}`:book;
+  const summary=chapter?(bibleOverviews.chapters[key]||`Chapter ${chapter} belongs to ${book}. ${bibleOverviews.books[book]||''}`):(bibleOverviews.books[book]||'');
+  const specific=chapter?chapterThemes[key]||[]:[];
+  const suggested=chapter?specific:activeDiscovery.themes;
+  const list=suggested.length?suggested:activeDiscovery.themes;
+  const qualifies=chapter&&!specific.length;
+  box.hidden=false;
+  box.innerHTML=`<h3>${safe(key)} · Overview</h3><p>${safe(summary)}</p><div class="theme-prompt">${qualifies?'Suggested book-wide themes (chapter themes not yet indexed)':'Explore themes to narrow your songs'}</div><div class="discovery-themes">${list.map(t=>`<button type="button" class="discovery-theme" data-discovery-theme="${safe(t)}" aria-pressed="${selectedDiscoveryThemes.has(normConcept(t))}">${safe(t)}</button>`).join('')}</div>${qualifies?'<p class="discovery-note">These themes describe the book generally, not necessarily this chapter.</p>':''}`;
+}
+$('#bibleDiscovery').addEventListener('click',e=>{
+  const btn=e.target.closest('[data-discovery-theme]');if(!btn||!activeDiscovery)return;
+  const theme=normConcept(btn.dataset.discoveryTheme);
+  if(selectedDiscoveryThemes.has(theme))selectedDiscoveryThemes.delete(theme);else selectedDiscoveryThemes.add(theme);
+  updateDiscoveryResults();
+});
+function updateDiscoveryResults(){
+  if(!activeDiscovery)return;
+  const {book,chapter}=activeDiscovery;
+  const refs=[{book,ch:chapter||1,v:null,endCh:chapter||BOOK_CHAPTERS[book],endV:null}];
+  const topics=[...selectedDiscoveryThemes];
+  allResults=rank(refs,topics);
+  availableThemes=[...new Set([...(chapter?chapterThemes[`${book} ${chapter}`]||[]:activeDiscovery.themes)])];
+  renderDiscovery();renderThemeFilters();render();
+}
+
 function spotifyTrackId(url) {
   const m = String(url || '').match(/^https:\/\/open\.spotify\.com\/track\/([A-Za-z0-9]{22})(?:[/?#]|$)/);
   return m ? m[1] : '';
@@ -145,15 +184,30 @@ function render(){let type=$('#type').value,sort=$('#sort').value,keyword=$('#ke
 }));document.querySelectorAll('.copy-title').forEach(b=>b.addEventListener('click',()=>navigator.clipboard.writeText(b.dataset.copy).then(()=>{b.textContent='Copied ✓'}).catch(()=>{})))}
 document.querySelector('#themes').addEventListener('click',e=>{const b=e.target.closest('[data-exclude-theme]');if(!b)return;const t=b.dataset.excludeTheme;if(excludedThemes.has(t))excludedThemes.delete(t);else excludedThemes.add(t);renderThemeFilters();render()});
 document.querySelector('#songGrid').addEventListener('click',e=>{const b=e.target.closest('[data-theme-search]');if(!b)return;$('#keyword').value='';$('#type').value='all';$('#collection').value='all';run(b.dataset.themeSearch);$('#results').scrollIntoView({behavior:'smooth',block:'start'})});
-function run(query,push=true){excludedThemes.clear();availableThemes=[];const pieces=query.split(/[;,\n]+/).map(s=>s.trim()).filter(Boolean);let refs=[],topicInputs=[];for(const piece of pieces){const r=parseRef(piece);if(r)refs.push(r);else topicInputs.push(piece)}const {topics,unknown}=resolveTopics(topicInputs);if(!refs.length&&!topics.length){const q=query.toLowerCase().trim();const matches=songs.filter(s=>q&&s.title.toLowerCase().includes(q)).map(s=>({...s,linked:[],shared:[],requested:[],score:1}));if(matches.length){allResults=matches;$('#passages').value=query;$('#resultsTitle').textContent='Songs matching “'+query+'”';renderThemeFilters();render();if(push)history.replaceState(null,'',location.pathname+'?passage='+encodeURIComponent(query));return;}$('#resultsTitle').textContent='Search Scripture or a topic';$('#songGrid').innerHTML='';renderThemeFilters();$('#count').textContent='';$('#empty').hidden=true;return}lastRefs=refs;$('#passages').value=query;allResults=rank(refs,topics);const parts=[...refs.map(x=>x.text),...topics.map(x=>x.replace(/\b\w/g,c=>c.toUpperCase()))];$('#resultsTitle').textContent='Songs matching “'+parts.join(' + ')+'”';availableThemes=[...new Set([...topics,...getThemes(refs)])];renderThemeFilters();render();if(push)history.replaceState(null,'',location.pathname+'?passage='+encodeURIComponent(query))}
+function run(query,push=true){excludedThemes.clear();availableThemes=[];activeDiscovery=null;selectedDiscoveryThemes.clear();
+  const bible=parseBookOrChapter(query);
+  if(bible){
+    const {book,chapter}=bible;
+    if(chapter&&chapter>BOOK_CHAPTERS[book]){activeDiscovery=null;renderDiscovery();$('#resultsTitle').textContent='Invalid Bible chapter';$('#count').textContent='';$('#songGrid').innerHTML='';return;}
+    const themes=chapter?[...(chapterThemes[`${book} ${chapter}`]||[])]:[...new Set(Object.entries(chapterThemes).filter(([k])=>k.startsWith(book+' ')).flatMap(([,ts])=>ts))];
+    const bookThemeRows=Object.entries(chapterThemes).filter(([k])=>k.startsWith(book+' ')).flatMap(([,ts])=>ts);
+    const bookThemes=[...new Set(bookThemeRows)].sort((a,b)=>bookThemeRows.filter(t=>t===b).length-bookThemeRows.filter(t=>t===a).length).slice(0,12);
+    activeDiscovery={book,chapter,themes:chapter?(themes.length?themes:bookThemes):bookThemes};
+    $('#passages').value=query;$('#resultsTitle').textContent='Songs matching “'+(chapter?`${book} ${chapter}`:book)+'”';
+    updateDiscoveryResults();
+    if(push)history.replaceState(null,'',location.pathname+'?passage='+encodeURIComponent(query));
+    return;
+  }
+  renderDiscovery();const pieces=query.split(/[;,\n]+/).map(s=>s.trim()).filter(Boolean);let refs=[],topicInputs=[];for(const piece of pieces){const r=parseRef(piece);if(r)refs.push(r);else topicInputs.push(piece)}const {topics,unknown}=resolveTopics(topicInputs);if(!refs.length&&!topics.length){const q=query.toLowerCase().trim();const matches=songs.filter(s=>q&&s.title.toLowerCase().includes(q)).map(s=>({...s,linked:[],shared:[],requested:[],score:1}));if(matches.length){allResults=matches;$('#passages').value=query;$('#resultsTitle').textContent='Songs matching “'+query+'”';renderThemeFilters();render();if(push)history.replaceState(null,'',location.pathname+'?passage='+encodeURIComponent(query));return;}$('#resultsTitle').textContent='Search Scripture or a topic';$('#songGrid').innerHTML='';renderThemeFilters();$('#count').textContent='';$('#empty').hidden=true;return}lastRefs=refs;$('#passages').value=query;allResults=rank(refs,topics);const parts=[...refs.map(x=>x.text),...topics.map(x=>x.replace(/\b\w/g,c=>c.toUpperCase()))];$('#resultsTitle').textContent='Songs matching “'+parts.join(' + ')+'”';availableThemes=[...new Set([...topics,...getThemes(refs)])];renderThemeFilters();render();if(push)history.replaceState(null,'',location.pathname+'?passage='+encodeURIComponent(query))}
 async function init(){try{
   if(location.protocol==='file:' && window.SCRIPTURE_SONG_PREVIEW){
     songs=window.SCRIPTURE_SONG_PREVIEW.songs;
     chapterThemes=window.SCRIPTURE_SONG_PREVIEW.themes;
+    try { bibleOverviews=window.SCRIPTURE_SONG_BIBLE_OVERVIEWS||bibleOverviews; }catch(e){}
   }else{
-    const [a,b]=await Promise.all([fetch('data/songs.json',{cache:'no-store'}),fetch('data/passage-themes.json',{cache:'no-store'})]);
+    const [a,b,c]=await Promise.all([fetch('data/songs.json',{cache:'no-store'}),fetch('data/passage-themes.json',{cache:'no-store'}),fetch('data/bible-overviews.json',{cache:'no-store'})]);
     if(!a.ok||!b.ok)throw Error('Song data request failed: '+a.status+'/'+b.status);
-    songs=await a.json();chapterThemes=await b.json();
+    songs=await a.json();chapterThemes=await b.json();if(c.ok)bibleOverviews=await c.json();
   }
   if(!Array.isArray(songs)||!songs.length)throw Error('Song catalog empty');
   run(new URLSearchParams(location.search).get('passage')||$('#passages').value,false);
