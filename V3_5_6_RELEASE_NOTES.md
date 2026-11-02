@@ -1,0 +1,1 @@
+Genesis 19–50: 32 original chapter summaries and chapter-specific theme lists added. Genesis 1–50 now has written coverage. Overall written summaries: 104. Human verse-level editorial review recommended prior to claiming verified commentary. Existing song data, Spotify links and Google Sheets workflow preserved.

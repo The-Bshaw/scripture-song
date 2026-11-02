@@ -74,14 +74,19 @@
     "presence"
   ],
   "Matthew 5": [
+    "kingdom",
+    "holiness",
+    "righteousness",
     "discipleship",
-    "humility",
-    "holiness"
+    "love",
+    "persecution"
   ],
   "Matthew 7": [
+    "obedience",
     "discipleship",
     "trust",
-    "obedience"
+    "wisdom",
+    "faith"
   ],
   "Matthew 28": [
     "resurrection",
@@ -119,10 +124,11 @@
     "trust"
   ],
   "John 14": [
+    "comfort",
     "peace",
-    "presence",
-    "hope",
-    "christ"
+    "holy spirit",
+    "faith",
+    "presence"
   ],
   "John 15": [
     "devotion",
@@ -150,10 +156,12 @@
     "freedom"
   ],
   "Romans 12": [
-    "surrender",
-    "discipleship",
-    "sanctification",
-    "church"
+    "worship",
+    "transformation",
+    "spiritual gifts",
+    "humility",
+    "love",
+    "service"
   ],
   "1 Corinthians 15": [
     "resurrection",
@@ -313,46 +321,54 @@
     "redemption"
   ],
   "Genesis 12": [
-    "covenant",
+    "calling",
+    "covenant promise",
     "faith",
-    "obedience",
-    "blessing"
+    "blessing to the nations",
+    "fear"
   ],
   "Genesis 22": [
     "faith",
-    "sacrifice",
-    "provision",
-    "obedience"
+    "obedience",
+    "testing",
+    "god's provision",
+    "covenant promise"
   ],
   "Exodus 3": [
-    "holiness",
-    "deliverance",
+    "holiness of god",
+    "god's presence",
     "calling",
-    "presence"
+    "deliverance",
+    "god's name"
   ],
   "Exodus 12": [
+    "passover",
+    "redemption",
     "deliverance",
-    "atonement",
-    "sacrifice",
-    "redemption"
+    "judgment",
+    "remembrance",
+    "worship"
   ],
   "Exodus 14": [
     "deliverance",
     "salvation",
-    "trust",
-    "power"
+    "faith",
+    "god's power",
+    "victory"
   ],
   "Exodus 15": [
     "praise",
+    "holiness of god",
     "deliverance",
-    "glory",
-    "worship"
+    "god's provision",
+    "obedience"
   ],
   "Exodus 20": [
+    "ten commandments",
     "holiness",
+    "worship",
     "obedience",
-    "law",
-    "covenant"
+    "love of neighbor"
   ],
   "Deuteronomy 6": [
     "love",
@@ -396,10 +412,11 @@
     "perseverance"
   ],
   "Psalm 1": [
-    "scripture",
+    "wisdom",
+    "righteousness",
     "obedience",
-    "blessing",
-    "holiness"
+    "word of god",
+    "trust"
   ],
   "Psalm 8": [
     "creation",
@@ -546,10 +563,11 @@
     "worship"
   ],
   "Proverbs 3": [
-    "trust",
-    "guidance",
     "wisdom",
-    "obedience"
+    "trust",
+    "obedience",
+    "peace",
+    "guidance"
   ],
   "Ecclesiastes 3": [
     "sovereignty",
@@ -565,9 +583,10 @@
   ],
   "Isaiah 40": [
     "comfort",
+    "hope",
+    "strength",
     "sovereignty",
-    "majesty",
-    "hope"
+    "faithfulness"
   ],
   "Isaiah 43": [
     "redemption",
@@ -655,9 +674,11 @@
   ],
   "Matthew 6": [
     "prayer",
-    "provision",
     "trust",
-    "kingdom"
+    "kingdom",
+    "generosity",
+    "provision",
+    "faith"
   ],
   "Matthew 11": [
     "rest",
@@ -823,9 +844,10 @@
   ],
   "Acts 2": [
     "holy spirit",
+    "gospel",
+    "repentance",
     "church",
-    "mission",
-    "unity"
+    "baptism"
   ],
   "Acts 4": [
     "prayer",
@@ -913,9 +935,9 @@
   ],
   "1 Corinthians 13": [
     "love",
-    "church",
-    "perseverance",
-    "faith"
+    "faith",
+    "hope",
+    "spiritual gifts"
   ],
   "2 Corinthians 3": [
     "holy spirit",
@@ -932,8 +954,9 @@
   "Galatians 5": [
     "freedom",
     "holy spirit",
-    "sanctification",
-    "love"
+    "love",
+    "holiness",
+    "fruitfulness"
   ],
   "Ephesians 3": [
     "love",
@@ -1074,9 +1097,629 @@
     "christ"
   ],
   "Revelation 22": [
-    "second coming",
-    "christ",
+    "eternal life",
+    "worship",
     "hope",
+    "second coming",
+    "presence"
+  ],
+  "Genesis 2": [
+    "creation",
+    "sabbath rest",
+    "human dignity",
+    "marriage",
+    "obedience"
+  ],
+  "Genesis 4": [
+    "sin",
+    "jealousy",
+    "murder",
+    "judgment",
+    "mercy",
     "worship"
+  ],
+  "Genesis 5": [
+    "image of god",
+    "mortality",
+    "faithfulness",
+    "walking with god",
+    "hope"
+  ],
+  "Genesis 6": [
+    "human wickedness",
+    "divine judgment",
+    "grace",
+    "covenant",
+    "obedience"
+  ],
+  "Genesis 7": [
+    "divine judgment",
+    "obedience",
+    "preservation",
+    "god's protection"
+  ],
+  "Genesis 8": [
+    "god's faithfulness",
+    "deliverance",
+    "renewal",
+    "worship",
+    "mercy"
+  ],
+  "Genesis 9": [
+    "covenant",
+    "sanctity of life",
+    "image of god",
+    "god's mercy",
+    "human sin"
+  ],
+  "Genesis 10": [
+    "nations",
+    "humanity",
+    "god's providence",
+    "genealogy"
+  ],
+  "Genesis 11": [
+    "pride",
+    "human rebellion",
+    "divine judgment",
+    "nations",
+    "god's promise"
+  ],
+  "Genesis 13": [
+    "peace",
+    "generosity",
+    "trust in god",
+    "covenant promise",
+    "worship"
+  ],
+  "Genesis 14": [
+    "deliverance",
+    "god's provision",
+    "blessing",
+    "integrity",
+    "worship"
+  ],
+  "Genesis 15": [
+    "faith",
+    "righteousness",
+    "covenant",
+    "god's promise",
+    "trust"
+  ],
+  "Genesis 16": [
+    "impatience",
+    "human conflict",
+    "god's compassion",
+    "god who sees",
+    "promise"
+  ],
+  "Genesis 17": [
+    "covenant",
+    "god's faithfulness",
+    "obedience",
+    "promise",
+    "identity"
+  ],
+  "Genesis 18": [
+    "god's power",
+    "promise",
+    "hospitality",
+    "intercession",
+    "justice"
+  ],
+  "Ruth 1": [
+    "loyal love",
+    "grief",
+    "faith",
+    "commitment",
+    "hope"
+  ],
+  "Ruth 2": [
+    "god's provision",
+    "kindness",
+    "generosity",
+    "protection",
+    "faithfulness"
+  ],
+  "Ruth 3": [
+    "redemption",
+    "integrity",
+    "loyal love",
+    "protection",
+    "trust"
+  ],
+  "Ruth 4": [
+    "redemption",
+    "restoration",
+    "covenant faithfulness",
+    "blessing",
+    "god's providence"
+  ],
+  "Jonah 1": [
+    "disobedience",
+    "god's sovereignty",
+    "repentance",
+    "mercy",
+    "worship"
+  ],
+  "Jonah 2": [
+    "prayer",
+    "deliverance",
+    "salvation",
+    "thanksgiving",
+    "god's mercy"
+  ],
+  "Jonah 3": [
+    "repentance",
+    "mercy",
+    "judgment",
+    "god's compassion",
+    "obedience"
+  ],
+  "Jonah 4": [
+    "god's compassion",
+    "mercy",
+    "self-righteousness",
+    "love for others",
+    "god's patience"
+  ],
+  "Genesis 19": [
+    "judgment",
+    "rescue",
+    "human wickedness",
+    "mercy",
+    "consequences of sin"
+  ],
+  "Genesis 20": [
+    "god's protection",
+    "human fear",
+    "integrity",
+    "prayer",
+    "god's faithfulness"
+  ],
+  "Genesis 21": [
+    "fulfilled promise",
+    "god's provision",
+    "compassion",
+    "covenant",
+    "faithfulness"
+  ],
+  "Genesis 23": [
+    "grief",
+    "god's promise",
+    "land",
+    "integrity",
+    "hope"
+  ],
+  "Genesis 24": [
+    "prayer",
+    "guidance",
+    "god's providence",
+    "hospitality",
+    "marriage"
+  ],
+  "Genesis 25": [
+    "generations",
+    "prayer",
+    "god's purpose",
+    "inheritance",
+    "choices"
+  ],
+  "Genesis 26": [
+    "covenant faithfulness",
+    "trust",
+    "peace",
+    "god's provision",
+    "worship"
+  ],
+  "Genesis 27": [
+    "deception",
+    "family conflict",
+    "blessing",
+    "consequences of sin",
+    "god's sovereignty"
+  ],
+  "Genesis 28": [
+    "god's presence",
+    "covenant promise",
+    "grace",
+    "worship",
+    "guidance"
+  ],
+  "Genesis 29": [
+    "family conflict",
+    "injustice",
+    "god's compassion",
+    "longing",
+    "praise"
+  ],
+  "Genesis 30": [
+    "god's providence",
+    "jealousy",
+    "family",
+    "provision",
+    "faithfulness"
+  ],
+  "Genesis 31": [
+    "god's guidance",
+    "protection",
+    "covenant",
+    "conflict",
+    "deliverance"
+  ],
+  "Genesis 32": [
+    "prayer",
+    "dependence on god",
+    "fear",
+    "blessing",
+    "transformation"
+  ],
+  "Genesis 33": [
+    "reconciliation",
+    "forgiveness",
+    "humility",
+    "peace",
+    "thanksgiving"
+  ],
+  "Genesis 34": [
+    "violence",
+    "injustice",
+    "deception",
+    "revenge",
+    "family conflict"
+  ],
+  "Genesis 35": [
+    "repentance",
+    "worship",
+    "covenant promise",
+    "grief",
+    "god's faithfulness"
+  ],
+  "Genesis 36": [
+    "nations",
+    "family legacy",
+    "generations",
+    "god's providence"
+  ],
+  "Genesis 37": [
+    "jealousy",
+    "betrayal",
+    "suffering",
+    "god's providence",
+    "family conflict"
+  ],
+  "Genesis 38": [
+    "injustice",
+    "hypocrisy",
+    "confession",
+    "family responsibility",
+    "sin"
+  ],
+  "Genesis 39": [
+    "integrity",
+    "temptation",
+    "god's presence",
+    "injustice",
+    "faithfulness"
+  ],
+  "Genesis 40": [
+    "god's wisdom",
+    "service",
+    "waiting",
+    "injustice",
+    "trust"
+  ],
+  "Genesis 41": [
+    "god's wisdom",
+    "providence",
+    "stewardship",
+    "provision",
+    "deliverance"
+  ],
+  "Genesis 42": [
+    "guilt",
+    "repentance",
+    "god's providence",
+    "family",
+    "testing"
+  ],
+  "Genesis 43": [
+    "responsibility",
+    "compassion",
+    "family reconciliation",
+    "god's provision",
+    "testing"
+  ],
+  "Genesis 44": [
+    "sacrifice",
+    "responsibility",
+    "love",
+    "repentance",
+    "family reconciliation"
+  ],
+  "Genesis 45": [
+    "forgiveness",
+    "god's providence",
+    "reconciliation",
+    "deliverance",
+    "restoration"
+  ],
+  "Genesis 46": [
+    "god's guidance",
+    "covenant promise",
+    "family restoration",
+    "trust",
+    "worship"
+  ],
+  "Genesis 47": [
+    "god's provision",
+    "stewardship",
+    "family",
+    "promise",
+    "hope"
+  ],
+  "Genesis 48": [
+    "blessing",
+    "generations",
+    "god's faithfulness",
+    "covenant promise",
+    "hope"
+  ],
+  "Genesis 49": [
+    "blessing",
+    "judgment",
+    "kingship",
+    "generations",
+    "god's promise"
+  ],
+  "Genesis 50": [
+    "forgiveness",
+    "god's providence",
+    "mercy",
+    "covenant promise",
+    "hope"
+  ],
+  "Exodus 1": [
+    "oppression",
+    "fear of god",
+    "courage",
+    "preservation of life",
+    "god's people"
+  ],
+  "Exodus 2": [
+    "god hears prayer",
+    "covenant faithfulness",
+    "oppression",
+    "deliverance",
+    "compassion"
+  ],
+  "Exodus 4": [
+    "calling",
+    "human weakness",
+    "god's power",
+    "obedience",
+    "worship"
+  ],
+  "Exodus 5": [
+    "oppression",
+    "resistance to god",
+    "prayer",
+    "suffering",
+    "trust"
+  ],
+  "Exodus 6": [
+    "covenant faithfulness",
+    "redemption",
+    "god's promises",
+    "hope",
+    "god's identity"
+  ],
+  "Exodus 7": [
+    "god's sovereignty",
+    "judgment",
+    "hardened heart",
+    "god's power"
+  ],
+  "Exodus 8": [
+    "judgment",
+    "god's power",
+    "prayer",
+    "hardened heart",
+    "god's protection"
+  ],
+  "Exodus 9": [
+    "divine judgment",
+    "fear of god",
+    "god's protection",
+    "repentance",
+    "hardened heart"
+  ],
+  "Exodus 10": [
+    "judgment",
+    "obedience",
+    "hardened heart",
+    "god's power",
+    "light and darkness"
+  ],
+  "Exodus 11": [
+    "divine judgment",
+    "deliverance",
+    "god's justice",
+    "god's people"
+  ],
+  "Exodus 13": [
+    "remembrance",
+    "god's guidance",
+    "consecration",
+    "redemption",
+    "god's presence"
+  ],
+  "Exodus 16": [
+    "god's provision",
+    "trust",
+    "daily dependence",
+    "sabbath rest",
+    "obedience"
+  ],
+  "Exodus 17": [
+    "god's provision",
+    "god's presence",
+    "prayer",
+    "victory",
+    "dependence on god"
+  ],
+  "Exodus 18": [
+    "wise leadership",
+    "counsel",
+    "justice",
+    "worship",
+    "shared responsibility"
+  ],
+  "Exodus 19": [
+    "covenant",
+    "holiness of god",
+    "god's presence",
+    "obedience",
+    "priesthood"
+  ],
+  "Exodus 21": [
+    "justice",
+    "human dignity",
+    "responsibility",
+    "restitution",
+    "community life"
+  ],
+  "Exodus 22": [
+    "justice",
+    "compassion",
+    "integrity",
+    "protection of the vulnerable",
+    "holiness"
+  ],
+  "Exodus 23": [
+    "justice",
+    "sabbath rest",
+    "worship",
+    "god's guidance",
+    "obedience"
+  ],
+  "Exodus 24": [
+    "covenant",
+    "god's glory",
+    "worship",
+    "obedience",
+    "god's presence"
+  ],
+  "Exodus 25": [
+    "god's presence",
+    "worship",
+    "holiness",
+    "generosity",
+    "tabernacle"
+  ],
+  "Exodus 26": [
+    "tabernacle",
+    "holiness of god",
+    "god's presence",
+    "obedience",
+    "worship"
+  ],
+  "Exodus 27": [
+    "sacrifice",
+    "worship",
+    "holiness",
+    "tabernacle",
+    "faithful service"
+  ],
+  "Exodus 28": [
+    "priesthood",
+    "holiness",
+    "mediation",
+    "worship",
+    "god's people"
+  ],
+  "Exodus 29": [
+    "consecration",
+    "sacrifice",
+    "god's presence",
+    "priesthood",
+    "worship"
+  ],
+  "Exodus 30": [
+    "prayer",
+    "cleansing",
+    "holiness",
+    "atonement",
+    "worship"
+  ],
+  "Exodus 31": [
+    "spirit-given gifts",
+    "craftsmanship",
+    "calling",
+    "sabbath rest",
+    "obedience"
+  ],
+  "Exodus 32": [
+    "idolatry",
+    "sin",
+    "intercession",
+    "judgment",
+    "mercy"
+  ],
+  "Exodus 33": [
+    "god's presence",
+    "intercession",
+    "god's glory",
+    "grace",
+    "worship"
+  ],
+  "Exodus 34": [
+    "mercy",
+    "god's character",
+    "covenant renewal",
+    "holiness",
+    "god's glory"
+  ],
+  "Exodus 35": [
+    "generosity",
+    "worship",
+    "sabbath rest",
+    "craftsmanship",
+    "service"
+  ],
+  "Exodus 36": [
+    "generosity",
+    "faithful service",
+    "craftsmanship",
+    "obedience",
+    "worship"
+  ],
+  "Exodus 37": [
+    "craftsmanship",
+    "worship",
+    "covenant",
+    "holiness",
+    "obedience"
+  ],
+  "Exodus 38": [
+    "stewardship",
+    "sacrifice",
+    "worship",
+    "community service",
+    "holiness"
+  ],
+  "Exodus 39": [
+    "obedience",
+    "priesthood",
+    "faithful service",
+    "holiness",
+    "blessing"
+  ],
+  "Exodus 40": [
+    "god's presence",
+    "god's glory",
+    "worship",
+    "obedience",
+    "guidance"
   ]
 }

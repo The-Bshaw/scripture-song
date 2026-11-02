@@ -114,13 +114,14 @@ function renderDiscovery(){
   if(!activeDiscovery){box.hidden=true;box.innerHTML='';return;}
   const {book,chapter}=activeDiscovery;
   const key=chapter?`${book} ${chapter}`:book;
-  const summary=chapter?(bibleOverviews.chapters[key]||`Chapter ${chapter} belongs to ${book}. ${bibleOverviews.books[book]||''}`):(bibleOverviews.books[book]||'');
+  const hasChapterSummary=!chapter||Boolean(bibleOverviews.chapters[key]);
+  const summary=chapter?(bibleOverviews.chapters[key]||`Detailed chapter summary forthcoming. Book context: ${bibleOverviews.books[book]||''}`):(bibleOverviews.books[book]||'');
   const specific=chapter?chapterThemes[key]||[]:[];
   const suggested=chapter?specific:activeDiscovery.themes;
   const list=suggested.length?suggested:activeDiscovery.themes;
   const qualifies=chapter&&!specific.length;
   box.hidden=false;
-  box.innerHTML=`<h3>${safe(key)} · Overview</h3><p>${safe(summary)}</p><div class="theme-prompt">${qualifies?'Suggested book-wide themes (chapter themes not yet indexed)':'Explore themes to narrow your songs'}</div><div class="discovery-themes">${list.map(t=>`<button type="button" class="discovery-theme" data-discovery-theme="${safe(t)}" aria-pressed="${selectedDiscoveryThemes.has(normConcept(t))}">${safe(t)}</button>`).join('')}</div>${qualifies?'<p class="discovery-note">These themes describe the book generally, not necessarily this chapter.</p>':''}`;
+  box.innerHTML=`<h3>${safe(key)} · ${hasChapterSummary?'Overview':'Book context'}</h3><p>${safe(summary)}</p><div class="theme-prompt">${qualifies?'Suggested book-wide themes (chapter themes not yet indexed)':'Explore themes to narrow your songs'}</div><div class="discovery-themes">${list.map(t=>`<button type="button" class="discovery-theme" data-discovery-theme="${safe(t)}" aria-pressed="${selectedDiscoveryThemes.has(normConcept(t))}">${safe(t)}</button>`).join('')}</div>${qualifies?'<p class="discovery-note">These themes describe the book generally, not necessarily this chapter.</p>':''}`;
 }
 $('#bibleDiscovery').addEventListener('click',e=>{
   const btn=e.target.closest('[data-discovery-theme]');if(!btn||!activeDiscovery)return;
@@ -202,7 +203,7 @@ function run(query,push=true){excludedThemes.clear();availableThemes=[];activeDi
 async function init(){try{
   if(location.protocol==='file:' && window.SCRIPTURE_SONG_PREVIEW){
     songs=window.SCRIPTURE_SONG_PREVIEW.songs;
-    chapterThemes=window.SCRIPTURE_SONG_PREVIEW.themes;
+    chapterThemes=window.SCRIPTURE_SONG_PREVIEW.themes;bibleOverviews=window.SCRIPTURE_SONG_PREVIEW.overviews||bibleOverviews;
     try { bibleOverviews=window.SCRIPTURE_SONG_BIBLE_OVERVIEWS||bibleOverviews; }catch(e){}
   }else{
     const [a,b,c]=await Promise.all([fetch('data/songs.json',{cache:'no-store'}),fetch('data/passage-themes.json',{cache:'no-store'}),fetch('data/bible-overviews.json',{cache:'no-store'})]);

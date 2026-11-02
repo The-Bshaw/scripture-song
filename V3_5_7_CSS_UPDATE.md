@@ -1,0 +1,1 @@
+Applied user-provided masthead, search field, hero heading, results, section title, and song card CSS. Added as a final override to styles.css. Stylesheet cache version updated. All data and sync workflows left unchanged.
