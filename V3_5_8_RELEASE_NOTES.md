@@ -1,0 +1,1 @@
+Leviticus 1–27: 27 individually drafted original chapter summaries and corresponding chapter-specific themes. Total chapter summaries: 169 of 1,189. Leviticus complete. Existing CSS updates, song data, Spotify integration and workflow preserved. These are editorial drafts awaiting final verse-by-verse expert review.

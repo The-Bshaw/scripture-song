@@ -69,9 +69,11 @@
     "suffering"
   ],
   "Numbers 6": [
+    "consecration",
     "blessing",
+    "grace",
     "peace",
-    "presence"
+    "god's favor"
   ],
   "Matthew 5": [
     "kingdom",
@@ -1721,5 +1723,439 @@
     "worship",
     "obedience",
     "guidance"
+  ],
+  "Leviticus 1": [
+    "burnt offering",
+    "sacrifice",
+    "consecration",
+    "worship",
+    "holiness"
+  ],
+  "Leviticus 2": [
+    "grain offering",
+    "thanksgiving",
+    "covenant",
+    "worship",
+    "dedication"
+  ],
+  "Leviticus 3": [
+    "peace offering",
+    "fellowship with god",
+    "sacrifice",
+    "reverence",
+    "holiness"
+  ],
+  "Leviticus 4": [
+    "sin offering",
+    "atonement",
+    "forgiveness",
+    "unintentional sin",
+    "holiness"
+  ],
+  "Leviticus 5": [
+    "confession",
+    "atonement",
+    "guilt offering",
+    "restitution",
+    "mercy"
+  ],
+  "Leviticus 6": [
+    "restitution",
+    "priestly service",
+    "sacrifice",
+    "justice",
+    "obedience"
+  ],
+  "Leviticus 7": [
+    "thanksgiving",
+    "peace offering",
+    "priestly service",
+    "purity",
+    "worship"
+  ],
+  "Leviticus 8": [
+    "consecration",
+    "priesthood",
+    "anointing",
+    "obedience",
+    "holiness"
+  ],
+  "Leviticus 9": [
+    "god's glory",
+    "priesthood",
+    "atonement",
+    "worship",
+    "god's presence"
+  ],
+  "Leviticus 10": [
+    "holiness",
+    "judgment",
+    "reverence",
+    "priestly responsibility",
+    "discernment"
+  ],
+  "Leviticus 11": [
+    "holiness",
+    "purity",
+    "obedience",
+    "covenant identity",
+    "daily life"
+  ],
+  "Leviticus 12": [
+    "ritual purity",
+    "childbirth",
+    "worship",
+    "mercy",
+    "holiness"
+  ],
+  "Leviticus 13": [
+    "ritual purity",
+    "community",
+    "discernment",
+    "exclusion",
+    "priestly care"
+  ],
+  "Leviticus 14": [
+    "cleansing",
+    "restoration",
+    "community",
+    "priestly mediation",
+    "mercy"
+  ],
+  "Leviticus 15": [
+    "ritual purity",
+    "holiness",
+    "washing",
+    "worship",
+    "community"
+  ],
+  "Leviticus 16": [
+    "day of atonement",
+    "forgiveness",
+    "cleansing",
+    "priestly mediation",
+    "holiness"
+  ],
+  "Leviticus 17": [
+    "atonement",
+    "sacredness of life",
+    "true worship",
+    "obedience",
+    "holiness"
+  ],
+  "Leviticus 18": [
+    "sexual holiness",
+    "obedience",
+    "covenant faithfulness",
+    "judgment",
+    "distinctiveness"
+  ],
+  "Leviticus 19": [
+    "holiness",
+    "love your neighbor",
+    "justice",
+    "compassion",
+    "integrity"
+  ],
+  "Leviticus 20": [
+    "consecration",
+    "covenant obedience",
+    "judgment",
+    "holiness",
+    "faithfulness"
+  ],
+  "Leviticus 21": [
+    "priesthood",
+    "holiness",
+    "consecration",
+    "worship",
+    "sacred responsibility"
+  ],
+  "Leviticus 22": [
+    "reverence",
+    "acceptable sacrifice",
+    "priestly holiness",
+    "obedience",
+    "redemption"
+  ],
+  "Leviticus 23": [
+    "sabbath",
+    "passover",
+    "atonement",
+    "thanksgiving",
+    "remembrance"
+  ],
+  "Leviticus 24": [
+    "worship",
+    "god's name",
+    "justice",
+    "holiness",
+    "reverence"
+  ],
+  "Leviticus 25": [
+    "sabbath rest",
+    "jubilee",
+    "justice",
+    "freedom",
+    "god's provision"
+  ],
+  "Leviticus 26": [
+    "covenant blessing",
+    "judgment",
+    "repentance",
+    "god's faithfulness",
+    "restoration"
+  ],
+  "Leviticus 27": [
+    "vows",
+    "dedication",
+    "stewardship",
+    "tithes",
+    "faithfulness"
+  ],
+  "Numbers 1": [
+    "community",
+    "calling",
+    "worship",
+    "holy presence",
+    "order"
+  ],
+  "Numbers 2": [
+    "god's presence",
+    "unity",
+    "community",
+    "order",
+    "guidance"
+  ],
+  "Numbers 3": [
+    "priesthood",
+    "holiness",
+    "service",
+    "redemption",
+    "worship"
+  ],
+  "Numbers 4": [
+    "service",
+    "holiness",
+    "reverence",
+    "stewardship",
+    "community"
+  ],
+  "Numbers 5": [
+    "holiness",
+    "confession",
+    "restitution",
+    "justice",
+    "community"
+  ],
+  "Numbers 7": [
+    "generosity",
+    "worship",
+    "dedication",
+    "unity",
+    "god's presence"
+  ],
+  "Numbers 8": [
+    "consecration",
+    "service",
+    "purification",
+    "worship",
+    "holy presence"
+  ],
+  "Numbers 9": [
+    "passover",
+    "remembrance",
+    "guidance",
+    "obedience",
+    "god's presence"
+  ],
+  "Numbers 10": [
+    "guidance",
+    "community",
+    "prayer",
+    "worship",
+    "god's presence"
+  ],
+  "Numbers 11": [
+    "contentment",
+    "complaining",
+    "leadership",
+    "holy spirit",
+    "god's provision"
+  ],
+  "Numbers 12": [
+    "humility",
+    "pride",
+    "leadership",
+    "intercession",
+    "mercy"
+  ],
+  "Numbers 13": [
+    "faith",
+    "fear",
+    "god's promise",
+    "courage",
+    "unbelief"
+  ],
+  "Numbers 14": [
+    "unbelief",
+    "judgment",
+    "intercession",
+    "obedience",
+    "god's mercy"
+  ],
+  "Numbers 15": [
+    "holiness",
+    "obedience",
+    "remembrance",
+    "grace",
+    "god's promise"
+  ],
+  "Numbers 16": [
+    "rebellion",
+    "pride",
+    "holy priesthood",
+    "judgment",
+    "intercession"
+  ],
+  "Numbers 17": [
+    "priesthood",
+    "god's calling",
+    "holiness",
+    "life",
+    "obedience"
+  ],
+  "Numbers 18": [
+    "stewardship",
+    "priesthood",
+    "service",
+    "provision",
+    "holiness"
+  ],
+  "Numbers 19": [
+    "purification",
+    "holiness",
+    "death",
+    "worship",
+    "cleansing"
+  ],
+  "Numbers 20": [
+    "grief",
+    "leadership",
+    "obedience",
+    "god's holiness",
+    "provision"
+  ],
+  "Numbers 21": [
+    "repentance",
+    "judgment",
+    "healing",
+    "deliverance",
+    "god's mercy"
+  ],
+  "Numbers 22": [
+    "god's sovereignty",
+    "blessing",
+    "obedience",
+    "spiritual blindness",
+    "warning"
+  ],
+  "Numbers 23": [
+    "blessing",
+    "god's faithfulness",
+    "god's sovereignty",
+    "covenant",
+    "truth"
+  ],
+  "Numbers 24": [
+    "god's spirit",
+    "blessing",
+    "kingship",
+    "prophecy",
+    "god's promise"
+  ],
+  "Numbers 25": [
+    "idolatry",
+    "covenant faithfulness",
+    "judgment",
+    "holiness",
+    "zeal"
+  ],
+  "Numbers 26": [
+    "generations",
+    "god's faithfulness",
+    "inheritance",
+    "judgment",
+    "renewal"
+  ],
+  "Numbers 27": [
+    "justice",
+    "inheritance",
+    "leadership",
+    "god's guidance",
+    "community"
+  ],
+  "Numbers 28": [
+    "worship",
+    "sacrifice",
+    "holiness",
+    "remembrance",
+    "faithfulness"
+  ],
+  "Numbers 29": [
+    "worship",
+    "atonement",
+    "celebration",
+    "sacrifice",
+    "obedience"
+  ],
+  "Numbers 30": [
+    "vows",
+    "integrity",
+    "responsibility",
+    "obedience",
+    "faithfulness"
+  ],
+  "Numbers 31": [
+    "judgment",
+    "holiness",
+    "covenant loyalty",
+    "accountability",
+    "consequences of sin"
+  ],
+  "Numbers 32": [
+    "unity",
+    "responsibility",
+    "faithfulness",
+    "inheritance",
+    "community"
+  ],
+  "Numbers 33": [
+    "remembrance",
+    "god's guidance",
+    "inheritance",
+    "holiness",
+    "faithfulness"
+  ],
+  "Numbers 34": [
+    "god's promise",
+    "inheritance",
+    "stewardship",
+    "leadership",
+    "community"
+  ],
+  "Numbers 35": [
+    "justice",
+    "sanctity of life",
+    "mercy",
+    "holiness",
+    "refuge"
+  ],
+  "Numbers 36": [
+    "inheritance",
+    "justice",
+    "family",
+    "stewardship",
+    "faithfulness"
   ]
 }

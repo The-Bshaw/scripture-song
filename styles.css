@@ -483,3 +483,18 @@ footer span:first-child{
     box-shadow: 1px 7px 25px -8px rgba(0,0,0,0.1);
     -webkit-box-shadow: 1px 7px 25px -8px rgba(0,0,0,0.1);
 }
+
+
+/* ==============================
+   MASTHEAD IMAGE WIDTH FIX
+   ============================== */
+.masthead {
+  background-image: url('assets/worship-header.jpg') !important;
+  background-size: 100% auto !important;
+  background-position: center top !important;
+  background-repeat: no-repeat !important;
+  background-color: #111 !important;
+}
+@media (max-width: 600px) {
+  .masthead { background-size: 100% auto !important; }
+}
