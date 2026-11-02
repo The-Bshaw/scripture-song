@@ -98,11 +98,17 @@ function rank(refs,topics=[]){
     return {...s,linked:[...direct,...sourced,...(editorialStrong?editorial:[])].map(c=>c.reference),shared:strongPrimary.map(x=>x.theme),requested:topics,matchLevel,score};
   }).filter(Boolean).sort((a,b)=>b.score-a.score||a.title.localeCompare(b.title));
 }
+
+function spotifyTrackId(url) {
+  const m = String(url || '').match(/^https:\/\/open\.spotify\.com\/track\/([A-Za-z0-9]{22})(?:[/?#]|$)/);
+  return m ? m[1] : '';
+}
+
 function songMarkup(s){
   const category=s.wellLibrary?s.wellCategory:'Additional';
   const categoryClass=['Global','Ancient','Heritage','Advent'].includes(category)?category.toLowerCase():'additional';
   const themeButtons=(s.themes||[]).map(t=>`<button type="button" class="song-theme" data-theme-search="${safe(t)}" aria-label="Search all songs for theme ${safe(t)}">${safe(t)}</button>`).join('');
-  return `<article class="song"><div class="meta"><span class="category-pill category-${categoryClass}">${safe(category)}</span></div><h3>${safe(s.title)}</h3><div class="song-themes" aria-label="Song themes">${themeButtons||'<span class="themes-pending">Themes pending review</span>'}</div>${s.linked&&s.linked.length?`<div class="connection-note"><span aria-hidden="true">▤</span> ${safe(s.matchLevel)} · ${safe(s.linked.slice(0,2).join("; "))}</div>`: ''}${s.reviewStatus==='pending-theological-review'?'<div class="review-note">Lyric and theme review pending</div>':''}<div class="song-links">${s.spotifyUrl?`<a target="_blank" rel="noopener noreferrer" href="${safe(s.spotifyUrl)}">Spotify ↗</a>`:''}<a target="_blank" rel="noopener noreferrer" href="https://songselect.ccli.com/search/results?SearchText=${encodeURIComponent(s.title)}">SongSelect ↗</a><button type="button" class="copy-title" data-copy="${safe(s.title)}" aria-label="Copy song title">Copy title</button></div></article>`;
+  return `<article class="song"><div class="meta"><span class="category-pill category-${categoryClass}">${safe(category)}</span></div><h3>${safe(s.title)}</h3><div class="song-themes" aria-label="Song themes">${themeButtons||'<span class="themes-pending">Themes pending review</span>'}</div>${s.linked&&s.linked.length?`<div class="connection-note"><span aria-hidden="true">▤</span> ${safe(s.matchLevel)} · ${safe(s.linked.slice(0,2).join("; "))}</div>`: ''}${s.reviewStatus==='pending-theological-review'?'<div class="review-note">Lyric and theme review pending</div>':''}${spotifyTrackId(s.spotifyUrl)?`<div class="song-preview"><button type="button" class="preview-toggle" data-spotify-track="${spotifyTrackId(s.spotifyUrl)}" aria-expanded="false" aria-label="Show Spotify player for ${safe(s.title)}"><span aria-hidden="true">▶</span> Listen preview</button><div class="preview-slot" hidden></div></div>`:''}<div class="song-links">${s.spotifyUrl?`<a target="_blank" rel="noopener noreferrer" href="${safe(s.spotifyUrl)}">Spotify ↗</a>`:''}<a target="_blank" rel="noopener noreferrer" href="https://songselect.ccli.com/search/results?SearchText=${encodeURIComponent(s.title)}">SongSelect ↗</a><button type="button" class="copy-title" data-copy="${safe(s.title)}" aria-label="Copy song title">Copy title</button></div></article>`;
 }
 function renderThemeFilters(){
   const el=$('#themes');
@@ -112,7 +118,31 @@ function renderThemeFilters(){
     return `<button type="button" class="theme-filter ${excluded?'excluded':''}" data-exclude-theme="${safe(t)}" aria-pressed="${excluded}" aria-label="${excluded?'Include':'Exclude'} songs tagged ${safe(t)}"><span>${safe(t)}</span><span class="theme-filter-icon" aria-hidden="true">${excluded?'+':'×'}</span></button>`;
   }).join('')+'</div>';
 }
-function render(){let type=$('#type').value,sort=$('#sort').value,keyword=$('#keyword').value.toLowerCase().trim(),section=$('#collection').value;let display=allResults.filter(s=>!((s.themes||[]).some(t=>excludedThemes.has(t)))&&(type==='all'||s.type===type)&&(section==='all'||(section==='well'?s.wellLibrary:section==='other'?!s.wellLibrary:s.wellCategory===section))&&(!keyword||[s.title,s.author||'',...s.themes].join(' ').toLowerCase().includes(keyword)));let sorter=sort==='title'?(a,b)=>a.title.localeCompare(b.title):sort==='newest'?(a,b)=>(b.year||0)-(a.year||0)||a.title.localeCompare(b.title):(a,b)=>b.score-a.score||a.title.localeCompare(b.title);const primary=display.filter(s=>s.wellLibrary).sort(sorter),additional=display.filter(s=>!s.wellLibrary).sort(sorter);$('#count').textContent=`${display.length} MATCHES · ${primary.length} FROM THE WELL · ${additional.length} ADDITIONAL`;$('#empty').hidden=display.length!==0;$('#songGrid').innerHTML=(primary.length?`<div class="section-title"><div><span class="eyebrow">YOUR SONG LIBRARY</span><h3>Songs at The Well <span class="section-count">${primary.length}</span></h3><p>From Global, Ancient, Heritage, and Advent. Listed first for every search.</p></div></div><div class="song-grid-inner">${primary.map(songMarkup).join('')}</div>`:'')+(additional.length?`<div class="section-title additional-title"><div><span class="eyebrow">EXPLORE MORE</span><h3>Additional songs <span class="section-count">${additional.length}</span></h3><p>Suggestions beyond your regular song library.</p></div></div><div class="song-grid-inner">${additional.map(songMarkup).join('')}</div>`:'');document.querySelectorAll('.copy-title').forEach(b=>b.addEventListener('click',()=>navigator.clipboard.writeText(b.dataset.copy).then(()=>{b.textContent='Copied ✓'}).catch(()=>{})))}
+function render(){let type=$('#type').value,sort=$('#sort').value,keyword=$('#keyword').value.toLowerCase().trim(),section=$('#collection').value;let display=allResults.filter(s=>!((s.themes||[]).some(t=>excludedThemes.has(t)))&&(type==='all'||s.type===type)&&(section==='all'||(section==='well'?s.wellLibrary:section==='other'?!s.wellLibrary:s.wellCategory===section))&&(!keyword||[s.title,s.author||'',...s.themes].join(' ').toLowerCase().includes(keyword)));let sorter=sort==='title'?(a,b)=>a.title.localeCompare(b.title):sort==='newest'?(a,b)=>(b.year||0)-(a.year||0)||a.title.localeCompare(b.title):(a,b)=>b.score-a.score||a.title.localeCompare(b.title);const primary=display.filter(s=>s.wellLibrary).sort(sorter),additional=display.filter(s=>!s.wellLibrary).sort(sorter);$('#count').textContent=`${display.length} MATCHES · ${primary.length} FROM THE WELL · ${additional.length} ADDITIONAL`;$('#empty').hidden=display.length!==0;$('#songGrid').innerHTML=(primary.length?`<div class="section-title"><div><span class="eyebrow">YOUR SONG LIBRARY</span><h3>Songs at The Well <span class="section-count">${primary.length}</span></h3></div></div><div class="song-grid-inner">${primary.map(songMarkup).join('')}</div>`:'')+(additional.length?`<div class="section-title additional-title"><div><span class="eyebrow">EXPLORE MORE</span><h3>Additional songs <span class="section-count">${additional.length}</span></h3><p>Suggestions beyond your regular song library.</p></div></div><div class="song-grid-inner">${additional.map(songMarkup).join('')}</div>`:'');document.querySelectorAll('.preview-toggle').forEach(button=>button.addEventListener('click',()=>{
+  const slot=button.nextElementSibling;
+  const opening=slot.hidden;
+  // Keep only one Spotify player active at a time.
+  document.querySelectorAll('.preview-slot:not([hidden])').forEach(other=>{
+    other.hidden=true;
+    other.replaceChildren();
+    const toggle=other.previousElementSibling;
+    if(toggle){toggle.setAttribute('aria-expanded','false');toggle.innerHTML='<span aria-hidden="true">▶</span> Listen preview';}
+  });
+  if(!opening)return;
+  const id=button.dataset.spotifyTrack;
+  if(!/^[a-zA-Z0-9]{22}$/.test(id))return;
+  const iframe=document.createElement('iframe');
+  iframe.src='https://open.spotify.com/embed/track/'+id+'?utm_source=generator';
+  iframe.title='Spotify song player';
+  iframe.loading='lazy';
+  iframe.allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture';
+  iframe.setAttribute('allowfullscreen','');
+  iframe.referrerPolicy='strict-origin-when-cross-origin';
+  slot.replaceChildren(iframe);
+  slot.hidden=false;
+  button.setAttribute('aria-expanded','true');
+  button.innerHTML='<span aria-hidden="true">×</span> Close player';
+}));document.querySelectorAll('.copy-title').forEach(b=>b.addEventListener('click',()=>navigator.clipboard.writeText(b.dataset.copy).then(()=>{b.textContent='Copied ✓'}).catch(()=>{})))}
 document.querySelector('#themes').addEventListener('click',e=>{const b=e.target.closest('[data-exclude-theme]');if(!b)return;const t=b.dataset.excludeTheme;if(excludedThemes.has(t))excludedThemes.delete(t);else excludedThemes.add(t);renderThemeFilters();render()});
 document.querySelector('#songGrid').addEventListener('click',e=>{const b=e.target.closest('[data-theme-search]');if(!b)return;$('#keyword').value='';$('#type').value='all';$('#collection').value='all';run(b.dataset.themeSearch);$('#results').scrollIntoView({behavior:'smooth',block:'start'})});
 function run(query,push=true){excludedThemes.clear();availableThemes=[];const pieces=query.split(/[;,\n]+/).map(s=>s.trim()).filter(Boolean);let refs=[],topicInputs=[];for(const piece of pieces){const r=parseRef(piece);if(r)refs.push(r);else topicInputs.push(piece)}const {topics,unknown}=resolveTopics(topicInputs);if(!refs.length&&!topics.length){const q=query.toLowerCase().trim();const matches=songs.filter(s=>q&&s.title.toLowerCase().includes(q)).map(s=>({...s,linked:[],shared:[],requested:[],score:1}));if(matches.length){allResults=matches;$('#passages').value=query;$('#resultsTitle').textContent='Songs matching “'+query+'”';renderThemeFilters();render();if(push)history.replaceState(null,'',location.pathname+'?passage='+encodeURIComponent(query));return;}$('#resultsTitle').textContent='Search Scripture or a topic';$('#songGrid').innerHTML='';renderThemeFilters();$('#count').textContent='';$('#empty').hidden=true;return}lastRefs=refs;$('#passages').value=query;allResults=rank(refs,topics);const parts=[...refs.map(x=>x.text),...topics.map(x=>x.replace(/\b\w/g,c=>c.toUpperCase()))];$('#resultsTitle').textContent='Songs matching “'+parts.join(' + ')+'”';availableThemes=[...new Set([...topics,...getThemes(refs)])];renderThemeFilters();render();if(push)history.replaceState(null,'',location.pathname+'?passage='+encodeURIComponent(query))}
