@@ -4429,6 +4429,66 @@
     "themeEvidenceType": "lyric-source-reviewed"
   },
   {
+    "title": "My Worth is Not in What I Own",
+    "author": "Keith Getty / Kristyn Getty / Graham Kendrick",
+    "type": "Contemporary",
+    "themes": [],
+    "scriptures": [],
+    "year": 2014,
+    "id": "song-0042",
+    "reviewStatus": "pending-theological-review",
+    "source": "Songs at The Well (uploaded library)",
+    "wellLibrary": true,
+    "wellCategory": "Ancient",
+    "scriptureBasis": "Only source-supported citations are treated as corroborated. Other references are unconfirmed editorial parallels; see scriptureConnections per reference.",
+    "scriptureConnections": [],
+    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
+    "legacyThemes": [
+      "identity",
+      "christ",
+      "atonement",
+      "cross",
+      "humility",
+      "salvation"
+    ],
+    "themeReviewStatus": "publisher-lyrics-reviewed",
+    "lyricalAudit": {
+      "status": "publisher-lyrics-reviewed",
+      "primaryThemes": [
+        "identity in christ",
+        "worth in christ"
+      ],
+      "secondaryThemes": [
+        "atonement",
+        "contentment"
+      ],
+      "lyricSourceUrl": "https://www.worshiptogether.com/songs/my-worth-is-not-in-what-i-own-at-the-cross-keith-and-kristyn-getty/",
+      "auditNote": "Lyrics contrast worldly measures of worth with the redemption of Christ; secondary references are editorial."
+    },
+    "auditState": "needs-lyric-evidence",
+    "provisionalThemes": [
+      "identity in christ",
+      "worth in christ"
+    ],
+    "provisionalScriptures": [
+      "Galatians 6:14",
+      "Philippians 3:8-9"
+    ],
+    "scriptureAccuracyStatus": "editorial-unconfirmed",
+    "primaryThemes": [
+      "identity in christ",
+      "worth in christ"
+    ],
+    "secondaryThemes": [
+      "atonement",
+      "contentment"
+    ],
+    "themeEvidenceType": "lyric-source-reviewed",
+    "spotifyUrl": "https://open.spotify.com/track/6r9TRvH7kxQRyVpIGsKqjz",
+    "recordingReference": "linked-from-google-sheet",
+    "recordingNeedsReview": true
+  },
+  {
     "title": "Graves into Gardens",
     "author": "Elevation Worship",
     "type": "Contemporary",
@@ -4754,66 +4814,6 @@
       "resurrection"
     ],
     "themeEvidenceType": "lyric-source-reviewed"
-  },
-  {
-    "title": "My Worth is Not in What I Own",
-    "author": "Keith Getty / Kristyn Getty / Graham Kendrick",
-    "type": "Contemporary",
-    "themes": [],
-    "scriptures": [],
-    "year": 2014,
-    "id": "song-0042",
-    "reviewStatus": "pending-theological-review",
-    "source": "Songs at The Well (uploaded library)",
-    "wellLibrary": true,
-    "wellCategory": "Ancient",
-    "scriptureBasis": "Only source-supported citations are treated as corroborated. Other references are unconfirmed editorial parallels; see scriptureConnections per reference.",
-    "scriptureConnections": [],
-    "reviewNote": "Thematic and doctrinal fit reviewed editorially; direct lyric/scripture dependence not established.",
-    "legacyThemes": [
-      "identity",
-      "christ",
-      "atonement",
-      "cross",
-      "humility",
-      "salvation"
-    ],
-    "themeReviewStatus": "publisher-lyrics-reviewed",
-    "lyricalAudit": {
-      "status": "publisher-lyrics-reviewed",
-      "primaryThemes": [
-        "identity in christ",
-        "worth in christ"
-      ],
-      "secondaryThemes": [
-        "atonement",
-        "contentment"
-      ],
-      "lyricSourceUrl": "https://www.worshiptogether.com/songs/my-worth-is-not-in-what-i-own-at-the-cross-keith-and-kristyn-getty/",
-      "auditNote": "Lyrics contrast worldly measures of worth with the redemption of Christ; secondary references are editorial."
-    },
-    "auditState": "needs-lyric-evidence",
-    "provisionalThemes": [
-      "identity in christ",
-      "worth in christ"
-    ],
-    "provisionalScriptures": [
-      "Galatians 6:14",
-      "Philippians 3:8-9"
-    ],
-    "scriptureAccuracyStatus": "editorial-unconfirmed",
-    "primaryThemes": [
-      "identity in christ",
-      "worth in christ"
-    ],
-    "secondaryThemes": [
-      "atonement",
-      "contentment"
-    ],
-    "themeEvidenceType": "lyric-source-reviewed",
-    "spotifyUrl": "https://open.spotify.com/track/6r9TRvH7kxQRyVpIGsKqjz",
-    "recordingReference": "linked-from-google-sheet",
-    "recordingNeedsReview": true
   },
   {
     "title": "Thank You, Lord (Thanksgiving)",
