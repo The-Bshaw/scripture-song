@@ -1,0 +1,1 @@
+Joshua 1–24: 24 original chapter summaries and chapter-specific themes. Total written chapters: 263. Previous CSS fixes, data, and Google Sheet sync preserved. Draft biblical editorial content requires human verse-by-verse review.

@@ -2,7 +2,7 @@
 const $=q=>document.querySelector(q);
 const BOOKS=['Genesis','Exodus','Leviticus','Numbers','Deuteronomy','Joshua','Judges','Ruth','1 Samuel','2 Samuel','1 Kings','2 Kings','1 Chronicles','2 Chronicles','Ezra','Nehemiah','Esther','Job','Psalm','Proverbs','Ecclesiastes','Song of Solomon','Isaiah','Jeremiah','Lamentations','Ezekiel','Daniel','Hosea','Joel','Amos','Obadiah','Jonah','Micah','Nahum','Habakkuk','Zephaniah','Haggai','Zechariah','Malachi','Matthew','Mark','Luke','John','Acts','Romans','1 Corinthians','2 Corinthians','Galatians','Ephesians','Philippians','Colossians','1 Thessalonians','2 Thessalonians','1 Timothy','2 Timothy','Titus','Philemon','Hebrews','James','1 Peter','2 Peter','1 John','2 John','3 John','Jude','Revelation'];
 const ALIAS={ps:'Psalm',psa:'Psalm',psalms:'Psalm',song:'Song of Solomon',songofsongs:'Song of Solomon',sos:'Song of Solomon',jn:'John',jhn:'John',rom:'Romans',eph:'Ephesians',phil:'Philippians',php:'Philippians',col:'Colossians',gal:'Galatians',jas:'James',heb:'Hebrews',gen:'Genesis',ex:'Exodus',exo:'Exodus',isa:'Isaiah',jer:'Jeremiah',matt:'Matthew',mt:'Matthew',mk:'Mark',mrk:'Mark',lk:'Luke',rev:'Revelation',acts:'Acts',act:'Acts',cor:'1 Corinthians',deut:'Deuteronomy',dt:'Deuteronomy',pet:'1 Peter',tim:'1 Timothy',thess:'1 Thessalonians',sam:'1 Samuel',kings:'1 Kings',chron:'1 Chronicles',zec:'Zechariah',zech:'Zechariah'};
-let songs=[],chapterThemes={},allResults=[],lastRefs=[],availableThemes=[],excludedThemes=new Set(),bibleOverviews={books:{},chapters:{}},activeDiscovery=null,selectedDiscoveryThemes=new Set();
+let passageFocus=[],songs=[],chapterThemes={},allResults=[],lastRefs=[],availableThemes=[],excludedThemes=new Set(),bibleOverviews={books:{},chapters:{}},activeDiscovery=null,selectedDiscoveryThemes=new Set();
 const TOPIC_ALIASES={"god's faithfulness":"faithfulness","god's love":"love","holy ghost":"holy spirit","spirit":"holy spirit","forgiven":"forgiveness","forgive":"forgiveness","redeemer":"redemption","redeemed":"redemption","saved":"salvation","savior":"salvation","saviour":"salvation","thanksgiving":"gratitude","thankfulness":"gratitude","thankful":"gratitude","trusting":"trust","worshiping":"worship","worshipping":"worship","humble":"humility","healed":"healing","risen":"resurrection","jesus":"christ","jesus christ":"christ","god's grace":"grace","god's mercy":"mercy"};
 const normTopic=s=>s.toLowerCase().replace(/[’‘]/g,"'").replace(/[^a-z0-9\s']/g,' ').replace(/\s+/g,' ').trim();
 // Controlled theological vocabulary. Specific lyrics retain their original primary tags;
@@ -65,37 +65,147 @@ function parseRef(str){str=str.trim().replace(/[–—]/g,'-').replace(/\s+/g,' 
 function parseRefs(str){let refs=[],bad=[];for(const raw of str.split(/[;,\n]+/).map(s=>s.trim()).filter(Boolean)){const ref=parseRef(raw);if(ref)refs.push(ref);else bad.push(raw)}return {refs,bad}}
 function intervals(r,c){if(c<r.ch||c>r.endCh)return null;const lo=(c===r.ch&&r.v!==null)?r.v:1,hi=(c===r.endCh&&r.endV!==null)?r.endV:200;return [lo,hi]}
 function overlap(a,b){if(a.book!==b.book)return false;let left=Math.max(a.ch,b.ch),right=Math.min(a.endCh,b.endCh);for(let c=left;c<=right;c++){let aa=intervals(a,c),bb=intervals(b,c);if(aa&&bb&&aa[0]<=bb[1]&&bb[0]<=aa[1])return true}return false}
-function getThemes(refs){let set=new Set();for(const r of refs)for(let c=r.ch;c<=Math.min(r.endCh,r.ch+149);c++)for(let t of chapterThemes[`${r.book} ${c}`]||[])set.add(t);return [...set]}
+function focusedThemesForRef(ref){
+  if(ref.v===null||ref.endCh!==ref.ch)return null;
+  const start=ref.v,end=ref.endV===null?start:ref.endV;
+  const match=passageFocus.find(item=>{
+    const section=parseRef(item.reference);
+    return section&&section.book===ref.book&&section.ch===ref.ch&&section.endCh===ref.ch&&
+      start>=section.v&&end<=section.endV;
+  });
+  return match?match.themes:null;
+}
+function getThemes(refs){
+  const set=new Set();
+  for(const r of refs){
+    const focus=focusedThemesForRef(r);
+    if(focus){for(const t of focus)set.add(t);continue;}
+    for(let c=r.ch;c<=Math.min(r.endCh,r.ch+149);c++)for(const t of chapterThemes[`${r.book} ${c}`]||[])set.add(t);
+  }
+  return [...set];
+}
 const safe=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+// Matching v3.9: evidence first, then distinctive primary themes, then secondary support.
+// Editorial associations remain explicitly editorial; no claimed lyric verification is inferred.
+const GENERIC_CONCEPTS=new Set(['christ','worship','praise','glory','faith','love','hope','grace','salvation','goodness','trust','church','peace','prayer','god','jesus christ']);
+const EXTRA_CONCEPT_ALIASES={
+  'jesus christ':'christ','christ jesus':'christ','the lord jesus':'christ',
+  'god’s faithfulness':'faithfulness','steadfast love':'faithfulness',
+  'god’s goodness':'goodness','greatness of god':'greatness','god’s greatness':'greatness',
+  'majesty of god':'greatness','god’s glory':'glory',
+  'victory over death':'resurrection',
+  'resurrection of jesus':'resurrection','resurrection of christ':'resurrection',
+  'new creation':'restoration','spiritual renewal':'renewal',
+  'god’s presence':'presence','abiding in jesus':'abiding in christ',
+  'the holy spirit':'holy spirit','god’s mercy':'mercy',
+  'gospel':'salvation','justification':'grace','justification by faith':'grace',
+  'sanctification':'holiness','purity':'holiness','holy living':'holiness',
+  'gratitude':'thanksgiving','thankful':'thanksgiving',
+  'kingdom of christ':'kingship','kingdom of god':'kingship','kingship of christ':'kingship',
+  'christ’s return':'second coming','return of christ':'second coming'
+};
+const NEAR_CONCEPTS={
+  'shepherd':['guidance','god’s care','provision'],
+  'atonement':['cross','sacrifice','christ’s blood'],
+  'cross':['atonement','sacrifice'],
+  'faithfulness':['steadfast love'],
+  'compassion':['mercy'],
+  'mercy':['compassion'],
+  'resurrection':['victory over death'],
+  'restoration':['renewal'],
+  'creation':['creator'],
+  'incarnation':['birth of christ'],
+  'holiness':['sanctification'],
+  'unity':['church unity','unity in worship'],
+  'abiding in christ':['dependence on christ'],
+  'kingship':['kingdom'],
+  'gratitude':['thanksgiving'],
+  'thanksgiving':['gratitude']
+};
+function matchConcept(x){
+  const v=normTopic(x);
+  return EXTRA_CONCEPT_ALIASES[v]||TOPIC_ALIASES[v]||v;
+}
+function conceptualMatch(query,tag){
+  const q=matchConcept(query),t=matchConcept(tag);
+  if(q===t)return 1;
+  // Permit curated, directional near matches, not loose substring/stem matching.
+  const linked=NEAR_CONCEPTS[q]||[];
+  if(linked.some(v=>matchConcept(v)===t))return .65;
+  return 0;
+}
+function songEvidence(song,query){
+  const primary=(song.primaryThemes||song.themes||[]).map(t=>({tag:t,weight:conceptualMatch(query,t)})).sort((a,b)=>b.weight-a.weight)[0];
+  const secondary=(song.secondaryThemes||[]).map(t=>({tag:t,weight:conceptualMatch(query,t)})).sort((a,b)=>b.weight-a.weight)[0];
+  // An explicit primary concept always outranks a mere secondary mention.
+  return {primary:primary?.weight||0,primaryTag:primary?.tag||'',secondary:secondary?.weight||0,secondaryTag:secondary?.tag||''};
+}
+function connectionEvidence(song,refs){
+  return (song.scriptureConnections||[]).map(c=>{
+    const linked=parseRef(c.reference||'');
+    if(!linked||!refs.some(ref=>overlap(linked,ref)))return null;
+    const specificity=(refs.some(ref=>ref.v!==null)&&linked.v!==null)?1:0;
+    return {...c,specificity};
+  }).filter(Boolean);
+}
 function rank(refs,topics=[]){
-  const passageThemes=getThemes(refs).map(normConcept);
-  const BROAD=new Set(['christ','worship','praise','glory','faith','love']);
-  return songs.map(s=>{
-    if(s.wellLibrary&&s.auditState!=='source-reviewed')return null;
-    const topicScores=topics.map(t=>themeStrength(t,s));
-    // All explicitly requested topics must have a meaningful relationship.
-    if(topics.some((t,i)=>!topicScores[i].primary&&(!topicScores[i].secondary||['resurrection','baptism'].includes(normConcept(t)))))return null;
-    const topicPrimary=topicScores.reduce((sum,x)=>sum+x.primary,0);
-    const topicSecondary=topicScores.reduce((sum,x)=>sum+x.secondary,0);
-    const candidates=(s.scriptureConnections||[]).filter(c=>{const r=parseRef(c.reference);return r&&refs.some(user=>overlap(r,user))});
+  // Preserve each chapter's editorial priority: the first two themes represent core ideas.
+  // Multi-chapter searches deduplicate concepts rather than rewarding repeated generic tags.
+  const passageRows=[];
+  const seen=new Set();
+  for(const r of refs){
+    const focus=focusedThemesForRef(r);
+    for(let ch=r.ch;ch<=r.endCh;ch++){
+      const ts=focus||chapterThemes[`${r.book} ${ch}`]||[];
+      for(let i=0;i<ts.length;i++){
+        const concept=matchConcept(ts[i]);
+        if(seen.has(concept))continue;
+        seen.add(concept);
+        passageRows.push({name:ts[i],concept,importance:[1.35,1.08,.75,.58,.45][Math.min(i,4)],anchor:i<2});
+      }
+    }
+  }
+  return songs.map(song=>{
+    if(song.wellLibrary&&song.auditState!=='source-reviewed')return null;
+    const explicit=topics.map(t=>({name:t,...songEvidence(song,t)}));
+    if(explicit.some(e=>!e.primary&&!e.secondary))return null;
+    const matches=passageRows.map(t=>({...t,...songEvidence(song,t.name)}))
+      .filter(t=>t.primary||t.secondary);
+    const specific=matches.filter(t=>t.anchor||!GENERIC_CONCEPTS.has(t.concept));
+    const primary=specific.filter(t=>t.primary).sort((a,b)=>b.primary*b.importance-a.primary*a.importance);
+    const secondary=specific.filter(t=>!t.primary&&t.secondary).sort((a,b)=>b.secondary*b.importance-a.secondary*a.importance);
+    const generic=matches.filter(t=>!t.anchor&&GENERIC_CONCEPTS.has(t.concept));
+    const strongCore=primary.length>0;
+    const supportedSecondary=secondary.length>=2;
+    const candidates=connectionEvidence(song,refs);
     const direct=candidates.filter(c=>c.matchLevel==='direct-biblical');
     const sourced=candidates.filter(c=>c.matchLevel==='source-linked');
     const editorial=candidates.filter(c=>c.matchLevel==='editorial-parallel');
-    const matching=passageThemes.map(theme=>({theme,...themeStrength(theme,s)}));
-    const strongPrimary=matching.filter(x=>!BROAD.has(x.theme)&&x.primary>0);
-    const secondaryHits=matching.filter(x=>!BROAD.has(x.theme)&&x.secondary>0);
-    const primaryWeight=strongPrimary.reduce((sum,x)=>sum+x.primary,0);
-    const secondaryWeight=secondaryHits.reduce((sum,x)=>sum+x.secondary,0);
-    // One distinctive primary concept is enough for a relevant Scripture suggestion.
-    // Secondary-only matches require at least two independent specific concepts.
-    // Even an editorial verse association requires a meaningful thematic connection.
-    const thematicStrong=primaryWeight>=0.75||secondaryWeight>=1.5;
-    const editorialStrong=editorial.length>0&&(primaryWeight>=0.75||secondaryWeight>=0.75);
-    if(refs.length&&!direct.length&&!sourced.length&&!thematicStrong&&!editorialStrong)return null;
-    let score=direct.length*160+sourced.length*125+(editorialStrong?35:0)+primaryWeight*55+secondaryWeight*13+topicPrimary*85+topicSecondary*29;
-    if(!refs.length&&topics.length&&topicPrimary<.75)score-=28;
-    const matchLevel=direct.length?'Direct biblical connection':sourced.length?'Publisher Scripture association':editorialStrong?'Strong editorial Scripture connection':thematicStrong?'Related theological themes':'Thematic connection';
-    return {...s,linked:[...direct,...sourced,...(editorialStrong?editorial:[])].map(c=>c.reference),shared:strongPrimary.map(x=>x.theme),requested:topics,matchLevel,score};
+    // Editorial links are not independent proof. They need actual lyrical/theme support.
+    const editorialFit=editorial.length>0&&(strongCore||supportedSecondary||generic.some(t=>t.primary));
+    if(refs.length&&!direct.length&&!sourced.length&&!strongCore&&!supportedSecondary&&!editorialFit)return null;
+    // Cap the count of overlapping tags so generic, broadly described songs don't dominate.
+    const coreScore=primary.slice(0,3).reduce((n,m,i)=>n+m.primary*m.importance*[75,30,12][i],0);
+    const supportingScore=secondary.slice(0,2).reduce((n,m,i)=>n+m.secondary*m.importance*[15,8][i],0);
+    const genericScore=Math.min(11,generic.filter(m=>m.primary).length*4+generic.filter(m=>m.secondary).length*1.5);
+    const verseExact=candidates.some(c=>c.specificity);
+    const verseLinked=editorial.some(c=>parseRef(c.reference||'')?.v!==null);
+    const evidenceScore=direct.length?(180+(verseExact?28:0)):sourced.length?(145+(verseExact?22:0)):editorialFit?(45+(verseLinked?25:0)+(verseExact?12:0)):0;
+    const topicScore=explicit.reduce((n,m)=>n+m.primary*85+m.secondary*24,0);
+    const contemporaryBonus=song.type==='Contemporary'?4:0;
+    const score=Math.round(coreScore+supportingScore+genericScore+evidenceScore+topicScore+contemporaryBonus);
+    const reasonParts=[];
+    if(direct.length)reasonParts.push('Direct Scripture link recorded in the catalog');
+    else if(sourced.length)reasonParts.push('Publisher-linked Scripture reference');
+    else if(editorialFit)reasonParts.push('Editorial Scripture parallel (not independently verified)');
+    if(primary.length)reasonParts.push('Main song themes: '+primary.slice(0,2).map(t=>t.primaryTag).join(', '));
+    else if(secondary.length)reasonParts.push('Supporting song themes: '+secondary.slice(0,2).map(t=>t.secondaryTag).join(', '));
+    else if(explicit.length)reasonParts.push('Matches requested theme'+(explicit.length>1?'s':''));
+    if(refs.some(r=>r.v!==null)&&!candidates.length)reasonParts.push(refs.every(r=>focusedThemesForRef(r))?'Matched to editorial passage-section themes; lyrical connection not verified':'Based on chapter themes, not verse-specific lyrical evidence');
+    const matchLevel=direct.length?'Direct biblical connection':sourced.length?'Publisher Scripture association':editorialFit?'Editorial Scripture parallel':strongCore?'Strong thematic match':'Supporting thematic match';
+    return {...song,linked:[...direct,...sourced,...(editorialFit?editorial:[])].map(c=>c.reference),
+      shared:primary.slice(0,3).map(m=>m.name),requested:topics,matchLevel,score,
+      matchReasons:reasonParts,matchTier:(direct.length||sourced.length||primary.length>=2)?'strong':primary.length?'good':'related'};
   }).filter(Boolean).sort((a,b)=>b.score-a.score||a.title.localeCompare(b.title));
 }
 
@@ -148,7 +258,7 @@ function songMarkup(s){
   const category=s.wellLibrary?s.wellCategory:'Additional';
   const categoryClass=['Global','Ancient','Heritage','Advent'].includes(category)?category.toLowerCase():'additional';
   const themeButtons=(s.themes||[]).map(t=>`<button type="button" class="song-theme" data-theme-search="${safe(t)}" aria-label="Search all songs for theme ${safe(t)}">${safe(t)}</button>`).join('');
-  return `<article class="song"><div class="meta">${s.wellLibrary?`<span class="category-pill category-${categoryClass}">${safe(category)}</span>`:""}</div><h3>${safe(s.title)}</h3><div class="song-themes" aria-label="Song themes">${themeButtons||'<span class="themes-pending">Themes pending review</span>'}</div>${s.linked&&s.linked.length?`<div class="connection-note"><span aria-hidden="true">▤</span> ${safe(s.matchLevel)} · ${safe(s.linked.slice(0,2).join("; "))}</div>`: ''}${s.reviewStatus==='pending-theological-review'?'<div class="review-note">Lyric and theme review pending</div>':''}${spotifyTrackId(s.spotifyUrl)?`<div class="song-preview"><button type="button" class="preview-toggle" data-spotify-track="${spotifyTrackId(s.spotifyUrl)}" aria-expanded="false" aria-label="Show Spotify player for ${safe(s.title)}"><span aria-hidden="true">▶</span> Listen preview</button><div class="preview-slot" hidden></div></div>`:''}<div class="song-links">${s.spotifyUrl?`<a target="_blank" rel="noopener noreferrer" href="${safe(s.spotifyUrl)}">Spotify ↗</a>`:''}<a target="_blank" rel="noopener noreferrer" href="https://songselect.ccli.com/search/results?SearchText=${encodeURIComponent(s.title)}">SongSelect ↗</a><button type="button" class="copy-title" data-copy="${safe(s.title)}" aria-label="Copy song title">Copy title</button></div></article>`;
+  return `<article class="song"><div class="meta">${s.wellLibrary?`<span class="category-pill category-${categoryClass}">${safe(category)}</span>`:""}</div><h3>${safe(s.title)}</h3><div class="song-themes" aria-label="Song themes">${themeButtons||'<span class="themes-pending">Themes pending review</span>'}</div>${s.matchReasons&&s.matchReasons.length?`<div class="match-explanation"><div class="match-label">${safe(s.matchLevel)}</div><div class="match-reasons">${s.matchReasons.map(r=>`<span>${safe(r)}</span>`).join("")}</div>${s.linked&&s.linked.length?`<div class="match-scriptures">Related Scripture: ${safe(s.linked.slice(0,2).join("; "))}</div>`:""}</div>`:""}${s.reviewStatus==='pending-theological-review'?'<div class="review-note">Lyric and theme review pending</div>':''}${spotifyTrackId(s.spotifyUrl)?`<div class="song-preview"><button type="button" class="preview-toggle" data-spotify-track="${spotifyTrackId(s.spotifyUrl)}" aria-expanded="false" aria-label="Show Spotify player for ${safe(s.title)}"><span aria-hidden="true">▶</span> Listen preview</button><div class="preview-slot" hidden></div></div>`:''}<div class="song-links">${s.spotifyUrl?`<a target="_blank" rel="noopener noreferrer" href="${safe(s.spotifyUrl)}">Spotify ↗</a>`:''}<a target="_blank" rel="noopener noreferrer" href="https://songselect.ccli.com/search/results?SearchText=${encodeURIComponent(s.title)}">SongSelect ↗</a><button type="button" class="copy-title" data-copy="${safe(s.title)}" aria-label="Copy song title">Copy title</button></div></article>`;
 }
 function renderThemeFilters(){
   const el=$('#themes');
@@ -203,12 +313,12 @@ function run(query,push=true){excludedThemes.clear();availableThemes=[];activeDi
 async function init(){try{
   if(location.protocol==='file:' && window.SCRIPTURE_SONG_PREVIEW){
     songs=window.SCRIPTURE_SONG_PREVIEW.songs;
-    chapterThemes=window.SCRIPTURE_SONG_PREVIEW.themes;bibleOverviews=window.SCRIPTURE_SONG_PREVIEW.overviews||bibleOverviews;
+    chapterThemes=window.SCRIPTURE_SONG_PREVIEW.themes;passageFocus=window.SCRIPTURE_SONG_PREVIEW.passageFocus||[];bibleOverviews=window.SCRIPTURE_SONG_PREVIEW.overviews||bibleOverviews;
     try { bibleOverviews=window.SCRIPTURE_SONG_BIBLE_OVERVIEWS||bibleOverviews; }catch(e){}
   }else{
-    const [a,b,c]=await Promise.all([fetch('data/songs.json',{cache:'no-store'}),fetch('data/passage-themes.json',{cache:'no-store'}),fetch('data/bible-overviews.json',{cache:'no-store'})]);
+    const [a,b,c,d]=await Promise.all([fetch('data/songs.json',{cache:'no-store'}),fetch('data/passage-themes.json',{cache:'no-store'}),fetch('data/bible-overviews.json',{cache:'no-store'}),fetch('data/passage-focus.json',{cache:'no-store'})]);
     if(!a.ok||!b.ok)throw Error('Song data request failed: '+a.status+'/'+b.status);
-    songs=await a.json();chapterThemes=await b.json();if(c.ok)bibleOverviews=await c.json();
+    songs=await a.json();chapterThemes=await b.json();if(c.ok)bibleOverviews=await c.json();if(d.ok)passageFocus=await d.json();
   }
   if(!Array.isArray(songs)||!songs.length)throw Error('Song catalog empty');
   run(new URLSearchParams(location.search).get('passage')||$('#passages').value,false);

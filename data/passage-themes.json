@@ -22,26 +22,32 @@
     "goodness"
   ],
   "Psalm 100": [
-    "praise",
-    "gratitude",
-    "goodness",
+    "joyful worship",
+    "thanksgiving",
+    "god as shepherd",
+    "steadfast love",
     "faithfulness"
   ],
   "Psalm 148": [
-    "creation",
-    "praise",
-    "glory"
+    "creation praise",
+    "god's glory",
+    "worship",
+    "god's sovereignty",
+    "all nations"
   ],
   "Psalm 150": [
     "praise",
     "worship",
-    "glory"
+    "god's mighty deeds",
+    "god's greatness",
+    "all creation"
   ],
   "Psalm 27": [
     "trust",
-    "salvation",
+    "god's presence",
+    "courage",
     "hope",
-    "refuge"
+    "worship"
   ],
   "Psalm 51": [
     "repentance",
@@ -53,7 +59,8 @@
     "holiness",
     "worship",
     "glory",
-    "mission"
+    "mission",
+    "calling"
   ],
   "Isaiah 53": [
     "atonement",
@@ -63,10 +70,11 @@
     "christ"
   ],
   "Lamentations 3": [
-    "faithfulness",
+    "steadfast love",
     "mercy",
     "hope",
-    "suffering"
+    "faithfulness",
+    "repentance"
   ],
   "Numbers 6": [
     "consecration",
@@ -92,38 +100,45 @@
   ],
   "Matthew 28": [
     "resurrection",
-    "mission",
+    "great commission",
     "discipleship",
-    "christ"
+    "baptism",
+    "jesus christ"
   ],
   "Luke 15": [
     "repentance",
     "mercy",
     "grace",
-    "salvation"
+    "salvation",
+    "joy"
   ],
   "Luke 24": [
     "resurrection",
-    "christ",
-    "hope"
+    "scripture fulfillment",
+    "hope",
+    "worship",
+    "mission"
   ],
   "John 1": [
     "incarnation",
     "christ",
     "glory",
-    "light"
+    "light",
+    "word of god"
   ],
   "John 3": [
     "love",
     "salvation",
     "faith",
-    "grace"
+    "grace",
+    "new birth"
   ],
   "John 10": [
     "shepherd",
     "assurance",
     "salvation",
-    "trust"
+    "trust",
+    "good shepherd"
   ],
   "John 14": [
     "comfort",
@@ -135,7 +150,9 @@
   "John 15": [
     "devotion",
     "discipleship",
-    "sanctification"
+    "sanctification",
+    "abiding in christ",
+    "love one another"
   ],
   "Romans 5": [
     "grace",
@@ -148,7 +165,8 @@
     "resurrection",
     "freedom",
     "sanctification",
-    "salvation"
+    "salvation",
+    "new life"
   ],
   "Romans 8": [
     "assurance",
@@ -167,32 +185,38 @@
   ],
   "1 Corinthians 15": [
     "resurrection",
+    "gospel",
     "victory",
     "hope",
     "christ"
   ],
   "2 Corinthians 4": [
+    "gospel",
     "suffering",
     "hope",
-    "perseverance",
-    "glory"
+    "resurrection",
+    "glory of god"
   ],
   "2 Corinthians 5": [
     "reconciliation",
+    "new creation",
     "salvation",
     "mission",
     "christ"
   ],
   "Galatians 2": [
-    "christ",
+    "justification",
     "faith",
     "grace",
-    "identity"
+    "unity",
+    "identity in christ"
   ],
   "Galatians 6": [
+    "restoration",
+    "gentleness",
+    "perseverance",
     "cross",
-    "humility",
-    "devotion"
+    "new creation"
   ],
   "Ephesians 1": [
     "grace",
@@ -203,16 +227,17 @@
   ],
   "Ephesians 2": [
     "grace",
-    "salvation",
     "faith",
-    "mercy",
-    "church",
-    "identity"
+    "unity",
+    "peace",
+    "church"
   ],
   "Ephesians 6": [
     "spiritual warfare",
-    "perseverance",
-    "faith"
+    "prayer",
+    "faith",
+    "family",
+    "perseverance"
   ],
   "Philippians 2": [
     "humility",
@@ -222,80 +247,95 @@
     "kingship"
   ],
   "Philippians 3": [
-    "christ",
-    "identity",
-    "salvation",
-    "devotion"
+    "knowing christ",
+    "faith",
+    "righteousness",
+    "perseverance",
+    "resurrection"
   ],
   "Philippians 4": [
     "peace",
     "trust",
     "gratitude",
-    "provision"
+    "provision",
+    "joy"
   ],
   "Colossians 1": [
     "christ",
     "creation",
     "redemption",
-    "glory"
+    "glory",
+    "hope"
   ],
   "Colossians 3": [
-    "sanctification",
-    "devotion",
-    "gratitude",
-    "church"
+    "new life",
+    "holiness",
+    "unity",
+    "love",
+    "thanksgiving"
   ],
   "Hebrews 4": [
     "intercession",
     "grace",
     "assurance",
-    "mercy"
+    "mercy",
+    "rest"
   ],
   "Hebrews 9": [
     "atonement",
-    "cross",
-    "redemption"
+    "redemption",
+    "cleansing",
+    "new covenant",
+    "return of christ"
   ],
   "Hebrews 10": [
     "assurance",
     "atonement",
     "faith",
-    "church"
+    "church",
+    "perseverance"
   ],
   "James 1": [
     "faith",
     "perseverance",
     "wisdom",
-    "faithfulness"
+    "faithfulness",
+    "trials"
   ],
   "James 4": [
     "repentance",
     "humility",
     "prayer",
-    "grace"
+    "grace",
+    "submission to god"
   ],
   "1 Peter 1": [
     "hope",
     "resurrection",
     "salvation",
-    "christ"
+    "christ",
+    "living hope"
   ],
   "1 Peter 2": [
-    "christ",
-    "church",
-    "cross",
+    "identity in christ",
+    "holiness",
+    "priesthood of believers",
+    "suffering",
     "salvation"
   ],
   "1 John 1": [
+    "fellowship",
+    "light",
+    "confession",
     "forgiveness",
-    "holiness",
-    "atonement"
+    "joy"
   ],
   "Revelation 4": [
     "holiness",
     "worship",
     "glory",
-    "majesty"
+    "majesty",
+    "god’s glory"
   ],
   "Revelation 5": [
     "christ",
@@ -308,7 +348,8 @@
     "hope",
     "resurrection",
     "glory",
-    "presence"
+    "presence",
+    "new creation"
   ],
   "Genesis 1": [
     "creation",
@@ -373,45 +414,53 @@
     "love of neighbor"
   ],
   "Deuteronomy 6": [
-    "love",
-    "obedience",
+    "love for god",
+    "god alone",
     "discipleship",
-    "faith"
+    "remembering salvation",
+    "obedience"
   ],
   "Joshua 1": [
     "courage",
-    "faithfulness",
-    "trust",
-    "presence"
+    "god’s presence",
+    "obedience",
+    "god’s promise",
+    "leadership"
   ],
   "Joshua 24": [
-    "covenant",
-    "obedience",
+    "covenant renewal",
     "worship",
-    "faithfulness"
+    "faithfulness",
+    "remembrance",
+    "devotion"
   ],
   "1 Samuel 7": [
     "repentance",
+    "prayer",
     "deliverance",
     "faithfulness",
-    "gratitude"
+    "thanksgiving"
   ],
   "2 Samuel 7": [
-    "covenant",
-    "kingdom",
-    "christ",
-    "faithfulness"
+    "davidic covenant",
+    "god's promise",
+    "grace",
+    "kingship",
+    "prayer"
   ],
   "Job 1": [
     "suffering",
+    "faith",
+    "worship",
     "trust",
-    "sovereignty",
-    "worship"
+    "integrity"
   ],
   "Job 19": [
+    "redeemer",
     "hope",
-    "redemption",
-    "perseverance"
+    "vindication",
+    "lament",
+    "faith"
   ],
   "Psalm 1": [
     "wisdom",
@@ -422,147 +471,171 @@
   ],
   "Psalm 8": [
     "creation",
-    "glory",
-    "majesty",
-    "worship"
+    "god's glory",
+    "human dignity",
+    "worship",
+    "stewardship"
   ],
   "Psalm 13": [
     "lament",
     "trust",
-    "suffering",
-    "hope"
+    "steadfast love",
+    "hope",
+    "prayer"
   ],
   "Psalm 16": [
     "trust",
-    "resurrection",
     "joy",
-    "presence"
+    "god's presence",
+    "hope",
+    "resurrection"
   ],
   "Psalm 19": [
     "creation",
+    "god's glory",
     "scripture",
-    "glory",
-    "wisdom"
+    "wisdom",
+    "holiness"
   ],
   "Psalm 22": [
+    "lament",
     "suffering",
-    "cross",
-    "trust",
-    "deliverance"
+    "deliverance",
+    "messiah",
+    "praise"
   ],
   "Psalm 24": [
+    "god's glory",
     "holiness",
-    "kingdom",
-    "glory",
-    "worship"
+    "kingship",
+    "worship",
+    "creation"
   ],
   "Psalm 25": [
     "guidance",
     "trust",
     "forgiveness",
-    "prayer"
+    "prayer",
+    "god's mercy"
   ],
   "Psalm 34": [
     "praise",
+    "deliverance",
     "refuge",
-    "trust",
-    "deliverance"
+    "fear of the lord",
+    "peace"
   ],
   "Psalm 40": [
     "deliverance",
-    "gratitude",
+    "thanksgiving",
     "obedience",
-    "worship"
-  ],
-  "Psalm 42": [
-    "lament",
-    "hope",
     "trust",
     "prayer"
   ],
+  "Psalm 42": [
+    "longing for god",
+    "lament",
+    "hope",
+    "worship",
+    "trust"
+  ],
   "Psalm 63": [
-    "devotion",
-    "presence",
+    "thirst for god",
+    "god's presence",
+    "steadfast love",
     "worship",
     "trust"
   ],
   "Psalm 67": [
-    "mission",
-    "praise",
     "blessing",
-    "kingdom"
+    "nations",
+    "god's justice",
+    "mission",
+    "praise"
   ],
   "Psalm 73": [
+    "envy",
+    "god's justice",
+    "god's presence",
     "trust",
-    "contentment",
-    "presence",
-    "eternity"
+    "contentment in god"
   ],
   "Psalm 84": [
-    "presence",
-    "devotion",
-    "joy",
-    "worship"
+    "god's presence",
+    "worship",
+    "longing for god",
+    "pilgrimage",
+    "trust"
   ],
   "Psalm 90": [
-    "eternity",
+    "god's eternity",
+    "human mortality",
     "wisdom",
-    "sovereignty",
-    "prayer"
+    "mercy",
+    "steadfast love"
   ],
   "Psalm 91": [
+    "god's protection",
     "refuge",
     "trust",
-    "protection",
-    "faithfulness"
+    "god's presence",
+    "deliverance"
   ],
   "Psalm 95": [
-    "worship",
     "praise",
-    "shepherd",
-    "obedience"
+    "god as shepherd",
+    "creation",
+    "obedience",
+    "god's rest"
   ],
   "Psalm 96": [
     "mission",
     "praise",
-    "glory",
-    "kingdom"
+    "god's glory",
+    "creation",
+    "righteous judgment"
   ],
   "Psalm 98": [
-    "praise",
-    "joy",
     "salvation",
-    "kingdom"
+    "praise",
+    "god's faithfulness",
+    "creation",
+    "justice"
   ],
   "Psalm 121": [
+    "god's protection",
+    "pilgrimage",
     "trust",
-    "protection",
-    "presence",
-    "help"
+    "god's faithfulness",
+    "assurance"
   ],
   "Psalm 130": [
-    "waiting",
     "forgiveness",
+    "waiting",
     "hope",
-    "redemption"
+    "redemption",
+    "mercy"
   ],
   "Psalm 136": [
     "steadfast love",
-    "gratitude",
-    "faithfulness",
-    "praise"
+    "thanksgiving",
+    "creation",
+    "exodus",
+    "providence"
   ],
   "Psalm 139": [
-    "presence",
+    "god's omniscience",
+    "god's presence",
     "creation",
-    "identity",
-    "sovereignty"
+    "holiness",
+    "prayer"
   ],
   "Psalm 145": [
+    "god's kingship",
     "praise",
-    "majesty",
-    "faithfulness",
-    "worship"
+    "compassion",
+    "providence",
+    "faithfulness"
   ],
   "Proverbs 3": [
     "wisdom",
@@ -581,7 +654,8 @@
     "incarnation",
     "christ",
     "peace",
-    "kingdom"
+    "kingdom",
+    "righteous king"
   ],
   "Isaiah 40": [
     "comfort",
@@ -592,87 +666,101 @@
   ],
   "Isaiah 43": [
     "redemption",
-    "presence",
-    "deliverance",
-    "identity"
+    "god’s presence",
+    "salvation",
+    "new creation",
+    "forgiveness"
   ],
   "Isaiah 55": [
     "grace",
     "invitation",
-    "scripture",
-    "mercy"
+    "repentance",
+    "god’s word",
+    "joy"
   ],
   "Isaiah 61": [
-    "mission",
+    "good news",
+    "holy spirit",
     "healing",
     "salvation",
-    "freedom"
+    "righteousness"
   ],
   "Jeremiah 29": [
     "hope",
+    "exile",
     "prayer",
-    "faithfulness",
-    "exile"
+    "seeking god",
+    "faithfulness"
   ],
   "Ezekiel 36": [
-    "renewal",
+    "new heart",
     "holy spirit",
-    "new life",
-    "covenant"
+    "cleansing",
+    "restoration",
+    "god’s grace"
   ],
   "Ezekiel 37": [
-    "resurrection",
-    "renewal",
-    "power",
-    "hope"
+    "resurrection hope",
+    "holy spirit",
+    "restoration",
+    "unity",
+    "covenant of peace"
   ],
   "Daniel 3": [
-    "suffering",
-    "trust",
-    "presence",
-    "deliverance"
+    "courage",
+    "faithfulness",
+    "worship",
+    "deliverance",
+    "idolatry"
   ],
   "Daniel 7": [
-    "kingdom",
-    "sovereignty",
-    "christ",
-    "glory"
+    "god’s sovereignty",
+    "judgment",
+    "son of man",
+    "everlasting kingdom",
+    "hope"
   ],
   "Micah 6": [
     "justice",
     "mercy",
     "humility",
-    "obedience"
+    "repentance",
+    "true worship"
   ],
   "Habakkuk 3": [
+    "worship",
     "trust",
-    "suffering",
-    "praise",
-    "joy"
+    "god’s power",
+    "joy",
+    "salvation"
   ],
   "Zechariah 9": [
-    "kingdom",
-    "christ",
-    "hope",
-    "salvation"
+    "messianic king",
+    "peace",
+    "salvation",
+    "humility",
+    "hope"
   ],
   "Matthew 1": [
+    "jesus christ",
+    "messiah",
     "incarnation",
-    "christ",
-    "promise",
-    "salvation"
+    "salvation",
+    "covenant promise"
   ],
   "Matthew 2": [
-    "incarnation",
-    "christ",
+    "jesus christ",
+    "messiah",
     "worship",
-    "kingdom"
+    "god's providence",
+    "persecution"
   ],
   "Matthew 4": [
     "temptation",
     "obedience",
     "discipleship",
-    "kingdom"
+    "kingdom of god",
+    "healing"
   ],
   "Matthew 6": [
     "prayer",
@@ -683,146 +771,170 @@
     "faith"
   ],
   "Matthew 11": [
-    "rest",
+    "jesus christ",
+    "repentance",
+    "revelation",
     "grace",
-    "christ",
-    "comfort"
+    "rest"
   ],
   "Matthew 16": [
-    "discipleship",
+    "jesus christ",
     "church",
-    "confession",
-    "cross"
+    "cross",
+    "discipleship",
+    "resurrection"
   ],
   "Matthew 26": [
-    "communion",
-    "cross",
-    "sacrifice",
-    "obedience"
+    "lord's supper",
+    "atonement",
+    "prayer",
+    "obedience",
+    "betrayal"
   ],
   "Matthew 27": [
-    "cross",
+    "crucifixion",
     "atonement",
+    "jesus christ",
     "sacrifice",
-    "christ"
+    "salvation"
   ],
   "Mark 1": [
+    "good news",
     "repentance",
-    "kingdom",
-    "christ",
-    "discipleship"
+    "kingdom of god",
+    "authority of jesus",
+    "healing"
   ],
   "Mark 4": [
-    "trust",
+    "word of god",
+    "kingdom of god",
     "faith",
-    "kingdom",
-    "sovereignty"
+    "spiritual growth",
+    "authority of jesus"
   ],
   "Mark 8": [
-    "discipleship",
-    "cross",
-    "surrender",
-    "christ"
+    "provision",
+    "spiritual blindness",
+    "confession of christ",
+    "cross bearing",
+    "discipleship"
   ],
   "Mark 10": [
+    "marriage",
+    "kingdom of god",
+    "wealth",
     "servanthood",
-    "humility",
-    "discipleship",
-    "redemption"
+    "faith"
   ],
   "Mark 15": [
-    "cross",
+    "crucifixion",
     "atonement",
-    "sacrifice",
-    "christ"
+    "suffering of christ",
+    "king of kings",
+    "sacrifice"
   ],
   "Mark 16": [
     "resurrection",
-    "mission",
     "hope",
-    "salvation"
+    "good news",
+    "witness",
+    "victory over death"
   ],
   "Luke 1": [
     "incarnation",
-    "christ",
-    "praise",
-    "faithfulness"
+    "faithfulness",
+    "holy spirit",
+    "joy",
+    "promise of god"
   ],
   "Luke 2": [
+    "birth of christ",
     "incarnation",
     "peace",
-    "glory",
-    "christ"
+    "worship",
+    "salvation"
   ],
   "Luke 10": [
     "mission",
-    "discipleship",
-    "mercy",
-    "service"
+    "love your neighbor",
+    "compassion",
+    "prayer",
+    "discipleship"
   ],
   "Luke 19": [
     "salvation",
     "repentance",
-    "kingdom",
-    "christ"
+    "faithfulness",
+    "kingdom of god",
+    "jesus christ"
   ],
   "Luke 22": [
-    "communion",
+    "lord's supper",
     "prayer",
-    "cross",
-    "obedience"
+    "betrayal",
+    "servanthood",
+    "suffering of christ"
   ],
   "Luke 23": [
-    "cross",
-    "atonement",
+    "crucifixion",
     "forgiveness",
-    "christ"
+    "grace",
+    "salvation",
+    "king of kings"
   ],
   "John 4": [
-    "worship",
-    "holy spirit",
-    "invitation",
-    "salvation"
+    "living water",
+    "true worship",
+    "evangelism",
+    "faith",
+    "healing"
   ],
   "John 6": [
-    "christ",
+    "bread of life",
     "provision",
     "faith",
-    "eternal life"
+    "eternal life",
+    "discipleship"
   ],
   "John 8": [
-    "light",
-    "freedom",
+    "light of the world",
     "truth",
-    "christ"
+    "freedom from sin",
+    "identity of jesus",
+    "faith"
   ],
   "John 11": [
     "resurrection",
     "hope",
-    "christ",
-    "eternal life"
+    "compassion",
+    "faith",
+    "jesus christ"
   ],
   "John 13": [
-    "love",
-    "service",
+    "servanthood",
+    "love one another",
     "humility",
+    "betrayal",
     "discipleship"
   ],
   "John 16": [
     "holy spirit",
     "peace",
-    "suffering",
-    "hope"
+    "perseverance",
+    "prayer",
+    "victory in christ"
   ],
   "John 17": [
-    "unity",
     "prayer",
-    "glory",
-    "mission"
+    "unity",
+    "glory of christ",
+    "holiness",
+    "love of god"
   ],
   "John 19": [
-    "cross",
-    "atonement",
+    "crucifixion",
+    "king of kings",
+    "fulfillment of scripture",
     "sacrifice",
     "salvation"
   ],
@@ -830,19 +942,22 @@
     "resurrection",
     "faith",
     "peace",
-    "mission"
+    "holy spirit",
+    "witness"
   ],
   "John 21": [
+    "resurrection",
     "restoration",
     "discipleship",
-    "love",
+    "love of christ",
     "mission"
   ],
   "Acts 1": [
+    "ascension",
     "holy spirit",
     "mission",
     "prayer",
-    "kingdom"
+    "church"
   ],
   "Acts 2": [
     "holy spirit",
@@ -852,251 +967,291 @@
     "baptism"
   ],
   "Acts 4": [
-    "prayer",
-    "courage",
-    "church",
-    "mission"
+    "boldness",
+    "resurrection",
+    "holy spirit",
+    "generosity",
+    "unity"
   ],
   "Acts 9": [
     "conversion",
     "grace",
     "calling",
-    "mission"
+    "healing",
+    "resurrection"
   ],
   "Acts 16": [
+    "holy spirit",
+    "mission",
+    "worship",
     "salvation",
-    "prayer",
-    "praise",
-    "deliverance"
+    "faith"
   ],
   "Romans 1": [
     "gospel",
     "faith",
-    "glory",
-    "salvation"
+    "righteousness",
+    "idolatry",
+    "sin"
   ],
   "Romans 3": [
-    "sin",
     "justification",
     "grace",
-    "faith"
+    "faith",
+    "redemption",
+    "sin"
   ],
   "Romans 4": [
     "faith",
-    "justification",
     "grace",
-    "promise"
+    "promise",
+    "justification",
+    "resurrection"
   ],
   "Romans 7": [
     "sin",
     "law",
-    "grace",
-    "dependence"
+    "struggle",
+    "deliverance",
+    "jesus christ"
   ],
   "Romans 9": [
     "sovereignty",
     "mercy",
-    "grace",
-    "election"
+    "promise",
+    "faith",
+    "israel"
   ],
   "Romans 10": [
-    "gospel",
+    "salvation",
     "faith",
+    "gospel",
     "mission",
-    "salvation"
+    "jesus christ"
   ],
   "Romans 11": [
     "mercy",
-    "sovereignty",
-    "worship",
-    "glory"
+    "grace",
+    "humility",
+    "israel",
+    "wisdom"
   ],
   "Romans 15": [
-    "unity",
     "hope",
+    "unity",
     "mission",
-    "praise"
+    "gentiles",
+    "holy spirit"
   ],
   "1 Corinthians 1": [
-    "christ",
+    "unity",
     "cross",
     "wisdom",
-    "church"
+    "grace",
+    "humility"
   ],
   "1 Corinthians 11": [
+    "worship",
     "communion",
-    "church",
-    "cross",
-    "unity"
+    "unity",
+    "reverence",
+    "church"
   ],
   "1 Corinthians 12": [
-    "church",
-    "unity",
     "holy spirit",
-    "gifts"
+    "spiritual gifts",
+    "unity",
+    "church",
+    "service"
   ],
   "1 Corinthians 13": [
     "love",
+    "patience",
+    "humility",
     "faith",
-    "hope",
-    "spiritual gifts"
+    "hope"
   ],
   "2 Corinthians 3": [
+    "new covenant",
     "holy spirit",
-    "glory",
-    "transformation",
-    "freedom"
+    "freedom",
+    "glory of god",
+    "transformation"
   ],
   "2 Corinthians 12": [
-    "weakness",
     "grace",
-    "suffering",
-    "power"
+    "weakness",
+    "power of god",
+    "humility",
+    "perseverance"
   ],
   "Galatians 5": [
     "freedom",
     "holy spirit",
     "love",
-    "holiness",
-    "fruitfulness"
+    "fruit of the spirit",
+    "holiness"
   ],
   "Ephesians 3": [
-    "love",
-    "grace",
-    "church",
+    "unity",
+    "gospel",
+    "love of christ",
+    "holy spirit",
     "prayer"
   ],
   "Ephesians 4": [
-    "church",
     "unity",
-    "sanctification",
-    "discipleship"
+    "church",
+    "spiritual growth",
+    "holiness",
+    "forgiveness"
   ],
   "Ephesians 5": [
-    "holiness",
-    "church",
     "love",
-    "worship"
+    "holiness",
+    "worship",
+    "marriage",
+    "holy spirit"
   ],
   "Philippians 1": [
-    "gospel",
-    "mission",
+    "gospel partnership",
+    "joy",
     "perseverance",
-    "joy"
+    "courage",
+    "christ"
   ],
   "Colossians 2": [
-    "christ",
+    "fullness of christ",
+    "forgiveness",
+    "union with christ",
     "freedom",
-    "faith",
-    "salvation"
+    "victory"
   ],
   "1 Thessalonians 4": [
     "holiness",
+    "brotherly love",
+    "resurrection",
     "second coming",
-    "hope",
-    "perseverance"
+    "comfort"
   ],
   "1 Thessalonians 5": [
+    "watchfulness",
+    "hope",
     "prayer",
-    "gratitude",
-    "second coming",
-    "holiness"
+    "sanctification",
+    "community"
   ],
   "1 Timothy 1": [
+    "sound doctrine",
+    "love",
     "grace",
     "mercy",
-    "salvation",
-    "christ"
+    "faithfulness"
   ],
   "2 Timothy 3": [
     "scripture",
-    "discipleship",
+    "truth",
+    "discernment",
     "perseverance",
-    "truth"
+    "godliness"
   ],
   "Titus 2": [
     "grace",
-    "sanctification",
-    "hope",
-    "second coming"
+    "holiness",
+    "good works",
+    "blessed hope",
+    "discipleship"
   ],
   "Hebrews 1": [
-    "christ",
-    "glory",
-    "majesty",
-    "sovereignty"
+    "jesus christ",
+    "glory of god",
+    "sovereignty",
+    "purification",
+    "eternal kingdom"
   ],
   "Hebrews 11": [
     "faith",
-    "obedience",
+    "god’s promises",
     "perseverance",
+    "obedience",
     "hope"
   ],
   "Hebrews 12": [
-    "perseverance",
+    "endurance",
     "holiness",
     "discipline",
-    "faith"
+    "jesus christ",
+    "worship"
   ],
   "James 2": [
-    "faith",
-    "works",
+    "faith and works",
+    "justice",
     "mercy",
+    "love of neighbor",
     "obedience"
   ],
   "1 Peter 3": [
-    "suffering",
     "hope",
-    "christ",
-    "faith"
+    "gentleness",
+    "peace",
+    "suffering for righteousness",
+    "resurrection"
   ],
   "1 Peter 5": [
+    "shepherding",
     "humility",
-    "suffering",
-    "trust",
-    "perseverance"
+    "god’s care",
+    "perseverance",
+    "grace"
   ],
   "2 Peter 3": [
-    "second coming",
-    "holiness",
-    "hope",
-    "perseverance"
+    "return of christ",
+    "patience",
+    "repentance",
+    "new creation",
+    "holiness"
   ],
   "1 John 3": [
-    "adoption",
+    "children of god",
     "love",
-    "identity",
-    "obedience"
+    "holiness",
+    "assurance",
+    "sacrifice"
   ],
   "1 John 4": [
-    "love",
-    "grace",
-    "salvation",
+    "love of god",
+    "discernment",
+    "atonement",
+    "holy spirit",
     "assurance"
   ],
   "Jude 1": [
+    "contending for faith",
+    "discernment",
+    "mercy",
     "perseverance",
-    "glory",
-    "assurance",
-    "faith"
+    "worship"
   ],
   "Revelation 1": [
-    "christ",
+    "revelation of jesus",
     "glory",
-    "majesty",
-    "worship"
+    "worship",
+    "assurance",
+    "church"
   ],
   "Revelation 7": [
     "salvation",
     "worship",
-    "glory",
-    "heaven"
+    "people of god",
+    "perseverance",
+    "comfort"
   ],
   "Revelation 19": [
     "worship",
-    "kingdom",
-    "victory",
-    "christ"
+    "marriage supper of the lamb",
+    "victory of christ",
+    "justice",
+    "kingdom of god"
   ],
   "Revelation 22": [
     "eternal life",
@@ -2157,5 +2312,6007 @@
     "family",
     "stewardship",
     "faithfulness"
+  ],
+  "Deuteronomy 1": [
+    "remembering god's works",
+    "justice",
+    "unbelief",
+    "obedience",
+    "god's promise"
+  ],
+  "Deuteronomy 2": [
+    "god's sovereignty",
+    "guidance",
+    "obedience",
+    "inheritance",
+    "victory"
+  ],
+  "Deuteronomy 3": [
+    "god's faithfulness",
+    "inheritance",
+    "leadership",
+    "courage",
+    "obedience"
+  ],
+  "Deuteronomy 4": [
+    "obedience",
+    "remembering",
+    "idolatry",
+    "god alone",
+    "mercy"
+  ],
+  "Deuteronomy 5": [
+    "ten commandments",
+    "covenant",
+    "holiness",
+    "sabbath rest",
+    "obedience"
+  ],
+  "Deuteronomy 7": [
+    "covenant love",
+    "god's faithfulness",
+    "holiness",
+    "idolatry",
+    "trust"
+  ],
+  "Deuteronomy 8": [
+    "dependence on god",
+    "god's provision",
+    "humility",
+    "gratitude",
+    "remembering"
+  ],
+  "Deuteronomy 9": [
+    "humility",
+    "human sin",
+    "intercession",
+    "mercy",
+    "god's promise"
+  ],
+  "Deuteronomy 10": [
+    "love for god",
+    "heart obedience",
+    "justice",
+    "love for foreigners",
+    "covenant"
+  ],
+  "Deuteronomy 11": [
+    "love for god",
+    "obedience",
+    "blessing",
+    "god's provision",
+    "discipleship"
+  ],
+  "Deuteronomy 12": [
+    "true worship",
+    "holiness",
+    "obedience",
+    "joy",
+    "rejecting idolatry"
+  ],
+  "Deuteronomy 13": [
+    "faithfulness",
+    "discernment",
+    "idolatry",
+    "covenant loyalty",
+    "obedience"
+  ],
+  "Deuteronomy 14": [
+    "holiness",
+    "identity in god",
+    "generosity",
+    "joyful worship",
+    "care for the vulnerable"
+  ],
+  "Deuteronomy 15": [
+    "generosity",
+    "justice",
+    "debt release",
+    "compassion",
+    "remembering redemption"
+  ],
+  "Deuteronomy 16": [
+    "passover",
+    "worship",
+    "joy",
+    "justice",
+    "thanksgiving"
+  ],
+  "Deuteronomy 17": [
+    "justice",
+    "leadership",
+    "humility",
+    "god's word",
+    "integrity"
+  ],
+  "Deuteronomy 18": [
+    "god's word",
+    "true prophecy",
+    "discernment",
+    "holiness",
+    "trust"
+  ],
+  "Deuteronomy 19": [
+    "justice",
+    "refuge",
+    "sanctity of life",
+    "truthfulness",
+    "integrity"
+  ],
+  "Deuteronomy 20": [
+    "courage",
+    "trust in god",
+    "judgment",
+    "restraint",
+    "obedience"
+  ],
+  "Deuteronomy 21": [
+    "justice",
+    "human dignity",
+    "family responsibility",
+    "sin",
+    "atonement"
+  ],
+  "Deuteronomy 22": [
+    "love for neighbor",
+    "responsibility",
+    "justice",
+    "purity",
+    "holiness"
+  ],
+  "Deuteronomy 23": [
+    "holiness",
+    "god's presence",
+    "faithfulness",
+    "justice",
+    "care for others"
+  ],
+  "Deuteronomy 24": [
+    "justice",
+    "compassion",
+    "care for the poor",
+    "integrity",
+    "remembering redemption"
+  ],
+  "Deuteronomy 25": [
+    "justice",
+    "integrity",
+    "family responsibility",
+    "compassion",
+    "remembering"
+  ],
+  "Deuteronomy 26": [
+    "thanksgiving",
+    "remembering salvation",
+    "worship",
+    "generosity",
+    "covenant"
+  ],
+  "Deuteronomy 27": [
+    "covenant",
+    "obedience",
+    "justice",
+    "idolatry",
+    "worship"
+  ],
+  "Deuteronomy 28": [
+    "blessing",
+    "covenant faithfulness",
+    "judgment",
+    "obedience",
+    "consequences of sin"
+  ],
+  "Deuteronomy 29": [
+    "covenant renewal",
+    "remembering",
+    "heart faithfulness",
+    "idolatry",
+    "obedience"
+  ],
+  "Deuteronomy 30": [
+    "repentance",
+    "restoration",
+    "love for god",
+    "choose life",
+    "mercy"
+  ],
+  "Deuteronomy 31": [
+    "courage",
+    "leadership",
+    "god's presence",
+    "god's word",
+    "discipleship"
+  ],
+  "Deuteronomy 32": [
+    "god's faithfulness",
+    "remembering",
+    "idolatry",
+    "judgment",
+    "mercy"
+  ],
+  "Deuteronomy 33": [
+    "blessing",
+    "god's protection",
+    "god's faithfulness",
+    "refuge",
+    "worship"
+  ],
+  "Deuteronomy 34": [
+    "god's promise",
+    "leadership",
+    "grief",
+    "god's faithfulness",
+    "hope"
+  ],
+  "Joshua 2": [
+    "faith",
+    "mercy",
+    "god’s sovereignty",
+    "protection",
+    "courage"
+  ],
+  "Joshua 3": [
+    "god’s presence",
+    "faith",
+    "deliverance",
+    "god’s power",
+    "promise"
+  ],
+  "Joshua 4": [
+    "remembrance",
+    "god’s faithfulness",
+    "testimony",
+    "deliverance",
+    "worship"
+  ],
+  "Joshua 5": [
+    "covenant",
+    "passover",
+    "holiness",
+    "god’s provision",
+    "submission"
+  ],
+  "Joshua 6": [
+    "god’s power",
+    "obedience",
+    "judgment",
+    "mercy",
+    "deliverance"
+  ],
+  "Joshua 7": [
+    "sin",
+    "covenant faithfulness",
+    "judgment",
+    "confession",
+    "holiness"
+  ],
+  "Joshua 8": [
+    "courage",
+    "god’s guidance",
+    "obedience",
+    "covenant renewal",
+    "worship"
+  ],
+  "Joshua 9": [
+    "discernment",
+    "prayer",
+    "deception",
+    "integrity",
+    "covenant"
+  ],
+  "Joshua 10": [
+    "god’s power",
+    "divine help",
+    "courage",
+    "judgment",
+    "promise"
+  ],
+  "Joshua 11": [
+    "courage",
+    "perseverance",
+    "judgment",
+    "obedience",
+    "god’s promise"
+  ],
+  "Joshua 12": [
+    "remembrance",
+    "inheritance",
+    "god’s faithfulness",
+    "victory"
+  ],
+  "Joshua 13": [
+    "inheritance",
+    "god’s promise",
+    "faithfulness",
+    "calling",
+    "unfinished work"
+  ],
+  "Joshua 14": [
+    "faithfulness",
+    "perseverance",
+    "courage",
+    "inheritance",
+    "god’s promise"
+  ],
+  "Joshua 15": [
+    "inheritance",
+    "courage",
+    "provision",
+    "responsibility"
+  ],
+  "Joshua 16": [
+    "inheritance",
+    "promise",
+    "obedience",
+    "responsibility"
+  ],
+  "Joshua 17": [
+    "justice",
+    "inheritance",
+    "courage",
+    "god’s promise",
+    "responsibility"
+  ],
+  "Joshua 18": [
+    "worship",
+    "inheritance",
+    "obedience",
+    "responsibility",
+    "god’s guidance"
+  ],
+  "Joshua 19": [
+    "inheritance",
+    "god’s provision",
+    "community",
+    "faithfulness"
+  ],
+  "Joshua 20": [
+    "justice",
+    "mercy",
+    "refuge",
+    "protection",
+    "fairness"
+  ],
+  "Joshua 21": [
+    "god’s faithfulness",
+    "fulfilled promise",
+    "worship",
+    "provision",
+    "rest"
+  ],
+  "Joshua 22": [
+    "unity",
+    "covenant faithfulness",
+    "worship",
+    "peace",
+    "discernment"
+  ],
+  "Joshua 23": [
+    "god’s faithfulness",
+    "obedience",
+    "covenant",
+    "idolatry",
+    "perseverance"
+  ],
+  "Judges 1": [
+    "obedience",
+    "god's guidance",
+    "inheritance",
+    "compromise",
+    "faithfulness"
+  ],
+  "Judges 2": [
+    "covenant faithfulness",
+    "idolatry",
+    "judgment",
+    "mercy",
+    "generational discipleship"
+  ],
+  "Judges 3": [
+    "deliverance",
+    "mercy",
+    "repentance",
+    "god's power",
+    "idolatry"
+  ],
+  "Judges 4": [
+    "god's deliverance",
+    "courage",
+    "leadership",
+    "god's sovereignty",
+    "faith"
+  ],
+  "Judges 5": [
+    "praise",
+    "thanksgiving",
+    "god's deliverance",
+    "courage",
+    "remembrance"
+  ],
+  "Judges 6": [
+    "god's presence",
+    "calling",
+    "courage",
+    "faith",
+    "idolatry"
+  ],
+  "Judges 7": [
+    "god's power",
+    "dependence on god",
+    "faith",
+    "deliverance",
+    "humility"
+  ],
+  "Judges 8": [
+    "god's kingship",
+    "idolatry",
+    "leadership",
+    "compromise",
+    "faithfulness"
+  ],
+  "Judges 9": [
+    "corrupt leadership",
+    "pride",
+    "violence",
+    "divine justice",
+    "consequences of sin"
+  ],
+  "Judges 10": [
+    "repentance",
+    "idolatry",
+    "god's compassion",
+    "deliverance",
+    "faithfulness"
+  ],
+  "Judges 11": [
+    "god's deliverance",
+    "rash vows",
+    "grief",
+    "leadership",
+    "wisdom"
+  ],
+  "Judges 12": [
+    "division",
+    "pride",
+    "violence",
+    "leadership",
+    "peace"
+  ],
+  "Judges 13": [
+    "god's calling",
+    "consecration",
+    "promise",
+    "prayer",
+    "deliverance"
+  ],
+  "Judges 14": [
+    "god's sovereignty",
+    "impulsiveness",
+    "conflict",
+    "choices",
+    "consequences"
+  ],
+  "Judges 15": [
+    "god's power",
+    "vengeance",
+    "god's provision",
+    "prayer",
+    "deliverance"
+  ],
+  "Judges 16": [
+    "temptation",
+    "consequences of sin",
+    "prayer",
+    "god's power",
+    "judgment"
+  ],
+  "Judges 17": [
+    "idolatry",
+    "false worship",
+    "spiritual compromise",
+    "disobedience",
+    "discernment"
+  ],
+  "Judges 18": [
+    "idolatry",
+    "false worship",
+    "spiritual leadership",
+    "compromise",
+    "injustice"
+  ],
+  "Judges 19": [
+    "injustice",
+    "violence",
+    "human dignity",
+    "sin",
+    "need for justice"
+  ],
+  "Judges 20": [
+    "justice",
+    "civil conflict",
+    "judgment",
+    "grief",
+    "prayer"
+  ],
+  "Judges 21": [
+    "moral disorder",
+    "rash vows",
+    "injustice",
+    "violence",
+    "need for faithful leadership"
+  ],
+  "1 Samuel 1": [
+    "prayer",
+    "lament",
+    "god's faithfulness",
+    "dedication",
+    "thanksgiving"
+  ],
+  "1 Samuel 2": [
+    "praise",
+    "god's sovereignty",
+    "justice",
+    "holiness",
+    "faithful service"
+  ],
+  "1 Samuel 3": [
+    "god's word",
+    "calling",
+    "obedience",
+    "prophecy",
+    "faithfulness"
+  ],
+  "1 Samuel 4": [
+    "judgment",
+    "false confidence",
+    "god's holiness",
+    "grief",
+    "worship"
+  ],
+  "1 Samuel 5": [
+    "god's sovereignty",
+    "holiness",
+    "idolatry",
+    "judgment",
+    "god's power"
+  ],
+  "1 Samuel 6": [
+    "god's holiness",
+    "worship",
+    "repentance",
+    "god's guidance",
+    "reverence"
+  ],
+  "1 Samuel 8": [
+    "god's kingship",
+    "justice",
+    "human authority",
+    "trust",
+    "disobedience"
+  ],
+  "1 Samuel 9": [
+    "god's providence",
+    "calling",
+    "leadership",
+    "god's guidance",
+    "deliverance"
+  ],
+  "1 Samuel 10": [
+    "anointing",
+    "holy spirit",
+    "leadership",
+    "god's kingship",
+    "humility"
+  ],
+  "1 Samuel 11": [
+    "deliverance",
+    "courage",
+    "holy spirit",
+    "mercy",
+    "thanksgiving"
+  ],
+  "1 Samuel 12": [
+    "covenant faithfulness",
+    "repentance",
+    "prayer",
+    "god's mercy",
+    "obedience"
+  ],
+  "1 Samuel 13": [
+    "obedience",
+    "impatience",
+    "leadership",
+    "trust",
+    "judgment"
+  ],
+  "1 Samuel 14": [
+    "faith",
+    "courage",
+    "deliverance",
+    "wisdom",
+    "leadership"
+  ],
+  "1 Samuel 15": [
+    "obedience",
+    "repentance",
+    "pride",
+    "judgment",
+    "true worship"
+  ],
+  "1 Samuel 16": [
+    "god's calling",
+    "heart",
+    "holy spirit",
+    "humility",
+    "leadership"
+  ],
+  "1 Samuel 17": [
+    "faith",
+    "courage",
+    "god's power",
+    "deliverance",
+    "trust"
+  ],
+  "1 Samuel 18": [
+    "friendship",
+    "jealousy",
+    "integrity",
+    "god's presence",
+    "faithfulness"
+  ],
+  "1 Samuel 19": [
+    "god's protection",
+    "loyalty",
+    "jealousy",
+    "deliverance",
+    "friendship"
+  ],
+  "1 Samuel 20": [
+    "friendship",
+    "covenant loyalty",
+    "sacrifice",
+    "integrity",
+    "grief"
+  ],
+  "1 Samuel 21": [
+    "need",
+    "god's provision",
+    "fear",
+    "refuge",
+    "human weakness"
+  ],
+  "1 Samuel 22": [
+    "injustice",
+    "persecution",
+    "refuge",
+    "leadership",
+    "compassion"
+  ],
+  "1 Samuel 23": [
+    "prayer",
+    "guidance",
+    "friendship",
+    "god's protection",
+    "trust"
+  ],
+  "1 Samuel 24": [
+    "mercy",
+    "restraint",
+    "forgiveness",
+    "trust",
+    "justice"
+  ],
+  "1 Samuel 25": [
+    "wisdom",
+    "peacemaking",
+    "humility",
+    "restraint",
+    "god's justice"
+  ],
+  "1 Samuel 26": [
+    "restraint",
+    "trust",
+    "mercy",
+    "god's sovereignty",
+    "integrity"
+  ],
+  "1 Samuel 27": [
+    "exile",
+    "fear",
+    "deception",
+    "survival",
+    "human weakness"
+  ],
+  "1 Samuel 28": [
+    "judgment",
+    "disobedience",
+    "fear",
+    "god's word",
+    "false guidance"
+  ],
+  "1 Samuel 29": [
+    "god's providence",
+    "conflict",
+    "protection",
+    "uncertainty",
+    "leadership"
+  ],
+  "1 Samuel 30": [
+    "prayer",
+    "deliverance",
+    "restoration",
+    "leadership",
+    "generosity"
+  ],
+  "1 Samuel 31": [
+    "grief",
+    "judgment",
+    "loyalty",
+    "death",
+    "leadership"
+  ],
+  "2 Samuel 1": [
+    "grief",
+    "loyalty",
+    "friendship",
+    "honor",
+    "leadership"
+  ],
+  "2 Samuel 2": [
+    "god's guidance",
+    "kingship",
+    "division",
+    "violence",
+    "faithfulness"
+  ],
+  "2 Samuel 3": [
+    "revenge",
+    "justice",
+    "reconciliation",
+    "leadership",
+    "grief"
+  ],
+  "2 Samuel 4": [
+    "justice",
+    "integrity",
+    "violence",
+    "kingship",
+    "mercy"
+  ],
+  "2 Samuel 5": [
+    "kingship",
+    "god's presence",
+    "guidance",
+    "unity",
+    "victory"
+  ],
+  "2 Samuel 6": [
+    "holiness",
+    "worship",
+    "god's presence",
+    "reverence",
+    "joy"
+  ],
+  "2 Samuel 8": [
+    "victory",
+    "god's provision",
+    "justice",
+    "leadership",
+    "stewardship"
+  ],
+  "2 Samuel 9": [
+    "covenant kindness",
+    "mercy",
+    "hospitality",
+    "generosity",
+    "faithfulness"
+  ],
+  "2 Samuel 10": [
+    "courage",
+    "trust in god",
+    "conflict",
+    "pride",
+    "victory"
+  ],
+  "2 Samuel 11": [
+    "sin",
+    "abuse of power",
+    "adultery",
+    "injustice",
+    "accountability"
+  ],
+  "2 Samuel 12": [
+    "repentance",
+    "forgiveness",
+    "judgment",
+    "mercy",
+    "consequences of sin"
+  ],
+  "2 Samuel 13": [
+    "injustice",
+    "sexual violence",
+    "family conflict",
+    "revenge",
+    "grief"
+  ],
+  "2 Samuel 14": [
+    "reconciliation",
+    "family conflict",
+    "mercy",
+    "justice",
+    "leadership"
+  ],
+  "2 Samuel 15": [
+    "betrayal",
+    "ambition",
+    "trust in god",
+    "prayer",
+    "leadership"
+  ],
+  "2 Samuel 16": [
+    "humility",
+    "restraint",
+    "betrayal",
+    "judgment",
+    "wisdom"
+  ],
+  "2 Samuel 17": [
+    "god's providence",
+    "wisdom",
+    "deliverance",
+    "loyalty",
+    "trust"
+  ],
+  "2 Samuel 18": [
+    "grief",
+    "family conflict",
+    "judgment",
+    "victory",
+    "leadership"
+  ],
+  "2 Samuel 19": [
+    "restoration",
+    "mercy",
+    "reconciliation",
+    "unity",
+    "leadership"
+  ],
+  "2 Samuel 20": [
+    "division",
+    "wisdom",
+    "peace",
+    "violence",
+    "leadership"
+  ],
+  "2 Samuel 21": [
+    "justice",
+    "consequences of sin",
+    "compassion",
+    "prayer",
+    "deliverance"
+  ],
+  "2 Samuel 22": [
+    "thanksgiving",
+    "deliverance",
+    "god's faithfulness",
+    "refuge",
+    "praise"
+  ],
+  "2 Samuel 23": [
+    "covenant hope",
+    "justice",
+    "courage",
+    "sacrifice",
+    "leadership"
+  ],
+  "2 Samuel 24": [
+    "repentance",
+    "judgment",
+    "intercession",
+    "sacrifice",
+    "mercy"
+  ],
+  "1 Kings 1": [
+    "leadership",
+    "god's promise",
+    "wisdom",
+    "mercy",
+    "kingship"
+  ],
+  "1 Kings 2": [
+    "covenant faithfulness",
+    "justice",
+    "kingship",
+    "consequences",
+    "obedience"
+  ],
+  "1 Kings 3": [
+    "wisdom",
+    "prayer",
+    "discernment",
+    "justice",
+    "god's gift"
+  ],
+  "1 Kings 4": [
+    "god's blessing",
+    "wisdom",
+    "peace",
+    "stewardship",
+    "prosperity"
+  ],
+  "1 Kings 5": [
+    "worship",
+    "preparation",
+    "peace",
+    "cooperation",
+    "stewardship"
+  ],
+  "1 Kings 6": [
+    "god's presence",
+    "holiness",
+    "worship",
+    "obedience",
+    "temple"
+  ],
+  "1 Kings 7": [
+    "worship",
+    "craftsmanship",
+    "holiness",
+    "temple",
+    "stewardship"
+  ],
+  "1 Kings 8": [
+    "god's glory",
+    "prayer",
+    "forgiveness",
+    "worship",
+    "covenant"
+  ],
+  "1 Kings 9": [
+    "covenant faithfulness",
+    "god's warning",
+    "obedience",
+    "idolatry",
+    "stewardship"
+  ],
+  "1 Kings 10": [
+    "wisdom",
+    "god's blessing",
+    "justice",
+    "wealth",
+    "witness"
+  ],
+  "1 Kings 11": [
+    "idolatry",
+    "disobedience",
+    "judgment",
+    "divided heart",
+    "god's promise"
+  ],
+  "1 Kings 12": [
+    "pride",
+    "leadership",
+    "division",
+    "idolatry",
+    "false worship"
+  ],
+  "1 Kings 13": [
+    "god's word",
+    "obedience",
+    "false prophecy",
+    "judgment",
+    "repentance"
+  ],
+  "1 Kings 14": [
+    "idolatry",
+    "judgment",
+    "god's word",
+    "unfaithfulness",
+    "consequences"
+  ],
+  "1 Kings 15": [
+    "reform",
+    "covenant promise",
+    "idolatry",
+    "leadership",
+    "compromise"
+  ],
+  "1 Kings 16": [
+    "idolatry",
+    "judgment",
+    "corrupt leadership",
+    "god's word",
+    "consequences"
+  ],
+  "1 Kings 17": [
+    "god's provision",
+    "faith",
+    "prayer",
+    "resurrection",
+    "god's power"
+  ],
+  "1 Kings 18": [
+    "true worship",
+    "god's power",
+    "prayer",
+    "repentance",
+    "idolatry"
+  ],
+  "1 Kings 19": [
+    "god's presence",
+    "discouragement",
+    "rest",
+    "calling",
+    "faithfulness"
+  ],
+  "1 Kings 20": [
+    "god's sovereignty",
+    "deliverance",
+    "obedience",
+    "judgment",
+    "mercy"
+  ],
+  "1 Kings 21": [
+    "justice",
+    "greed",
+    "abuse of power",
+    "judgment",
+    "humility"
+  ],
+  "1 Kings 22": [
+    "god's word",
+    "truth",
+    "judgment",
+    "discernment",
+    "leadership"
+  ],
+  "2 Kings 1": [
+    "god’s sovereignty",
+    "idolatry",
+    "judgment",
+    "humility",
+    "prophetic word"
+  ],
+  "2 Kings 2": [
+    "calling",
+    "holy spirit",
+    "god’s power",
+    "prophetic ministry",
+    "succession"
+  ],
+  "2 Kings 3": [
+    "god’s provision",
+    "prayer",
+    "prophetic word",
+    "deliverance",
+    "war"
+  ],
+  "2 Kings 4": [
+    "god’s provision",
+    "compassion",
+    "hospitality",
+    "resurrection",
+    "faith"
+  ],
+  "2 Kings 5": [
+    "healing",
+    "humility",
+    "faith",
+    "grace",
+    "greed"
+  ],
+  "2 Kings 6": [
+    "god’s protection",
+    "prayer",
+    "mercy",
+    "spiritual sight",
+    "trust"
+  ],
+  "2 Kings 7": [
+    "deliverance",
+    "good news",
+    "god’s provision",
+    "faith",
+    "unbelief"
+  ],
+  "2 Kings 8": [
+    "god’s providence",
+    "justice",
+    "prophecy",
+    "corrupt leadership",
+    "covenant faithfulness"
+  ],
+  "2 Kings 9": [
+    "judgment",
+    "prophecy fulfilled",
+    "idolatry",
+    "kingship",
+    "accountability"
+  ],
+  "2 Kings 10": [
+    "idolatry",
+    "partial obedience",
+    "judgment",
+    "faithfulness",
+    "leadership"
+  ],
+  "2 Kings 11": [
+    "god’s faithfulness",
+    "covenant",
+    "courage",
+    "deliverance",
+    "kingship"
+  ],
+  "2 Kings 12": [
+    "stewardship",
+    "worship",
+    "integrity",
+    "leadership",
+    "incomplete reform"
+  ],
+  "2 Kings 13": [
+    "mercy",
+    "covenant faithfulness",
+    "prayer",
+    "deliverance",
+    "unfaithfulness"
+  ],
+  "2 Kings 14": [
+    "pride",
+    "humility",
+    "mercy",
+    "leadership",
+    "god’s compassion"
+  ],
+  "2 Kings 15": [
+    "leadership",
+    "judgment",
+    "idolatry",
+    "instability",
+    "prophecy fulfilled"
+  ],
+  "2 Kings 16": [
+    "idolatry",
+    "false worship",
+    "fear",
+    "trust",
+    "leadership"
+  ],
+  "2 Kings 17": [
+    "exile",
+    "covenant judgment",
+    "idolatry",
+    "repentance",
+    "faithfulness"
+  ],
+  "2 Kings 18": [
+    "faithfulness",
+    "trust in god",
+    "idolatry",
+    "courage",
+    "deliverance"
+  ],
+  "2 Kings 19": [
+    "prayer",
+    "god’s sovereignty",
+    "deliverance",
+    "trust",
+    "god’s glory"
+  ],
+  "2 Kings 20": [
+    "prayer",
+    "healing",
+    "mercy",
+    "pride",
+    "judgment"
+  ],
+  "2 Kings 21": [
+    "idolatry",
+    "judgment",
+    "leadership",
+    "injustice",
+    "holiness"
+  ],
+  "2 Kings 22": [
+    "god’s word",
+    "repentance",
+    "humility",
+    "covenant",
+    "reform"
+  ],
+  "2 Kings 23": [
+    "repentance",
+    "worship",
+    "god’s word",
+    "holiness",
+    "judgment"
+  ],
+  "2 Kings 24": [
+    "exile",
+    "judgment",
+    "prophecy fulfilled",
+    "leadership",
+    "covenant unfaithfulness"
+  ],
+  "2 Kings 25": [
+    "exile",
+    "judgment",
+    "loss",
+    "hope",
+    "god’s faithfulness"
+  ],
+  "1 Chronicles 1": [
+    "genealogy",
+    "nations",
+    "covenant history",
+    "god's providence",
+    "generations"
+  ],
+  "1 Chronicles 2": [
+    "judah",
+    "genealogy",
+    "davidic line",
+    "family legacy",
+    "god's providence"
+  ],
+  "1 Chronicles 3": [
+    "davidic covenant",
+    "kingship",
+    "generations",
+    "exile",
+    "god's faithfulness"
+  ],
+  "1 Chronicles 4": [
+    "prayer",
+    "blessing",
+    "genealogy",
+    "god's provision",
+    "community"
+  ],
+  "1 Chronicles 5": [
+    "trust in god",
+    "idolatry",
+    "divine judgment",
+    "deliverance",
+    "exile"
+  ],
+  "1 Chronicles 6": [
+    "worship",
+    "priesthood",
+    "atonement",
+    "service",
+    "god's provision"
+  ],
+  "1 Chronicles 7": [
+    "identity",
+    "generations",
+    "family legacy",
+    "community",
+    "god's providence"
+  ],
+  "1 Chronicles 8": [
+    "genealogy",
+    "benjamin",
+    "kingship",
+    "family legacy",
+    "history"
+  ],
+  "1 Chronicles 9": [
+    "restoration",
+    "faithful service",
+    "worship",
+    "community",
+    "exile"
+  ],
+  "1 Chronicles 10": [
+    "unfaithfulness",
+    "divine judgment",
+    "leadership",
+    "death",
+    "god's word"
+  ],
+  "1 Chronicles 11": [
+    "kingship",
+    "god's presence",
+    "courage",
+    "loyalty",
+    "sacrifice"
+  ],
+  "1 Chronicles 12": [
+    "unity",
+    "loyalty",
+    "courage",
+    "god's help",
+    "joy"
+  ],
+  "1 Chronicles 13": [
+    "holiness",
+    "reverence",
+    "obedience",
+    "worship",
+    "god's blessing"
+  ],
+  "1 Chronicles 14": [
+    "god's guidance",
+    "prayer",
+    "obedience",
+    "victory",
+    "kingship"
+  ],
+  "1 Chronicles 15": [
+    "worship",
+    "god's presence",
+    "holiness",
+    "obedience",
+    "joy"
+  ],
+  "1 Chronicles 16": [
+    "praise",
+    "thanksgiving",
+    "god's glory",
+    "remembering god's works",
+    "worship"
+  ],
+  "1 Chronicles 17": [
+    "davidic covenant",
+    "god's promise",
+    "grace",
+    "prayer",
+    "kingship"
+  ],
+  "1 Chronicles 18": [
+    "god's help",
+    "victory",
+    "stewardship",
+    "justice",
+    "leadership"
+  ],
+  "1 Chronicles 19": [
+    "kindness",
+    "mistrust",
+    "courage",
+    "trust in god",
+    "conflict"
+  ],
+  "1 Chronicles 20": [
+    "courage",
+    "victory",
+    "leadership",
+    "deliverance",
+    "history"
+  ],
+  "1 Chronicles 21": [
+    "repentance",
+    "divine mercy",
+    "intercession",
+    "judgment",
+    "sacrifice"
+  ],
+  "1 Chronicles 22": [
+    "temple",
+    "preparation",
+    "obedience",
+    "generational faithfulness",
+    "courage"
+  ],
+  "1 Chronicles 23": [
+    "service",
+    "worship",
+    "order",
+    "praise",
+    "stewardship"
+  ],
+  "1 Chronicles 24": [
+    "priesthood",
+    "worship",
+    "order",
+    "service",
+    "faithfulness"
+  ],
+  "1 Chronicles 25": [
+    "musical worship",
+    "praise",
+    "thanksgiving",
+    "spiritual gifts",
+    "service"
+  ],
+  "1 Chronicles 26": [
+    "stewardship",
+    "faithfulness",
+    "service",
+    "accountability",
+    "worship"
+  ],
+  "1 Chronicles 27": [
+    "leadership",
+    "stewardship",
+    "administration",
+    "accountability",
+    "god's promise"
+  ],
+  "1 Chronicles 28": [
+    "temple",
+    "god's presence",
+    "obedience",
+    "courage",
+    "generational faithfulness"
+  ],
+  "1 Chronicles 29": [
+    "generosity",
+    "praise",
+    "stewardship",
+    "prayer",
+    "faithful leadership"
+  ],
+  "2 Chronicles 1": [
+    "wisdom",
+    "prayer",
+    "leadership",
+    "god’s provision",
+    "humility"
+  ],
+  "2 Chronicles 2": [
+    "worship",
+    "god’s greatness",
+    "stewardship",
+    "service",
+    "preparation"
+  ],
+  "2 Chronicles 3": [
+    "holiness",
+    "temple",
+    "worship",
+    "god’s presence",
+    "covenant"
+  ],
+  "2 Chronicles 4": [
+    "worship",
+    "holiness",
+    "cleansing",
+    "service",
+    "craftsmanship"
+  ],
+  "2 Chronicles 5": [
+    "god’s glory",
+    "god’s presence",
+    "praise",
+    "covenant",
+    "worship"
+  ],
+  "2 Chronicles 6": [
+    "prayer",
+    "forgiveness",
+    "god’s faithfulness",
+    "repentance",
+    "mercy"
+  ],
+  "2 Chronicles 7": [
+    "god’s glory",
+    "prayer",
+    "repentance",
+    "forgiveness",
+    "covenant faithfulness"
+  ],
+  "2 Chronicles 8": [
+    "stewardship",
+    "worship",
+    "leadership",
+    "holiness",
+    "faithful service"
+  ],
+  "2 Chronicles 9": [
+    "wisdom",
+    "god’s blessing",
+    "leadership",
+    "god’s glory",
+    "mortality"
+  ],
+  "2 Chronicles 10": [
+    "pride",
+    "leadership",
+    "division",
+    "wisdom",
+    "god’s sovereignty"
+  ],
+  "2 Chronicles 11": [
+    "obedience",
+    "faithful worship",
+    "god’s word",
+    "leadership",
+    "devotion"
+  ],
+  "2 Chronicles 12": [
+    "repentance",
+    "humility",
+    "judgment",
+    "mercy",
+    "seeking god"
+  ],
+  "2 Chronicles 13": [
+    "trust in god",
+    "covenant",
+    "prayer",
+    "worship",
+    "deliverance"
+  ],
+  "2 Chronicles 14": [
+    "seeking god",
+    "prayer",
+    "trust",
+    "reform",
+    "god’s deliverance"
+  ],
+  "2 Chronicles 15": [
+    "covenant renewal",
+    "repentance",
+    "seeking god",
+    "worship",
+    "courage"
+  ],
+  "2 Chronicles 16": [
+    "trust in god",
+    "self-reliance",
+    "prophetic warning",
+    "pride",
+    "perseverance"
+  ],
+  "2 Chronicles 17": [
+    "god’s word",
+    "teaching",
+    "faithfulness",
+    "leadership",
+    "seeking god"
+  ],
+  "2 Chronicles 18": [
+    "truth",
+    "prophetic courage",
+    "discernment",
+    "judgment",
+    "god’s protection"
+  ],
+  "2 Chronicles 19": [
+    "justice",
+    "integrity",
+    "repentance",
+    "leadership",
+    "fear of the lord"
+  ],
+  "2 Chronicles 20": [
+    "prayer",
+    "praise",
+    "trust",
+    "god’s deliverance",
+    "god’s faithfulness"
+  ],
+  "2 Chronicles 21": [
+    "wicked leadership",
+    "idolatry",
+    "judgment",
+    "davidic covenant",
+    "god’s faithfulness"
+  ],
+  "2 Chronicles 22": [
+    "god’s providence",
+    "protection",
+    "courage",
+    "judgment",
+    "davidic covenant"
+  ],
+  "2 Chronicles 23": [
+    "covenant renewal",
+    "true worship",
+    "god’s providence",
+    "leadership",
+    "reform"
+  ],
+  "2 Chronicles 24": [
+    "temple worship",
+    "generosity",
+    "apostasy",
+    "prophetic warning",
+    "perseverance"
+  ],
+  "2 Chronicles 25": [
+    "obedience",
+    "idolatry",
+    "pride",
+    "prophetic warning",
+    "faithfulness"
+  ],
+  "2 Chronicles 26": [
+    "pride",
+    "humility",
+    "holiness",
+    "leadership",
+    "accountability"
+  ],
+  "2 Chronicles 27": [
+    "faithfulness",
+    "leadership",
+    "obedience",
+    "integrity",
+    "seeking god"
+  ],
+  "2 Chronicles 28": [
+    "idolatry",
+    "judgment",
+    "compassion",
+    "repentance",
+    "false trust"
+  ],
+  "2 Chronicles 29": [
+    "worship",
+    "repentance",
+    "consecration",
+    "renewal",
+    "praise"
+  ],
+  "2 Chronicles 30": [
+    "passover",
+    "repentance",
+    "unity",
+    "prayer",
+    "joy"
+  ],
+  "2 Chronicles 31": [
+    "generosity",
+    "stewardship",
+    "worship",
+    "faithfulness",
+    "service"
+  ],
+  "2 Chronicles 32": [
+    "prayer",
+    "god’s deliverance",
+    "trust",
+    "humility",
+    "god’s sovereignty"
+  ],
+  "2 Chronicles 33": [
+    "repentance",
+    "god’s mercy",
+    "idolatry",
+    "humility",
+    "restoration"
+  ],
+  "2 Chronicles 34": [
+    "god’s word",
+    "repentance",
+    "covenant renewal",
+    "reform",
+    "humility"
+  ],
+  "2 Chronicles 35": [
+    "passover",
+    "worship",
+    "obedience",
+    "discernment",
+    "grief"
+  ],
+  "2 Chronicles 36": [
+    "judgment",
+    "exile",
+    "prophetic warning",
+    "god’s faithfulness",
+    "restoration"
+  ],
+  "Ezra 1": [
+    "god's faithfulness",
+    "restoration",
+    "god's providence",
+    "willing service",
+    "worship"
+  ],
+  "Ezra 2": [
+    "restoration",
+    "community",
+    "faithfulness",
+    "generosity",
+    "worship"
+  ],
+  "Ezra 3": [
+    "worship",
+    "thanksgiving",
+    "restoration",
+    "god's steadfast love",
+    "hope"
+  ],
+  "Ezra 4": [
+    "opposition",
+    "perseverance",
+    "discernment",
+    "community",
+    "faithfulness"
+  ],
+  "Ezra 5": [
+    "god's word",
+    "prophetic encouragement",
+    "perseverance",
+    "obedience",
+    "god's providence"
+  ],
+  "Ezra 6": [
+    "god's faithfulness",
+    "answered prayer",
+    "worship",
+    "passover",
+    "joy"
+  ],
+  "Ezra 7": [
+    "scripture",
+    "teaching",
+    "obedience",
+    "god's providence",
+    "thanksgiving"
+  ],
+  "Ezra 8": [
+    "prayer",
+    "fasting",
+    "trust in god",
+    "stewardship",
+    "god's protection"
+  ],
+  "Ezra 9": [
+    "confession",
+    "repentance",
+    "holiness",
+    "god's mercy",
+    "covenant faithfulness"
+  ],
+  "Ezra 10": [
+    "repentance",
+    "covenant faithfulness",
+    "holiness",
+    "community accountability",
+    "restoration"
+  ],
+  "Nehemiah 1": [
+    "prayer",
+    "confession",
+    "compassion",
+    "covenant faithfulness",
+    "hope"
+  ],
+  "Nehemiah 2": [
+    "god's guidance",
+    "prayer",
+    "leadership",
+    "courage",
+    "perseverance"
+  ],
+  "Nehemiah 3": [
+    "service",
+    "community",
+    "stewardship",
+    "shared responsibility",
+    "perseverance"
+  ],
+  "Nehemiah 4": [
+    "prayer",
+    "courage",
+    "perseverance",
+    "god's protection",
+    "unity"
+  ],
+  "Nehemiah 5": [
+    "justice",
+    "compassion",
+    "generosity",
+    "integrity",
+    "leadership"
+  ],
+  "Nehemiah 6": [
+    "discernment",
+    "integrity",
+    "courage",
+    "perseverance",
+    "god's help"
+  ],
+  "Nehemiah 7": [
+    "community",
+    "faithful leadership",
+    "worship",
+    "restoration",
+    "stewardship"
+  ],
+  "Nehemiah 8": [
+    "scripture",
+    "teaching",
+    "joy",
+    "worship",
+    "obedience"
+  ],
+  "Nehemiah 9": [
+    "confession",
+    "god's mercy",
+    "covenant faithfulness",
+    "repentance",
+    "remembrance"
+  ],
+  "Nehemiah 10": [
+    "covenant renewal",
+    "obedience",
+    "generosity",
+    "sabbath",
+    "worship"
+  ],
+  "Nehemiah 11": [
+    "community",
+    "service",
+    "willingness",
+    "worship",
+    "restoration"
+  ],
+  "Nehemiah 12": [
+    "thanksgiving",
+    "praise",
+    "joy",
+    "worship",
+    "faithful service"
+  ],
+  "Nehemiah 13": [
+    "repentance",
+    "holiness",
+    "worship",
+    "covenant faithfulness",
+    "need for renewal"
+  ],
+  "Esther 1": [
+    "power",
+    "pride",
+    "human authority",
+    "injustice",
+    "providence"
+  ],
+  "Esther 2": [
+    "providence",
+    "favor",
+    "courage",
+    "faithfulness",
+    "hidden identity"
+  ],
+  "Esther 3": [
+    "persecution",
+    "pride",
+    "injustice",
+    "hatred",
+    "god's people"
+  ],
+  "Esther 4": [
+    "courage",
+    "intercession",
+    "fasting",
+    "faithfulness",
+    "sacrifice"
+  ],
+  "Esther 5": [
+    "wisdom",
+    "patience",
+    "courage",
+    "pride",
+    "revenge"
+  ],
+  "Esther 6": [
+    "providence",
+    "reversal",
+    "humility",
+    "justice",
+    "pride"
+  ],
+  "Esther 7": [
+    "courage",
+    "deliverance",
+    "justice",
+    "intercession",
+    "pride"
+  ],
+  "Esther 8": [
+    "deliverance",
+    "justice",
+    "advocacy",
+    "hope",
+    "providence"
+  ],
+  "Esther 9": [
+    "deliverance",
+    "remembrance",
+    "justice",
+    "celebration",
+    "generosity"
+  ],
+  "Esther 10": [
+    "leadership",
+    "peace",
+    "providence",
+    "service",
+    "community"
+  ],
+  "Job 2": [
+    "suffering",
+    "perseverance",
+    "compassion",
+    "faithfulness",
+    "lament"
+  ],
+  "Job 3": [
+    "lament",
+    "anguish",
+    "suffering",
+    "despair",
+    "honest prayer"
+  ],
+  "Job 4": [
+    "human frailty",
+    "suffering",
+    "wisdom",
+    "judgment",
+    "false assumptions"
+  ],
+  "Job 5": [
+    "god's power",
+    "correction",
+    "hope",
+    "wisdom",
+    "compassion"
+  ],
+  "Job 6": [
+    "lament",
+    "friendship",
+    "suffering",
+    "honesty",
+    "compassion"
+  ],
+  "Job 7": [
+    "lament",
+    "mortality",
+    "suffering",
+    "prayer",
+    "human frailty"
+  ],
+  "Job 8": [
+    "justice",
+    "suffering",
+    "wisdom",
+    "compassion",
+    "judgment"
+  ],
+  "Job 9": [
+    "god's sovereignty",
+    "justice",
+    "mediator",
+    "human frailty",
+    "prayer"
+  ],
+  "Job 10": [
+    "lament",
+    "creation",
+    "suffering",
+    "god's care",
+    "mystery"
+  ],
+  "Job 11": [
+    "god's wisdom",
+    "humility",
+    "judgment",
+    "suffering",
+    "false assumptions"
+  ],
+  "Job 12": [
+    "god's sovereignty",
+    "wisdom",
+    "humility",
+    "suffering",
+    "truth"
+  ],
+  "Job 13": [
+    "integrity",
+    "prayer",
+    "justice",
+    "trust",
+    "lament"
+  ],
+  "Job 14": [
+    "mortality",
+    "hope",
+    "suffering",
+    "restoration",
+    "lament"
+  ],
+  "Job 15": [
+    "judgment",
+    "pride",
+    "misjudgment",
+    "suffering",
+    "wisdom"
+  ],
+  "Job 16": [
+    "lament",
+    "advocacy",
+    "integrity",
+    "suffering",
+    "hope"
+  ],
+  "Job 17": [
+    "despair",
+    "loneliness",
+    "suffering",
+    "friendship",
+    "hope"
+  ],
+  "Job 18": [
+    "judgment",
+    "suffering",
+    "misjudgment",
+    "compassion",
+    "human frailty"
+  ],
+  "Job 20": [
+    "judgment",
+    "wealth",
+    "wickedness",
+    "suffering",
+    "wisdom"
+  ],
+  "Job 21": [
+    "justice",
+    "wickedness",
+    "suffering",
+    "god's sovereignty",
+    "wisdom"
+  ],
+  "Job 22": [
+    "injustice",
+    "false accusations",
+    "repentance",
+    "compassion",
+    "truth"
+  ],
+  "Job 23": [
+    "faithfulness",
+    "god's hiddenness",
+    "justice",
+    "prayer",
+    "perseverance"
+  ],
+  "Job 24": [
+    "justice",
+    "oppression",
+    "poverty",
+    "suffering",
+    "god's judgment"
+  ],
+  "Job 25": [
+    "god's holiness",
+    "human frailty",
+    "god's sovereignty",
+    "righteousness",
+    "humility"
+  ],
+  "Job 26": [
+    "creation",
+    "god's power",
+    "wonder",
+    "god's sovereignty",
+    "mystery"
+  ],
+  "Job 27": [
+    "integrity",
+    "truth",
+    "justice",
+    "wickedness",
+    "perseverance"
+  ],
+  "Job 28": [
+    "wisdom",
+    "fear of the lord",
+    "humility",
+    "creation",
+    "obedience"
+  ],
+  "Job 29": [
+    "justice",
+    "compassion",
+    "generosity",
+    "integrity",
+    "god's favor"
+  ],
+  "Job 30": [
+    "lament",
+    "humiliation",
+    "suffering",
+    "compassion",
+    "god's silence"
+  ],
+  "Job 31": [
+    "integrity",
+    "holiness",
+    "justice",
+    "compassion",
+    "accountability"
+  ],
+  "Job 32": [
+    "wisdom",
+    "humility",
+    "correction",
+    "listening",
+    "god's justice"
+  ],
+  "Job 33": [
+    "correction",
+    "mercy",
+    "restoration",
+    "god's communication",
+    "redemption"
+  ],
+  "Job 34": [
+    "justice",
+    "god's sovereignty",
+    "impartiality",
+    "wisdom",
+    "humility"
+  ],
+  "Job 35": [
+    "god's sovereignty",
+    "righteousness",
+    "prayer",
+    "humility",
+    "trust"
+  ],
+  "Job 36": [
+    "god's justice",
+    "correction",
+    "creation",
+    "wisdom",
+    "humility"
+  ],
+  "Job 37": [
+    "creation",
+    "god's power",
+    "wonder",
+    "humility",
+    "fear of the lord"
+  ],
+  "Job 38": [
+    "creation",
+    "god's wisdom",
+    "god's sovereignty",
+    "awe",
+    "humility"
+  ],
+  "Job 39": [
+    "creation",
+    "god's care",
+    "wisdom",
+    "providence",
+    "humility"
+  ],
+  "Job 40": [
+    "god's justice",
+    "god's power",
+    "humility",
+    "creation",
+    "sovereignty"
+  ],
+  "Job 41": [
+    "god's sovereignty",
+    "creation",
+    "awe",
+    "power",
+    "humility"
+  ],
+  "Job 42": [
+    "repentance",
+    "god's sovereignty",
+    "intercession",
+    "restoration",
+    "humility"
+  ],
+  "Psalm 2": [
+    "god's sovereignty",
+    "messiah",
+    "kingship",
+    "refuge",
+    "reverence"
+  ],
+  "Psalm 3": [
+    "trust",
+    "protection",
+    "prayer",
+    "deliverance",
+    "peace"
+  ],
+  "Psalm 4": [
+    "prayer",
+    "peace",
+    "trust",
+    "joy",
+    "god's favor"
+  ],
+  "Psalm 5": [
+    "prayer",
+    "holiness",
+    "righteousness",
+    "guidance",
+    "refuge"
+  ],
+  "Psalm 6": [
+    "lament",
+    "mercy",
+    "healing",
+    "prayer",
+    "hope"
+  ],
+  "Psalm 7": [
+    "justice",
+    "refuge",
+    "righteousness",
+    "trust",
+    "praise"
+  ],
+  "Psalm 9": [
+    "praise",
+    "justice",
+    "god's sovereignty",
+    "refuge",
+    "deliverance"
+  ],
+  "Psalm 10": [
+    "lament",
+    "justice",
+    "oppression",
+    "god's kingship",
+    "hope"
+  ],
+  "Psalm 11": [
+    "trust",
+    "god's sovereignty",
+    "righteousness",
+    "courage",
+    "justice"
+  ],
+  "Psalm 12": [
+    "truth",
+    "god's word",
+    "justice",
+    "protection",
+    "faithfulness"
+  ],
+  "Psalm 14": [
+    "human sin",
+    "righteousness",
+    "refuge",
+    "salvation",
+    "restoration"
+  ],
+  "Psalm 15": [
+    "holiness",
+    "integrity",
+    "truth",
+    "justice",
+    "worship"
+  ],
+  "Psalm 17": [
+    "prayer",
+    "protection",
+    "justice",
+    "trust",
+    "god's presence"
+  ],
+  "Psalm 18": [
+    "deliverance",
+    "strength",
+    "praise",
+    "god's faithfulness",
+    "kingship"
+  ],
+  "Psalm 20": [
+    "prayer",
+    "trust",
+    "god's name",
+    "deliverance",
+    "kingship"
+  ],
+  "Psalm 21": [
+    "thanksgiving",
+    "god's strength",
+    "kingship",
+    "steadfast love",
+    "praise"
+  ],
+  "Psalm 26": [
+    "integrity",
+    "worship",
+    "holiness",
+    "thanksgiving",
+    "mercy"
+  ],
+  "Psalm 28": [
+    "prayer",
+    "deliverance",
+    "strength",
+    "thanksgiving",
+    "shepherd"
+  ],
+  "Psalm 29": [
+    "god's glory",
+    "creation",
+    "god's power",
+    "worship",
+    "peace"
+  ],
+  "Psalm 30": [
+    "thanksgiving",
+    "healing",
+    "joy",
+    "deliverance",
+    "praise"
+  ],
+  "Psalm 31": [
+    "refuge",
+    "trust",
+    "lament",
+    "faithfulness",
+    "courage"
+  ],
+  "Psalm 32": [
+    "forgiveness",
+    "confession",
+    "repentance",
+    "grace",
+    "joy"
+  ],
+  "Psalm 33": [
+    "praise",
+    "creation",
+    "god's sovereignty",
+    "trust",
+    "steadfast love"
+  ],
+  "Psalm 35": [
+    "justice",
+    "lament",
+    "deliverance",
+    "prayer",
+    "vindication"
+  ],
+  "Psalm 36": [
+    "steadfast love",
+    "god's faithfulness",
+    "refuge",
+    "life",
+    "righteousness"
+  ],
+  "Psalm 37": [
+    "trust",
+    "patience",
+    "righteousness",
+    "justice",
+    "generosity"
+  ],
+  "Psalm 38": [
+    "repentance",
+    "lament",
+    "mercy",
+    "healing",
+    "prayer"
+  ],
+  "Psalm 39": [
+    "mortality",
+    "hope",
+    "prayer",
+    "repentance",
+    "trust"
+  ],
+  "Psalm 41": [
+    "compassion",
+    "betrayal",
+    "healing",
+    "trust",
+    "praise"
+  ],
+  "Psalm 43": [
+    "guidance",
+    "hope",
+    "justice",
+    "worship",
+    "god's presence"
+  ],
+  "Psalm 44": [
+    "lament",
+    "god's faithfulness",
+    "deliverance",
+    "suffering",
+    "covenant"
+  ],
+  "Psalm 45": [
+    "kingship",
+    "righteousness",
+    "joy",
+    "marriage",
+    "messiah"
+  ],
+  "Psalm 47": [
+    "god's kingship",
+    "praise",
+    "nations",
+    "worship",
+    "god's sovereignty"
+  ],
+  "Psalm 48": [
+    "god's presence",
+    "refuge",
+    "steadfast love",
+    "praise",
+    "faithfulness"
+  ],
+  "Psalm 49": [
+    "wisdom",
+    "mortality",
+    "wealth",
+    "hope",
+    "redemption"
+  ],
+  "Psalm 50": [
+    "true worship",
+    "thanksgiving",
+    "obedience",
+    "justice",
+    "repentance"
+  ],
+  "Psalm 52": [
+    "truth",
+    "god's steadfast love",
+    "trust",
+    "judgment",
+    "thanksgiving"
+  ],
+  "Psalm 53": [
+    "human sin",
+    "god's judgment",
+    "salvation",
+    "restoration",
+    "hope"
+  ],
+  "Psalm 54": [
+    "prayer",
+    "deliverance",
+    "god's help",
+    "trust",
+    "thanksgiving"
+  ],
+  "Psalm 55": [
+    "betrayal",
+    "lament",
+    "prayer",
+    "god's sustaining grace",
+    "trust"
+  ],
+  "Psalm 56": [
+    "fear",
+    "trust",
+    "god's word",
+    "god's compassion",
+    "deliverance"
+  ],
+  "Psalm 57": [
+    "refuge",
+    "mercy",
+    "god's steadfast love",
+    "praise",
+    "god's glory"
+  ],
+  "Psalm 58": [
+    "justice",
+    "corrupt leadership",
+    "judgment",
+    "god's righteousness",
+    "prayer"
+  ],
+  "Psalm 59": [
+    "deliverance",
+    "protection",
+    "god's justice",
+    "steadfast love",
+    "praise"
+  ],
+  "Psalm 60": [
+    "corporate lament",
+    "restoration",
+    "god's sovereignty",
+    "dependence on god",
+    "hope"
+  ],
+  "Psalm 61": [
+    "prayer",
+    "refuge",
+    "god's presence",
+    "steadfast love",
+    "praise"
+  ],
+  "Psalm 62": [
+    "trust",
+    "waiting on god",
+    "salvation",
+    "god's power",
+    "steadfast love"
+  ],
+  "Psalm 64": [
+    "prayer",
+    "protection",
+    "evil speech",
+    "god's justice",
+    "refuge"
+  ],
+  "Psalm 65": [
+    "praise",
+    "forgiveness",
+    "answered prayer",
+    "creation",
+    "god's provision"
+  ],
+  "Psalm 66": [
+    "praise",
+    "deliverance",
+    "testing",
+    "prayer",
+    "thanksgiving"
+  ],
+  "Psalm 68": [
+    "god's victory",
+    "care for the vulnerable",
+    "deliverance",
+    "worship",
+    "god's majesty"
+  ],
+  "Psalm 69": [
+    "lament",
+    "suffering",
+    "zeal for god",
+    "deliverance",
+    "hope"
+  ],
+  "Psalm 70": [
+    "urgent prayer",
+    "deliverance",
+    "need for god",
+    "joy",
+    "praise"
+  ],
+  "Psalm 71": [
+    "lifelong faithfulness",
+    "refuge",
+    "aging",
+    "god's righteousness",
+    "testimony"
+  ],
+  "Psalm 72": [
+    "righteous kingship",
+    "justice for the poor",
+    "peace",
+    "blessing to the nations",
+    "god's glory"
+  ],
+  "Psalm 74": [
+    "corporate lament",
+    "god's covenant",
+    "god's sovereignty",
+    "justice",
+    "restoration"
+  ],
+  "Psalm 75": [
+    "thanksgiving",
+    "god's judgment",
+    "humility",
+    "god's sovereignty",
+    "praise"
+  ],
+  "Psalm 76": [
+    "god's power",
+    "justice",
+    "deliverance of the humble",
+    "reverence",
+    "worship"
+  ],
+  "Psalm 77": [
+    "lament",
+    "remembering god's works",
+    "god's faithfulness",
+    "exodus",
+    "trust"
+  ],
+  "Psalm 78": [
+    "remembering god's works",
+    "teaching the next generation",
+    "human rebellion",
+    "god's mercy",
+    "faithfulness"
+  ],
+  "Psalm 79": [
+    "corporate lament",
+    "forgiveness",
+    "deliverance",
+    "god's name",
+    "praise"
+  ],
+  "Psalm 80": [
+    "restoration",
+    "god as shepherd",
+    "prayer",
+    "god's favor",
+    "hope"
+  ],
+  "Psalm 81": [
+    "worship",
+    "exodus",
+    "obedience",
+    "idolatry",
+    "god's provision"
+  ],
+  "Psalm 82": [
+    "justice",
+    "care for the vulnerable",
+    "accountability",
+    "god's judgment",
+    "god's sovereignty"
+  ],
+  "Psalm 83": [
+    "corporate prayer",
+    "protection",
+    "god's sovereignty",
+    "judgment",
+    "deliverance"
+  ],
+  "Psalm 85": [
+    "restoration",
+    "forgiveness",
+    "peace",
+    "steadfast love",
+    "righteousness"
+  ],
+  "Psalm 86": [
+    "prayer",
+    "forgiveness",
+    "undivided heart",
+    "god's compassion",
+    "worship"
+  ],
+  "Psalm 87": [
+    "zion",
+    "nations",
+    "belonging",
+    "god's grace",
+    "worship"
+  ],
+  "Psalm 88": [
+    "lament",
+    "suffering",
+    "isolation",
+    "persevering prayer",
+    "darkness"
+  ],
+  "Psalm 89": [
+    "davidic covenant",
+    "god's faithfulness",
+    "lament",
+    "hope",
+    "kingship"
+  ],
+  "Psalm 92": [
+    "sabbath",
+    "thanksgiving",
+    "faithfulness",
+    "righteousness",
+    "praise"
+  ],
+  "Psalm 93": [
+    "god's kingship",
+    "sovereignty",
+    "creation",
+    "holiness",
+    "god's word"
+  ],
+  "Psalm 94": [
+    "god's justice",
+    "care for the vulnerable",
+    "god's knowledge",
+    "comfort",
+    "refuge"
+  ],
+  "Psalm 97": [
+    "god's kingship",
+    "holiness",
+    "righteousness",
+    "idolatry",
+    "joy"
+  ],
+  "Psalm 99": [
+    "god's kingship",
+    "holiness",
+    "justice",
+    "answered prayer",
+    "worship"
+  ],
+  "Psalm 101": [
+    "integrity",
+    "justice",
+    "holy living",
+    "leadership",
+    "faithfulness"
+  ],
+  "Psalm 102": [
+    "lament",
+    "god's eternity",
+    "restoration",
+    "prayer",
+    "hope"
+  ],
+  "Psalm 104": [
+    "creation",
+    "providence",
+    "god's wisdom",
+    "praise",
+    "dependence"
+  ],
+  "Psalm 105": [
+    "covenant",
+    "god's faithfulness",
+    "remembrance",
+    "deliverance",
+    "thanksgiving"
+  ],
+  "Psalm 106": [
+    "confession",
+    "god's mercy",
+    "rebellion",
+    "remembrance",
+    "deliverance"
+  ],
+  "Psalm 107": [
+    "redemption",
+    "thanksgiving",
+    "steadfast love",
+    "deliverance",
+    "prayer"
+  ],
+  "Psalm 108": [
+    "praise",
+    "god's faithfulness",
+    "victory",
+    "trust",
+    "prayer"
+  ],
+  "Psalm 109": [
+    "lament",
+    "justice",
+    "prayer",
+    "persecution",
+    "deliverance"
+  ],
+  "Psalm 110": [
+    "messianic kingship",
+    "priesthood",
+    "god's reign",
+    "victory",
+    "exaltation"
+  ],
+  "Psalm 111": [
+    "praise",
+    "god's works",
+    "covenant",
+    "wisdom",
+    "fear of the lord"
+  ],
+  "Psalm 112": [
+    "fear of the lord",
+    "generosity",
+    "righteousness",
+    "steadfastness",
+    "wisdom"
+  ],
+  "Psalm 113": [
+    "praise",
+    "god's majesty",
+    "humility",
+    "compassion",
+    "restoration"
+  ],
+  "Psalm 114": [
+    "exodus",
+    "god's presence",
+    "deliverance",
+    "creation",
+    "reverence"
+  ],
+  "Psalm 115": [
+    "god's glory",
+    "idolatry",
+    "trust",
+    "blessing",
+    "praise"
+  ],
+  "Psalm 116": [
+    "thanksgiving",
+    "answered prayer",
+    "deliverance",
+    "worship",
+    "devotion"
+  ],
+  "Psalm 117": [
+    "universal praise",
+    "steadfast love",
+    "faithfulness",
+    "missions",
+    "worship"
+  ],
+  "Psalm 118": [
+    "steadfast love",
+    "deliverance",
+    "thanksgiving",
+    "messianic hope",
+    "worship"
+  ],
+  "Psalm 119": [
+    "god's word",
+    "obedience",
+    "wisdom",
+    "perseverance",
+    "prayer"
+  ],
+  "Psalm 120": [
+    "lament",
+    "peace",
+    "truth",
+    "pilgrimage",
+    "prayer"
+  ],
+  "Psalm 122": [
+    "peace",
+    "jerusalem",
+    "worship",
+    "community",
+    "prayer"
+  ],
+  "Psalm 123": [
+    "dependence",
+    "mercy",
+    "prayer",
+    "persecution",
+    "hope"
+  ],
+  "Psalm 124": [
+    "deliverance",
+    "thanksgiving",
+    "god's protection",
+    "trust",
+    "community"
+  ],
+  "Psalm 125": [
+    "trust",
+    "god's protection",
+    "peace",
+    "righteousness",
+    "steadfastness"
+  ],
+  "Psalm 126": [
+    "restoration",
+    "joy",
+    "prayer",
+    "hope",
+    "harvest"
+  ],
+  "Psalm 127": [
+    "dependence",
+    "family",
+    "god's provision",
+    "rest",
+    "blessing"
+  ],
+  "Psalm 128": [
+    "fear of the lord",
+    "family",
+    "blessing",
+    "faithful work",
+    "peace"
+  ],
+  "Psalm 129": [
+    "perseverance",
+    "affliction",
+    "justice",
+    "deliverance",
+    "god's faithfulness"
+  ],
+  "Psalm 131": [
+    "humility",
+    "contentment",
+    "trust",
+    "peace",
+    "hope"
+  ],
+  "Psalm 132": [
+    "davidic covenant",
+    "god's presence",
+    "zion",
+    "worship",
+    "messianic hope"
+  ],
+  "Psalm 133": [
+    "unity",
+    "fellowship",
+    "blessing",
+    "community",
+    "worship"
+  ],
+  "Psalm 134": [
+    "praise",
+    "worship",
+    "blessing",
+    "god's presence",
+    "faithful service"
+  ],
+  "Psalm 135": [
+    "praise",
+    "god's sovereignty",
+    "creation",
+    "exodus",
+    "idolatry"
+  ],
+  "Psalm 137": [
+    "exile",
+    "lament",
+    "remembrance",
+    "justice",
+    "suffering"
+  ],
+  "Psalm 138": [
+    "thanksgiving",
+    "answered prayer",
+    "god's faithfulness",
+    "humility",
+    "trust"
+  ],
+  "Psalm 140": [
+    "deliverance",
+    "justice",
+    "prayer",
+    "protection",
+    "trust"
+  ],
+  "Psalm 141": [
+    "prayer",
+    "holiness",
+    "self-control",
+    "guidance",
+    "protection"
+  ],
+  "Psalm 142": [
+    "lament",
+    "refuge",
+    "loneliness",
+    "deliverance",
+    "hope"
+  ],
+  "Psalm 143": [
+    "mercy",
+    "repentance",
+    "guidance",
+    "trust",
+    "deliverance"
+  ],
+  "Psalm 144": [
+    "god's protection",
+    "humility",
+    "deliverance",
+    "blessing",
+    "thanksgiving"
+  ],
+  "Psalm 146": [
+    "praise",
+    "justice",
+    "trust",
+    "god's reign",
+    "compassion"
+  ],
+  "Psalm 147": [
+    "praise",
+    "restoration",
+    "creation",
+    "god's word",
+    "providence"
+  ],
+  "Psalm 149": [
+    "new song",
+    "congregational worship",
+    "god's delight",
+    "salvation",
+    "justice"
+  ],
+  "Proverbs 1": [
+    "fear of the lord",
+    "wisdom",
+    "instruction",
+    "temptation",
+    "repentance"
+  ],
+  "Proverbs 2": [
+    "wisdom",
+    "discernment",
+    "god's guidance",
+    "integrity",
+    "faithfulness"
+  ],
+  "Proverbs 4": [
+    "wisdom",
+    "guarding the heart",
+    "righteousness",
+    "instruction",
+    "perseverance"
+  ],
+  "Proverbs 5": [
+    "marriage",
+    "faithfulness",
+    "sexual purity",
+    "temptation",
+    "god's knowledge"
+  ],
+  "Proverbs 6": [
+    "diligence",
+    "honesty",
+    "humility",
+    "purity",
+    "instruction"
+  ],
+  "Proverbs 7": [
+    "wisdom",
+    "temptation",
+    "guarding the heart",
+    "faithfulness",
+    "discernment"
+  ],
+  "Proverbs 8": [
+    "wisdom",
+    "creation",
+    "righteousness",
+    "god's wisdom",
+    "life"
+  ],
+  "Proverbs 9": [
+    "wisdom",
+    "fear of the lord",
+    "discernment",
+    "instruction",
+    "temptation"
+  ],
+  "Proverbs 10": [
+    "wisdom",
+    "diligence",
+    "integrity",
+    "wise speech",
+    "righteousness"
+  ],
+  "Proverbs 11": [
+    "justice",
+    "generosity",
+    "integrity",
+    "humility",
+    "wise speech"
+  ],
+  "Proverbs 12": [
+    "instruction",
+    "diligence",
+    "truthfulness",
+    "kindness",
+    "encouragement"
+  ],
+  "Proverbs 13": [
+    "wisdom",
+    "discipline",
+    "patience",
+    "diligence",
+    "friendship"
+  ],
+  "Proverbs 14": [
+    "wisdom",
+    "fear of the lord",
+    "compassion",
+    "patience",
+    "integrity"
+  ],
+  "Proverbs 15": [
+    "gentleness",
+    "prayer",
+    "humility",
+    "wise speech",
+    "peace"
+  ],
+  "Proverbs 16": [
+    "god's sovereignty",
+    "humility",
+    "integrity",
+    "patience",
+    "wisdom"
+  ],
+  "Proverbs 17": [
+    "peace",
+    "friendship",
+    "wise speech",
+    "integrity",
+    "compassion"
+  ],
+  "Proverbs 18": [
+    "wise speech",
+    "listening",
+    "humility",
+    "god's refuge",
+    "friendship"
+  ],
+  "Proverbs 19": [
+    "integrity",
+    "compassion",
+    "god's purpose",
+    "discipline",
+    "patience"
+  ],
+  "Proverbs 20": [
+    "self-control",
+    "honesty",
+    "justice",
+    "god's guidance",
+    "wise counsel"
+  ],
+  "Proverbs 21": [
+    "god's sovereignty",
+    "justice",
+    "obedience",
+    "generosity",
+    "humility"
+  ],
+  "Proverbs 22": [
+    "integrity",
+    "humility",
+    "instruction",
+    "justice",
+    "fear of the lord"
+  ],
+  "Proverbs 23": [
+    "self-control",
+    "discipline",
+    "contentment",
+    "truth",
+    "fear of the lord"
+  ],
+  "Proverbs 24": [
+    "justice",
+    "wisdom",
+    "perseverance",
+    "humility",
+    "diligence"
+  ],
+  "Proverbs 25": [
+    "humility",
+    "wise speech",
+    "self-control",
+    "mercy",
+    "leadership"
+  ],
+  "Proverbs 26": [
+    "discernment",
+    "wise speech",
+    "diligence",
+    "honesty",
+    "peace"
+  ],
+  "Proverbs 27": [
+    "friendship",
+    "humility",
+    "stewardship",
+    "correction",
+    "wisdom"
+  ],
+  "Proverbs 28": [
+    "confession",
+    "repentance",
+    "justice",
+    "trust in god",
+    "integrity"
+  ],
+  "Proverbs 29": [
+    "justice",
+    "discipline",
+    "god's word",
+    "trust in god",
+    "leadership"
+  ],
+  "Proverbs 30": [
+    "humility",
+    "god's word",
+    "contentment",
+    "creation",
+    "wisdom"
+  ],
+  "Proverbs 31": [
+    "fear of the lord",
+    "wisdom",
+    "justice",
+    "diligence",
+    "generosity"
+  ],
+  "Ecclesiastes 1": [
+    "transience",
+    "wisdom",
+    "human limitations",
+    "meaning",
+    "creation"
+  ],
+  "Ecclesiastes 2": [
+    "contentment",
+    "work",
+    "joy",
+    "transience",
+    "god's gifts"
+  ],
+  "Ecclesiastes 4": [
+    "justice",
+    "friendship",
+    "contentment",
+    "work",
+    "compassion"
+  ],
+  "Ecclesiastes 5": [
+    "fear of god",
+    "worship",
+    "integrity",
+    "contentment",
+    "gratitude"
+  ],
+  "Ecclesiastes 6": [
+    "contentment",
+    "human limitations",
+    "transience",
+    "wealth",
+    "meaning"
+  ],
+  "Ecclesiastes 7": [
+    "wisdom",
+    "humility",
+    "patience",
+    "fear of god",
+    "human sin"
+  ],
+  "Ecclesiastes 8": [
+    "justice",
+    "god's sovereignty",
+    "fear of god",
+    "joy",
+    "human limitations"
+  ],
+  "Ecclesiastes 9": [
+    "mortality",
+    "joy",
+    "wisdom",
+    "work",
+    "human limitations"
+  ],
+  "Ecclesiastes 10": [
+    "wisdom",
+    "wise speech",
+    "diligence",
+    "leadership",
+    "self-control"
+  ],
+  "Ecclesiastes 11": [
+    "generosity",
+    "work",
+    "joy",
+    "god's sovereignty",
+    "responsibility"
+  ],
+  "Ecclesiastes 12": [
+    "remembering god",
+    "fear of god",
+    "obedience",
+    "judgment",
+    "transience"
+  ],
+  "Song of Solomon 1": [
+    "love",
+    "desire",
+    "beauty",
+    "mutual delight",
+    "relationship"
+  ],
+  "Song of Solomon 2": [
+    "love",
+    "patience",
+    "beauty",
+    "desire",
+    "faithfulness"
+  ],
+  "Song of Solomon 3": [
+    "longing",
+    "love",
+    "marriage",
+    "joy",
+    "patience"
+  ],
+  "Song of Solomon 4": [
+    "marriage",
+    "beauty",
+    "faithfulness",
+    "desire",
+    "delight"
+  ],
+  "Song of Solomon 5": [
+    "love",
+    "longing",
+    "friendship",
+    "desire",
+    "faithfulness"
+  ],
+  "Song of Solomon 6": [
+    "love",
+    "faithfulness",
+    "beauty",
+    "reconciliation",
+    "mutual delight"
+  ],
+  "Song of Solomon 7": [
+    "love",
+    "desire",
+    "mutual delight",
+    "beauty",
+    "faithfulness"
+  ],
+  "Song of Solomon 8": [
+    "enduring love",
+    "faithfulness",
+    "marriage",
+    "desire",
+    "commitment"
+  ],
+  "Isaiah 1": [
+    "repentance",
+    "justice",
+    "holiness",
+    "forgiveness",
+    "restoration"
+  ],
+  "Isaiah 2": [
+    "peace",
+    "kingdom of god",
+    "humility",
+    "god’s glory",
+    "idolatry"
+  ],
+  "Isaiah 3": [
+    "justice",
+    "judgment",
+    "leadership",
+    "pride",
+    "oppression"
+  ],
+  "Isaiah 4": [
+    "restoration",
+    "holiness",
+    "god’s presence",
+    "refuge",
+    "hope"
+  ],
+  "Isaiah 5": [
+    "justice",
+    "righteousness",
+    "judgment",
+    "sin",
+    "god’s faithfulness"
+  ],
+  "Isaiah 7": [
+    "faith",
+    "god’s presence",
+    "fear",
+    "god’s promise",
+    "judgment"
+  ],
+  "Isaiah 8": [
+    "trust",
+    "god’s word",
+    "fear of the lord",
+    "judgment",
+    "faithfulness"
+  ],
+  "Isaiah 10": [
+    "justice",
+    "god’s sovereignty",
+    "pride",
+    "remnant",
+    "deliverance"
+  ],
+  "Isaiah 11": [
+    "messiah",
+    "holy spirit",
+    "justice",
+    "peace",
+    "restoration"
+  ],
+  "Isaiah 12": [
+    "salvation",
+    "thanksgiving",
+    "joy",
+    "trust",
+    "worship"
+  ],
+  "Isaiah 13": [
+    "judgment",
+    "day of the lord",
+    "god’s sovereignty",
+    "pride",
+    "justice"
+  ],
+  "Isaiah 14": [
+    "humility",
+    "god’s sovereignty",
+    "judgment",
+    "restoration",
+    "refuge"
+  ],
+  "Isaiah 15": [
+    "lament",
+    "judgment",
+    "suffering",
+    "compassion",
+    "nations"
+  ],
+  "Isaiah 16": [
+    "justice",
+    "mercy",
+    "pride",
+    "lament",
+    "righteous kingship"
+  ],
+  "Isaiah 17": [
+    "idolatry",
+    "repentance",
+    "god’s sovereignty",
+    "judgment",
+    "remnant"
+  ],
+  "Isaiah 18": [
+    "god’s sovereignty",
+    "nations",
+    "god’s timing",
+    "worship",
+    "zion"
+  ],
+  "Isaiah 19": [
+    "judgment",
+    "healing",
+    "nations",
+    "worship",
+    "reconciliation"
+  ],
+  "Isaiah 20": [
+    "trust",
+    "warning",
+    "judgment",
+    "human weakness",
+    "god’s sovereignty"
+  ],
+  "Isaiah 21": [
+    "judgment",
+    "watchfulness",
+    "idolatry",
+    "compassion",
+    "nations"
+  ],
+  "Isaiah 22": [
+    "repentance",
+    "leadership",
+    "humility",
+    "judgment",
+    "trust"
+  ],
+  "Isaiah 23": [
+    "wealth",
+    "pride",
+    "judgment",
+    "god’s sovereignty",
+    "holiness"
+  ],
+  "Isaiah 24": [
+    "judgment",
+    "god’s kingship",
+    "holiness",
+    "creation",
+    "worship"
+  ],
+  "Isaiah 25": [
+    "salvation",
+    "resurrection hope",
+    "comfort",
+    "joy",
+    "god’s faithfulness"
+  ],
+  "Isaiah 26": [
+    "peace",
+    "trust",
+    "righteousness",
+    "resurrection hope",
+    "waiting"
+  ],
+  "Isaiah 27": [
+    "deliverance",
+    "restoration",
+    "holiness",
+    "god’s care",
+    "worship"
+  ],
+  "Isaiah 28": [
+    "faith",
+    "cornerstone",
+    "judgment",
+    "wisdom",
+    "false security"
+  ],
+  "Isaiah 29": [
+    "true worship",
+    "repentance",
+    "humility",
+    "restoration",
+    "god’s wisdom"
+  ],
+  "Isaiah 30": [
+    "repentance",
+    "rest",
+    "trust",
+    "grace",
+    "guidance"
+  ],
+  "Isaiah 31": [
+    "trust",
+    "deliverance",
+    "repentance",
+    "idolatry",
+    "god’s protection"
+  ],
+  "Isaiah 32": [
+    "righteousness",
+    "holy spirit",
+    "peace",
+    "justice",
+    "restoration"
+  ],
+  "Isaiah 33": [
+    "salvation",
+    "holiness",
+    "justice",
+    "god’s kingship",
+    "forgiveness"
+  ],
+  "Isaiah 34": [
+    "judgment",
+    "god’s word",
+    "justice",
+    "god’s sovereignty",
+    "nations"
+  ],
+  "Isaiah 35": [
+    "restoration",
+    "healing",
+    "joy",
+    "holiness",
+    "salvation"
+  ],
+  "Isaiah 36": [
+    "faith",
+    "fear",
+    "trust",
+    "spiritual warfare",
+    "god’s sovereignty"
+  ],
+  "Isaiah 37": [
+    "prayer",
+    "deliverance",
+    "trust",
+    "god’s sovereignty",
+    "god’s glory"
+  ],
+  "Isaiah 38": [
+    "prayer",
+    "healing",
+    "thanksgiving",
+    "mortality",
+    "god’s mercy"
+  ],
+  "Isaiah 39": [
+    "pride",
+    "judgment",
+    "exile",
+    "leadership",
+    "humility"
+  ],
+  "Isaiah 41": [
+    "god’s presence",
+    "fear not",
+    "god’s faithfulness",
+    "sovereignty",
+    "idolatry"
+  ],
+  "Isaiah 42": [
+    "servant of the lord",
+    "justice",
+    "gentleness",
+    "light to the nations",
+    "obedience"
+  ],
+  "Isaiah 44": [
+    "holy spirit",
+    "idolatry",
+    "redemption",
+    "forgiveness",
+    "god alone"
+  ],
+  "Isaiah 45": [
+    "sovereignty",
+    "salvation",
+    "righteousness",
+    "god alone",
+    "all nations"
+  ],
+  "Isaiah 46": [
+    "god’s faithfulness",
+    "idolatry",
+    "sovereignty",
+    "salvation",
+    "god’s care"
+  ],
+  "Isaiah 47": [
+    "judgment",
+    "pride",
+    "justice",
+    "false security",
+    "sovereignty"
+  ],
+  "Isaiah 48": [
+    "refining",
+    "obedience",
+    "redemption",
+    "god’s glory",
+    "peace"
+  ],
+  "Isaiah 49": [
+    "servant of the lord",
+    "light to the nations",
+    "salvation",
+    "god’s compassion",
+    "restoration"
+  ],
+  "Isaiah 50": [
+    "servant of the lord",
+    "obedience",
+    "suffering",
+    "trust",
+    "god’s help"
+  ],
+  "Isaiah 51": [
+    "comfort",
+    "righteousness",
+    "salvation",
+    "restoration",
+    "everlasting joy"
+  ],
+  "Isaiah 52": [
+    "good news",
+    "god’s reign",
+    "redemption",
+    "peace",
+    "servant of the lord"
+  ],
+  "Isaiah 54": [
+    "restoration",
+    "steadfast love",
+    "covenant of peace",
+    "god’s compassion",
+    "hope"
+  ],
+  "Isaiah 56": [
+    "justice",
+    "inclusion",
+    "prayer",
+    "covenant faithfulness",
+    "leadership"
+  ],
+  "Isaiah 57": [
+    "holiness",
+    "repentance",
+    "humility",
+    "healing",
+    "peace"
+  ],
+  "Isaiah 58": [
+    "justice",
+    "true worship",
+    "compassion",
+    "fasting",
+    "sabbath"
+  ],
+  "Isaiah 59": [
+    "sin",
+    "injustice",
+    "confession",
+    "redeemer",
+    "holy spirit"
+  ],
+  "Isaiah 60": [
+    "god’s glory",
+    "light",
+    "restoration",
+    "peace",
+    "all nations"
+  ],
+  "Isaiah 62": [
+    "prayer",
+    "restoration",
+    "god’s delight",
+    "salvation",
+    "faithfulness"
+  ],
+  "Isaiah 63": [
+    "judgment",
+    "redemption",
+    "steadfast love",
+    "holy spirit",
+    "lament"
+  ],
+  "Isaiah 64": [
+    "lament",
+    "confession",
+    "god as father",
+    "humility",
+    "waiting on god"
+  ],
+  "Isaiah 65": [
+    "new creation",
+    "judgment",
+    "restoration",
+    "joy",
+    "god’s faithfulness"
+  ],
+  "Isaiah 66": [
+    "holiness",
+    "humility",
+    "comfort",
+    "all nations",
+    "judgment"
+  ],
+  "Jeremiah 1": [
+    "calling",
+    "god’s presence",
+    "prophecy",
+    "judgment",
+    "courage"
+  ],
+  "Jeremiah 2": [
+    "idolatry",
+    "covenant unfaithfulness",
+    "living water",
+    "repentance",
+    "false security"
+  ],
+  "Jeremiah 3": [
+    "repentance",
+    "mercy",
+    "restoration",
+    "faithfulness",
+    "confession"
+  ],
+  "Jeremiah 4": [
+    "heart renewal",
+    "judgment",
+    "repentance",
+    "lament",
+    "holiness"
+  ],
+  "Jeremiah 5": [
+    "justice",
+    "truth",
+    "sin",
+    "false prophecy",
+    "judgment"
+  ],
+  "Jeremiah 6": [
+    "obedience",
+    "false peace",
+    "repentance",
+    "judgment",
+    "ancient paths"
+  ],
+  "Jeremiah 7": [
+    "true worship",
+    "justice",
+    "temple",
+    "obedience",
+    "judgment"
+  ],
+  "Jeremiah 8": [
+    "lament",
+    "false wisdom",
+    "repentance",
+    "judgment",
+    "healing"
+  ],
+  "Jeremiah 9": [
+    "knowing god",
+    "steadfast love",
+    "justice",
+    "humility",
+    "lament"
+  ],
+  "Jeremiah 10": [
+    "god’s sovereignty",
+    "idolatry",
+    "creation",
+    "prayer",
+    "humility"
+  ],
+  "Jeremiah 11": [
+    "covenant",
+    "obedience",
+    "idolatry",
+    "persecution",
+    "judgment"
+  ],
+  "Jeremiah 12": [
+    "lament",
+    "justice",
+    "perseverance",
+    "judgment",
+    "restoration"
+  ],
+  "Jeremiah 13": [
+    "pride",
+    "humility",
+    "judgment",
+    "belonging to god",
+    "lament"
+  ],
+  "Jeremiah 14": [
+    "drought",
+    "confession",
+    "intercession",
+    "false prophecy",
+    "judgment"
+  ],
+  "Jeremiah 15": [
+    "prophetic calling",
+    "suffering",
+    "god’s word",
+    "perseverance",
+    "god’s presence"
+  ],
+  "Jeremiah 16": [
+    "judgment",
+    "exile",
+    "restoration",
+    "idolatry",
+    "all nations"
+  ],
+  "Jeremiah 17": [
+    "trust in god",
+    "heart",
+    "healing",
+    "sabbath",
+    "obedience"
+  ],
+  "Jeremiah 18": [
+    "potter and clay",
+    "sovereignty",
+    "repentance",
+    "judgment",
+    "persecution"
+  ],
+  "Jeremiah 19": [
+    "judgment",
+    "idolatry",
+    "innocent blood",
+    "prophecy",
+    "holiness"
+  ],
+  "Jeremiah 20": [
+    "persecution",
+    "god’s word",
+    "lament",
+    "courage",
+    "deliverance"
+  ],
+  "Jeremiah 21": [
+    "judgment",
+    "justice",
+    "humility",
+    "exile",
+    "obedience"
+  ],
+  "Jeremiah 22": [
+    "justice",
+    "leadership",
+    "care for the poor",
+    "judgment",
+    "obedience"
+  ],
+  "Jeremiah 23": [
+    "messiah",
+    "righteousness",
+    "good shepherd",
+    "restoration",
+    "true prophecy"
+  ],
+  "Jeremiah 24": [
+    "exile",
+    "restoration",
+    "new heart",
+    "sovereignty",
+    "hope"
+  ],
+  "Jeremiah 25": [
+    "judgment",
+    "prophecy",
+    "exile",
+    "god’s sovereignty",
+    "repentance"
+  ],
+  "Jeremiah 26": [
+    "courage",
+    "repentance",
+    "persecution",
+    "true prophecy",
+    "justice"
+  ],
+  "Jeremiah 27": [
+    "god’s sovereignty",
+    "humility",
+    "false prophecy",
+    "obedience",
+    "exile"
+  ],
+  "Jeremiah 28": [
+    "truth",
+    "false prophecy",
+    "judgment",
+    "discernment",
+    "obedience"
+  ],
+  "Jeremiah 30": [
+    "restoration",
+    "healing",
+    "hope",
+    "covenant",
+    "deliverance"
+  ],
+  "Jeremiah 31": [
+    "new covenant",
+    "forgiveness",
+    "steadfast love",
+    "restoration",
+    "new heart"
+  ],
+  "Jeremiah 32": [
+    "hope",
+    "faith",
+    "restoration",
+    "prayer",
+    "everlasting covenant"
+  ],
+  "Jeremiah 33": [
+    "restoration",
+    "forgiveness",
+    "messiah",
+    "righteousness",
+    "god’s faithfulness"
+  ],
+  "Jeremiah 34": [
+    "justice",
+    "freedom",
+    "obedience",
+    "covenant",
+    "judgment"
+  ],
+  "Jeremiah 35": [
+    "obedience",
+    "faithfulness",
+    "integrity",
+    "prophecy",
+    "covenant"
+  ],
+  "Jeremiah 36": [
+    "god’s word",
+    "prophecy",
+    "rejection",
+    "judgment",
+    "perseverance"
+  ],
+  "Jeremiah 37": [
+    "courage",
+    "persecution",
+    "truth",
+    "prayer",
+    "judgment"
+  ],
+  "Jeremiah 38": [
+    "courage",
+    "deliverance",
+    "obedience",
+    "fear of people",
+    "justice"
+  ],
+  "Jeremiah 39": [
+    "judgment",
+    "exile",
+    "deliverance",
+    "trust in god",
+    "faithfulness"
+  ],
+  "Jeremiah 40": [
+    "restoration",
+    "leadership",
+    "peace",
+    "exile",
+    "wisdom"
+  ],
+  "Jeremiah 41": [
+    "violence",
+    "betrayal",
+    "fear",
+    "leadership",
+    "judgment"
+  ],
+  "Jeremiah 42": [
+    "prayer",
+    "obedience",
+    "trust in god",
+    "fear",
+    "guidance"
+  ],
+  "Jeremiah 43": [
+    "disobedience",
+    "false security",
+    "judgment",
+    "prophecy",
+    "exile"
+  ],
+  "Jeremiah 44": [
+    "idolatry",
+    "repentance",
+    "truth",
+    "judgment",
+    "false worship"
+  ],
+  "Jeremiah 45": [
+    "humility",
+    "faithfulness",
+    "god’s care",
+    "perseverance",
+    "hope"
+  ],
+  "Jeremiah 46": [
+    "god’s sovereignty",
+    "judgment",
+    "nations",
+    "discipline",
+    "covenant mercy"
+  ],
+  "Jeremiah 47": [
+    "judgment",
+    "nations",
+    "god’s sovereignty",
+    "lament",
+    "justice"
+  ],
+  "Jeremiah 48": [
+    "pride",
+    "judgment",
+    "idolatry",
+    "lament",
+    "restoration"
+  ],
+  "Jeremiah 49": [
+    "nations",
+    "god’s sovereignty",
+    "judgment",
+    "pride",
+    "restoration"
+  ],
+  "Jeremiah 50": [
+    "deliverance",
+    "judgment",
+    "restoration",
+    "forgiveness",
+    "god’s sovereignty"
+  ],
+  "Jeremiah 51": [
+    "justice",
+    "god’s sovereignty",
+    "deliverance",
+    "judgment",
+    "creation"
+  ],
+  "Jeremiah 52": [
+    "exile",
+    "judgment",
+    "temple",
+    "hope",
+    "god’s faithfulness"
+  ],
+  "Lamentations 1": [
+    "lament",
+    "grief",
+    "exile",
+    "confession",
+    "justice"
+  ],
+  "Lamentations 2": [
+    "lament",
+    "judgment",
+    "prayer",
+    "compassion",
+    "truth"
+  ],
+  "Lamentations 4": [
+    "lament",
+    "judgment",
+    "sin",
+    "justice",
+    "hope"
+  ],
+  "Lamentations 5": [
+    "communal prayer",
+    "repentance",
+    "restoration",
+    "god’s sovereignty",
+    "lament"
+  ],
+  "Ezekiel 1": [
+    "glory of god",
+    "sovereignty",
+    "divine presence",
+    "holiness",
+    "awe"
+  ],
+  "Ezekiel 2": [
+    "prophetic calling",
+    "obedience",
+    "god’s word",
+    "courage",
+    "rebellion"
+  ],
+  "Ezekiel 3": [
+    "god’s word",
+    "watchfulness",
+    "accountability",
+    "obedience",
+    "prophetic ministry"
+  ],
+  "Ezekiel 4": [
+    "judgment",
+    "sin",
+    "siege",
+    "obedience",
+    "warning"
+  ],
+  "Ezekiel 5": [
+    "judgment",
+    "covenant unfaithfulness",
+    "holiness",
+    "exile",
+    "remnant"
+  ],
+  "Ezekiel 6": [
+    "idolatry",
+    "repentance",
+    "judgment",
+    "remnant",
+    "knowing god"
+  ],
+  "Ezekiel 7": [
+    "judgment",
+    "justice",
+    "false security",
+    "idolatry",
+    "sovereignty"
+  ],
+  "Ezekiel 8": [
+    "idolatry",
+    "holiness",
+    "true worship",
+    "hidden sin",
+    "judgment"
+  ],
+  "Ezekiel 9": [
+    "judgment",
+    "holiness",
+    "lament",
+    "faithful remnant",
+    "justice"
+  ],
+  "Ezekiel 10": [
+    "glory of god",
+    "holiness",
+    "judgment",
+    "divine presence",
+    "temple"
+  ],
+  "Ezekiel 11": [
+    "new heart",
+    "restoration",
+    "judgment",
+    "god’s presence",
+    "covenant renewal"
+  ],
+  "Ezekiel 12": [
+    "exile",
+    "judgment",
+    "prophetic warning",
+    "obedience",
+    "accountability"
+  ],
+  "Ezekiel 13": [
+    "false prophecy",
+    "truth",
+    "discernment",
+    "judgment",
+    "protection"
+  ],
+  "Ezekiel 14": [
+    "repentance",
+    "idolatry of the heart",
+    "personal responsibility",
+    "justice",
+    "righteousness"
+  ],
+  "Ezekiel 15": [
+    "fruitfulness",
+    "judgment",
+    "covenant responsibility",
+    "unfaithfulness",
+    "holiness"
+  ],
+  "Ezekiel 16": [
+    "covenant love",
+    "idolatry",
+    "unfaithfulness",
+    "judgment",
+    "mercy"
+  ],
+  "Ezekiel 17": [
+    "covenant faithfulness",
+    "judgment",
+    "messianic hope",
+    "god’s sovereignty",
+    "restoration"
+  ],
+  "Ezekiel 18": [
+    "repentance",
+    "personal responsibility",
+    "justice",
+    "life",
+    "god’s mercy"
+  ],
+  "Ezekiel 19": [
+    "lament",
+    "leadership",
+    "judgment",
+    "exile",
+    "lost glory"
+  ],
+  "Ezekiel 20": [
+    "covenant history",
+    "idolatry",
+    "god’s patience",
+    "restoration",
+    "holiness"
+  ],
+  "Ezekiel 21": [
+    "judgment",
+    "sovereignty",
+    "kingship",
+    "lament",
+    "accountability"
+  ],
+  "Ezekiel 22": [
+    "justice",
+    "corrupt leadership",
+    "holiness",
+    "judgment",
+    "care for the vulnerable"
+  ],
+  "Ezekiel 23": [
+    "idolatry",
+    "covenant unfaithfulness",
+    "judgment",
+    "false alliances",
+    "holiness"
+  ],
+  "Ezekiel 24": [
+    "judgment",
+    "grief",
+    "temple",
+    "prophetic sign",
+    "lament"
+  ],
+  "Ezekiel 25": [
+    "justice",
+    "nations",
+    "judgment",
+    "revenge",
+    "sovereignty"
+  ],
+  "Ezekiel 26": [
+    "pride",
+    "wealth",
+    "judgment",
+    "nations",
+    "sovereignty"
+  ],
+  "Ezekiel 27": [
+    "wealth",
+    "fragility",
+    "lament",
+    "pride",
+    "judgment"
+  ],
+  "Ezekiel 28": [
+    "pride",
+    "humility",
+    "judgment",
+    "holiness",
+    "restoration"
+  ],
+  "Ezekiel 29": [
+    "pride",
+    "false security",
+    "judgment",
+    "sovereignty",
+    "trust"
+  ],
+  "Ezekiel 30": [
+    "day of the lord",
+    "judgment",
+    "idolatry",
+    "nations",
+    "sovereignty"
+  ],
+  "Ezekiel 31": [
+    "pride",
+    "humility",
+    "judgment",
+    "human power",
+    "sovereignty"
+  ],
+  "Ezekiel 32": [
+    "lament",
+    "mortality",
+    "judgment",
+    "nations",
+    "pride"
+  ],
+  "Ezekiel 33": [
+    "repentance",
+    "watchfulness",
+    "obedience",
+    "accountability",
+    "god’s mercy"
+  ],
+  "Ezekiel 34": [
+    "god as shepherd",
+    "care for the vulnerable",
+    "messianic hope",
+    "covenant of peace",
+    "restoration"
+  ],
+  "Ezekiel 35": [
+    "judgment",
+    "revenge",
+    "justice",
+    "god’s presence",
+    "sovereignty"
+  ],
+  "Ezekiel 38": [
+    "sovereignty",
+    "protection",
+    "holiness",
+    "judgment",
+    "final deliverance"
+  ],
+  "Ezekiel 39": [
+    "deliverance",
+    "restoration",
+    "holy spirit",
+    "mercy",
+    "god’s glory"
+  ],
+  "Ezekiel 40": [
+    "temple",
+    "restoration",
+    "holiness",
+    "worship",
+    "hope"
+  ],
+  "Ezekiel 41": [
+    "holiness",
+    "temple",
+    "worship",
+    "reverence",
+    "restoration"
+  ],
+  "Ezekiel 42": [
+    "holiness",
+    "priesthood",
+    "temple",
+    "worship",
+    "reverence"
+  ],
+  "Ezekiel 43": [
+    "glory of god",
+    "divine presence",
+    "repentance",
+    "holiness",
+    "worship"
+  ],
+  "Ezekiel 44": [
+    "holiness",
+    "faithful ministry",
+    "priesthood",
+    "obedience",
+    "worship"
+  ],
+  "Ezekiel 45": [
+    "justice",
+    "honest stewardship",
+    "worship",
+    "holiness",
+    "community"
+  ],
+  "Ezekiel 46": [
+    "sabbath",
+    "worship",
+    "justice",
+    "generosity",
+    "holiness"
+  ],
+  "Ezekiel 47": [
+    "living water",
+    "healing",
+    "restoration",
+    "god’s presence",
+    "inclusion"
+  ],
+  "Ezekiel 48": [
+    "god’s presence",
+    "restoration",
+    "unity",
+    "holy city",
+    "hope"
+  ],
+  "Daniel 1": [
+    "faithfulness",
+    "exile",
+    "holiness",
+    "wisdom",
+    "god’s provision"
+  ],
+  "Daniel 2": [
+    "prayer",
+    "god’s sovereignty",
+    "wisdom",
+    "everlasting kingdom",
+    "revelation"
+  ],
+  "Daniel 4": [
+    "humility",
+    "pride",
+    "god’s sovereignty",
+    "repentance",
+    "mercy"
+  ],
+  "Daniel 5": [
+    "god’s holiness",
+    "judgment",
+    "pride",
+    "idolatry",
+    "god’s sovereignty"
+  ],
+  "Daniel 6": [
+    "prayer",
+    "faithfulness",
+    "integrity",
+    "trust",
+    "deliverance"
+  ],
+  "Daniel 8": [
+    "god’s sovereignty",
+    "persecution",
+    "holiness",
+    "judgment",
+    "hope"
+  ],
+  "Daniel 9": [
+    "confession",
+    "repentance",
+    "prayer",
+    "mercy",
+    "god’s promises"
+  ],
+  "Daniel 10": [
+    "prayer",
+    "spiritual conflict",
+    "god’s presence",
+    "strength",
+    "perseverance"
+  ],
+  "Daniel 11": [
+    "perseverance",
+    "god’s sovereignty",
+    "discernment",
+    "persecution",
+    "faithfulness"
+  ],
+  "Daniel 12": [
+    "resurrection",
+    "eternal life",
+    "hope",
+    "perseverance",
+    "god’s justice"
+  ],
+  "Hosea 1": [
+    "covenant",
+    "unfaithfulness",
+    "judgment",
+    "restoration",
+    "god’s mercy"
+  ],
+  "Hosea 2": [
+    "restoration",
+    "covenant love",
+    "idolatry",
+    "mercy",
+    "faithfulness"
+  ],
+  "Hosea 3": [
+    "redeeming love",
+    "repentance",
+    "covenant",
+    "restoration",
+    "faithfulness"
+  ],
+  "Hosea 4": [
+    "knowledge of god",
+    "justice",
+    "holiness",
+    "idolatry",
+    "judgment"
+  ],
+  "Hosea 5": [
+    "repentance",
+    "pride",
+    "idolatry",
+    "judgment",
+    "seeking god"
+  ],
+  "Hosea 6": [
+    "steadfast love",
+    "repentance",
+    "knowledge of god",
+    "faithfulness",
+    "justice"
+  ],
+  "Hosea 7": [
+    "misplaced trust",
+    "repentance",
+    "idolatry",
+    "judgment",
+    "faithfulness"
+  ],
+  "Hosea 8": [
+    "covenant",
+    "false worship",
+    "obedience",
+    "judgment",
+    "idolatry"
+  ],
+  "Hosea 9": [
+    "judgment",
+    "exile",
+    "idolatry",
+    "holiness",
+    "covenant faithfulness"
+  ],
+  "Hosea 10": [
+    "righteousness",
+    "steadfast love",
+    "seeking god",
+    "repentance",
+    "judgment"
+  ],
+  "Hosea 11": [
+    "fatherly love",
+    "compassion",
+    "mercy",
+    "holiness",
+    "restoration"
+  ],
+  "Hosea 12": [
+    "repentance",
+    "justice",
+    "honesty",
+    "trust",
+    "god’s faithfulness"
+  ],
+  "Hosea 13": [
+    "idolatry",
+    "judgment",
+    "salvation",
+    "mortality",
+    "god’s sovereignty"
+  ],
+  "Hosea 14": [
+    "repentance",
+    "healing",
+    "grace",
+    "fruitfulness",
+    "faithfulness"
+  ],
+  "Joel 1": [
+    "lament",
+    "repentance",
+    "day of the lord",
+    "prayer",
+    "judgment"
+  ],
+  "Joel 2": [
+    "repentance",
+    "mercy",
+    "restoration",
+    "holy spirit",
+    "salvation"
+  ],
+  "Joel 3": [
+    "god’s justice",
+    "day of the lord",
+    "refuge",
+    "restoration",
+    "god’s presence"
+  ],
+  "Amos 1": [
+    "justice",
+    "oppression",
+    "judgment",
+    "god’s sovereignty",
+    "accountability"
+  ],
+  "Amos 2": [
+    "justice",
+    "oppression",
+    "covenant responsibility",
+    "holiness",
+    "judgment"
+  ],
+  "Amos 3": [
+    "covenant",
+    "accountability",
+    "justice",
+    "prophetic warning",
+    "judgment"
+  ],
+  "Amos 4": [
+    "repentance",
+    "justice",
+    "oppression",
+    "false worship",
+    "god’s power"
+  ],
+  "Amos 5": [
+    "justice",
+    "righteousness",
+    "true worship",
+    "repentance",
+    "seeking god"
+  ],
+  "Amos 6": [
+    "complacency",
+    "pride",
+    "justice",
+    "judgment",
+    "humility"
+  ],
+  "Amos 7": [
+    "intercession",
+    "mercy",
+    "prophetic calling",
+    "judgment",
+    "courage"
+  ],
+  "Amos 8": [
+    "justice",
+    "honesty",
+    "oppression",
+    "god’s word",
+    "judgment"
+  ],
+  "Amos 9": [
+    "god’s sovereignty",
+    "judgment",
+    "davidic promise",
+    "restoration",
+    "hope"
+  ],
+  "Obadiah 1": [
+    "pride",
+    "justice",
+    "judgment",
+    "god’s kingdom",
+    "restoration"
+  ],
+  "Micah 1": [
+    "judgment",
+    "idolatry",
+    "holiness",
+    "lament",
+    "justice"
+  ],
+  "Micah 2": [
+    "oppression",
+    "justice",
+    "greed",
+    "restoration",
+    "hope"
+  ],
+  "Micah 3": [
+    "corrupt leadership",
+    "justice",
+    "prophetic truth",
+    "judgment",
+    "fear of the lord"
+  ],
+  "Micah 4": [
+    "peace",
+    "god’s kingdom",
+    "restoration",
+    "hope",
+    "god’s sovereignty"
+  ],
+  "Micah 5": [
+    "messianic hope",
+    "shepherd",
+    "peace",
+    "deliverance",
+    "purification"
+  ],
+  "Micah 7": [
+    "lament",
+    "repentance",
+    "hope",
+    "forgiveness",
+    "steadfast love"
+  ],
+  "Nahum 1": [
+    "god’s holiness",
+    "justice",
+    "refuge",
+    "judgment",
+    "deliverance"
+  ],
+  "Nahum 2": [
+    "judgment",
+    "god’s sovereignty",
+    "justice",
+    "oppression",
+    "deliverance"
+  ],
+  "Nahum 3": [
+    "justice",
+    "judgment",
+    "violence",
+    "pride",
+    "god’s sovereignty"
+  ],
+  "Habakkuk 1": [
+    "lament",
+    "justice",
+    "faith",
+    "god’s sovereignty",
+    "waiting"
+  ],
+  "Habakkuk 2": [
+    "faith",
+    "justice",
+    "pride",
+    "judgment",
+    "god’s glory"
+  ],
+  "Zephaniah 1": [
+    "day of the lord",
+    "judgment",
+    "idolatry",
+    "holiness",
+    "repentance"
+  ],
+  "Zephaniah 2": [
+    "humility",
+    "repentance",
+    "justice",
+    "judgment",
+    "god’s sovereignty"
+  ],
+  "Zephaniah 3": [
+    "restoration",
+    "joy",
+    "god’s presence",
+    "purification",
+    "salvation"
+  ],
+  "Haggai 1": [
+    "obedience",
+    "worship",
+    "repentance",
+    "god’s presence",
+    "priorities"
+  ],
+  "Haggai 2": [
+    "god’s presence",
+    "holiness",
+    "hope",
+    "god’s promise",
+    "restoration"
+  ],
+  "Zechariah 1": [
+    "repentance",
+    "mercy",
+    "restoration",
+    "god’s sovereignty",
+    "hope"
+  ],
+  "Zechariah 2": [
+    "god’s presence",
+    "restoration",
+    "holiness",
+    "joy",
+    "hope"
+  ],
+  "Zechariah 3": [
+    "forgiveness",
+    "cleansing",
+    "grace",
+    "priesthood",
+    "messianic hope"
+  ],
+  "Zechariah 4": [
+    "holy spirit",
+    "perseverance",
+    "god’s power",
+    "calling",
+    "hope"
+  ],
+  "Zechariah 5": [
+    "holiness",
+    "judgment",
+    "sin",
+    "purification",
+    "justice"
+  ],
+  "Zechariah 6": [
+    "god’s sovereignty",
+    "justice",
+    "priesthood",
+    "messianic hope",
+    "peace"
+  ],
+  "Zechariah 7": [
+    "true worship",
+    "justice",
+    "mercy",
+    "repentance",
+    "obedience"
+  ],
+  "Zechariah 8": [
+    "god’s faithfulness",
+    "restoration",
+    "peace",
+    "justice",
+    "joy"
+  ],
+  "Zechariah 10": [
+    "prayer",
+    "shepherd",
+    "restoration",
+    "god’s compassion",
+    "leadership"
+  ],
+  "Zechariah 11": [
+    "false shepherds",
+    "judgment",
+    "rejection",
+    "justice",
+    "leadership"
+  ],
+  "Zechariah 12": [
+    "god’s sovereignty",
+    "deliverance",
+    "repentance",
+    "grace",
+    "mourning"
+  ],
+  "Zechariah 13": [
+    "cleansing",
+    "repentance",
+    "holiness",
+    "refining",
+    "god’s covenant"
+  ],
+  "Zechariah 14": [
+    "day of the lord",
+    "god’s kingship",
+    "holiness",
+    "living water",
+    "worship"
+  ],
+  "Malachi 1": [
+    "god’s love",
+    "worship",
+    "holiness",
+    "honor",
+    "faithfulness"
+  ],
+  "Malachi 2": [
+    "covenant",
+    "faithfulness",
+    "marriage",
+    "justice",
+    "leadership"
+  ],
+  "Malachi 3": [
+    "refining",
+    "justice",
+    "repentance",
+    "generosity",
+    "god’s faithfulness"
+  ],
+  "Malachi 4": [
+    "day of the lord",
+    "judgment",
+    "healing",
+    "hope",
+    "repentance"
+  ],
+  "Matthew 3": [
+    "repentance",
+    "baptism",
+    "kingdom of god",
+    "holy spirit",
+    "jesus christ"
+  ],
+  "Matthew 8": [
+    "healing",
+    "jesus' authority",
+    "faith",
+    "discipleship",
+    "deliverance"
+  ],
+  "Matthew 9": [
+    "forgiveness",
+    "mercy",
+    "healing",
+    "faith",
+    "mission"
+  ],
+  "Matthew 10": [
+    "mission",
+    "discipleship",
+    "persecution",
+    "courage",
+    "god's provision"
+  ],
+  "Matthew 12": [
+    "mercy",
+    "sabbath",
+    "jesus' authority",
+    "faithfulness",
+    "kingdom of god"
+  ],
+  "Matthew 13": [
+    "kingdom of god",
+    "parables",
+    "faith",
+    "judgment",
+    "god's word"
+  ],
+  "Matthew 14": [
+    "compassion",
+    "provision",
+    "faith",
+    "worship",
+    "jesus christ"
+  ],
+  "Matthew 15": [
+    "purity of heart",
+    "faith",
+    "mercy",
+    "healing",
+    "provision"
+  ],
+  "Matthew 17": [
+    "glory of christ",
+    "jesus christ",
+    "faith",
+    "healing",
+    "resurrection"
+  ],
+  "Matthew 18": [
+    "humility",
+    "forgiveness",
+    "community",
+    "restoration",
+    "mercy"
+  ],
+  "Matthew 19": [
+    "marriage",
+    "kingdom of god",
+    "children",
+    "discipleship",
+    "eternal life"
+  ],
+  "Matthew 20": [
+    "grace",
+    "servanthood",
+    "redemption",
+    "humility",
+    "healing"
+  ],
+  "Matthew 21": [
+    "jesus christ",
+    "worship",
+    "prayer",
+    "judgment",
+    "faith"
+  ],
+  "Matthew 22": [
+    "kingdom of god",
+    "love of god",
+    "love of neighbor",
+    "resurrection",
+    "wisdom"
+  ],
+  "Matthew 23": [
+    "humility",
+    "justice",
+    "mercy",
+    "hypocrisy",
+    "repentance"
+  ],
+  "Matthew 24": [
+    "second coming",
+    "perseverance",
+    "watchfulness",
+    "judgment",
+    "faithfulness"
+  ],
+  "Matthew 25": [
+    "watchfulness",
+    "faithful stewardship",
+    "compassion",
+    "judgment",
+    "second coming"
+  ],
+  "Mark 2": [
+    "forgiveness",
+    "faith",
+    "mercy",
+    "discipleship",
+    "lord of the sabbath"
+  ],
+  "Mark 3": [
+    "healing",
+    "opposition",
+    "holy spirit",
+    "discipleship",
+    "family of god"
+  ],
+  "Mark 5": [
+    "deliverance",
+    "healing",
+    "faith",
+    "resurrection hope",
+    "compassion"
+  ],
+  "Mark 6": [
+    "unbelief",
+    "mission",
+    "compassion",
+    "provision",
+    "trust"
+  ],
+  "Mark 7": [
+    "heart purity",
+    "tradition",
+    "mercy",
+    "faith",
+    "healing"
+  ],
+  "Mark 9": [
+    "glory of christ",
+    "faith",
+    "prayer",
+    "humility",
+    "discipleship"
+  ],
+  "Mark 11": [
+    "messiah",
+    "worship",
+    "prayer",
+    "judgment",
+    "authority of jesus"
+  ],
+  "Mark 12": [
+    "rejection of christ",
+    "love of god",
+    "justice",
+    "resurrection",
+    "faithfulness"
+  ],
+  "Mark 13": [
+    "perseverance",
+    "watchfulness",
+    "tribulation",
+    "return of christ",
+    "hope"
+  ],
+  "Mark 14": [
+    "lord's supper",
+    "prayer",
+    "betrayal",
+    "suffering of christ",
+    "faithfulness"
+  ],
+  "Luke 3": [
+    "repentance",
+    "baptism",
+    "justice",
+    "holy spirit",
+    "son of god"
+  ],
+  "Luke 4": [
+    "temptation",
+    "word of god",
+    "holy spirit",
+    "good news",
+    "deliverance"
+  ],
+  "Luke 5": [
+    "calling",
+    "forgiveness",
+    "healing",
+    "discipleship",
+    "grace"
+  ],
+  "Luke 6": [
+    "sabbath",
+    "mercy",
+    "love your enemies",
+    "kingdom living",
+    "obedience"
+  ],
+  "Luke 7": [
+    "faith",
+    "compassion",
+    "forgiveness",
+    "grace",
+    "jesus christ"
+  ],
+  "Luke 8": [
+    "word of god",
+    "faith",
+    "healing",
+    "deliverance",
+    "authority of jesus"
+  ],
+  "Luke 9": [
+    "mission",
+    "provision",
+    "glory of christ",
+    "discipleship",
+    "humility"
+  ],
+  "Luke 11": [
+    "prayer",
+    "holy spirit",
+    "repentance",
+    "light",
+    "true worship"
+  ],
+  "Luke 12": [
+    "trust",
+    "stewardship",
+    "watchfulness",
+    "kingdom of god",
+    "generosity"
+  ],
+  "Luke 13": [
+    "repentance",
+    "mercy",
+    "kingdom of god",
+    "healing",
+    "salvation"
+  ],
+  "Luke 14": [
+    "humility",
+    "hospitality",
+    "grace",
+    "discipleship",
+    "kingdom feast"
+  ],
+  "Luke 16": [
+    "stewardship",
+    "money",
+    "faithfulness",
+    "justice",
+    "eternal life"
+  ],
+  "Luke 17": [
+    "forgiveness",
+    "faith",
+    "gratitude",
+    "humility",
+    "kingdom of god"
+  ],
+  "Luke 18": [
+    "persistent prayer",
+    "humility",
+    "grace",
+    "discipleship",
+    "healing"
+  ],
+  "Luke 20": [
+    "authority of jesus",
+    "resurrection",
+    "faithfulness",
+    "wisdom",
+    "justice"
+  ],
+  "Luke 21": [
+    "generosity",
+    "watchfulness",
+    "perseverance",
+    "judgment",
+    "hope"
+  ],
+  "John 2": [
+    "glory of christ",
+    "signs and wonders",
+    "faith",
+    "true worship",
+    "authority of jesus"
+  ],
+  "John 5": [
+    "healing",
+    "authority of jesus",
+    "eternal life",
+    "judgment",
+    "scripture"
+  ],
+  "John 7": [
+    "holy spirit",
+    "living water",
+    "faith",
+    "identity of jesus",
+    "opposition"
+  ],
+  "John 9": [
+    "healing",
+    "light of the world",
+    "faith",
+    "spiritual blindness",
+    "witness"
+  ],
+  "John 12": [
+    "worship",
+    "servanthood",
+    "glory of christ",
+    "cross",
+    "faith"
+  ],
+  "John 18": [
+    "betrayal",
+    "suffering of christ",
+    "kingdom of god",
+    "truth",
+    "faithfulness"
+  ],
+  "Acts 3": [
+    "healing",
+    "jesus christ",
+    "repentance",
+    "faith",
+    "restoration"
+  ],
+  "Acts 5": [
+    "holiness",
+    "integrity",
+    "persecution",
+    "miracles",
+    "faithfulness"
+  ],
+  "Acts 6": [
+    "servanthood",
+    "justice",
+    "church",
+    "holy spirit",
+    "wisdom"
+  ],
+  "Acts 7": [
+    "martyrdom",
+    "faithfulness",
+    "holy spirit",
+    "forgiveness",
+    "jesus christ"
+  ],
+  "Acts 8": [
+    "evangelism",
+    "holy spirit",
+    "baptism",
+    "scripture",
+    "mission"
+  ],
+  "Acts 10": [
+    "gentiles",
+    "holy spirit",
+    "gospel",
+    "inclusion",
+    "baptism"
+  ],
+  "Acts 11": [
+    "gentiles",
+    "repentance",
+    "church",
+    "discipleship",
+    "generosity"
+  ],
+  "Acts 12": [
+    "persecution",
+    "prayer",
+    "deliverance",
+    "sovereignty",
+    "judgment"
+  ],
+  "Acts 13": [
+    "mission",
+    "gospel",
+    "resurrection",
+    "forgiveness",
+    "gentiles"
+  ],
+  "Acts 14": [
+    "perseverance",
+    "mission",
+    "worship",
+    "leadership",
+    "faith"
+  ],
+  "Acts 15": [
+    "grace",
+    "unity",
+    "gentiles",
+    "discernment",
+    "church"
+  ],
+  "Acts 17": [
+    "scripture",
+    "resurrection",
+    "evangelism",
+    "creation",
+    "repentance"
+  ],
+  "Acts 18": [
+    "mission",
+    "encouragement",
+    "discipleship",
+    "teaching",
+    "faithfulness"
+  ],
+  "Acts 19": [
+    "holy spirit",
+    "repentance",
+    "gospel",
+    "idolatry",
+    "spiritual power"
+  ],
+  "Acts 20": [
+    "leadership",
+    "shepherding",
+    "perseverance",
+    "gospel",
+    "generosity"
+  ],
+  "Acts 21": [
+    "obedience",
+    "persecution",
+    "mission",
+    "courage",
+    "witness"
+  ],
+  "Acts 22": [
+    "testimony",
+    "conversion",
+    "grace",
+    "calling",
+    "persecution"
+  ],
+  "Acts 23": [
+    "resurrection",
+    "providence",
+    "courage",
+    "persecution",
+    "witness"
+  ],
+  "Acts 24": [
+    "integrity",
+    "resurrection",
+    "judgment",
+    "witness",
+    "justice"
+  ],
+  "Acts 25": [
+    "justice",
+    "perseverance",
+    "providence",
+    "witness",
+    "courage"
+  ],
+  "Acts 26": [
+    "testimony",
+    "resurrection",
+    "repentance",
+    "forgiveness",
+    "mission"
+  ],
+  "Acts 27": [
+    "providence",
+    "faith",
+    "deliverance",
+    "courage",
+    "perseverance"
+  ],
+  "Acts 28": [
+    "mission",
+    "healing",
+    "kingdom of god",
+    "witness",
+    "perseverance"
+  ],
+  "Romans 2": [
+    "judgment",
+    "repentance",
+    "integrity",
+    "holy spirit",
+    "righteousness"
+  ],
+  "Romans 13": [
+    "love",
+    "obedience",
+    "justice",
+    "holiness",
+    "christian living"
+  ],
+  "Romans 14": [
+    "unity",
+    "conscience",
+    "love",
+    "peace",
+    "holy spirit"
+  ],
+  "Romans 16": [
+    "fellowship",
+    "servanthood",
+    "unity",
+    "discernment",
+    "glory of god"
+  ],
+  "1 Corinthians 2": [
+    "holy spirit",
+    "cross",
+    "wisdom",
+    "faith",
+    "revelation"
+  ],
+  "1 Corinthians 3": [
+    "church",
+    "unity",
+    "spiritual growth",
+    "holy spirit",
+    "christ"
+  ],
+  "1 Corinthians 4": [
+    "servanthood",
+    "humility",
+    "faithfulness",
+    "suffering",
+    "spiritual leadership"
+  ],
+  "1 Corinthians 5": [
+    "holiness",
+    "church discipline",
+    "repentance",
+    "purity",
+    "christ"
+  ],
+  "1 Corinthians 6": [
+    "holiness",
+    "holy spirit",
+    "freedom",
+    "reconciliation",
+    "identity in christ"
+  ],
+  "1 Corinthians 7": [
+    "marriage",
+    "singleness",
+    "faithfulness",
+    "calling",
+    "devotion"
+  ],
+  "1 Corinthians 8": [
+    "love",
+    "freedom",
+    "conscience",
+    "unity",
+    "idolatry"
+  ],
+  "1 Corinthians 9": [
+    "gospel",
+    "mission",
+    "servanthood",
+    "self discipline",
+    "sacrifice"
+  ],
+  "1 Corinthians 10": [
+    "temptation",
+    "faithfulness",
+    "idolatry",
+    "communion",
+    "glory of god"
+  ],
+  "1 Corinthians 14": [
+    "worship",
+    "spiritual gifts",
+    "unity",
+    "peace",
+    "edification"
+  ],
+  "1 Corinthians 16": [
+    "generosity",
+    "church",
+    "love",
+    "courage",
+    "grace"
+  ],
+  "2 Corinthians 1": [
+    "comfort",
+    "suffering",
+    "hope",
+    "faithfulness",
+    "holy spirit"
+  ],
+  "2 Corinthians 2": [
+    "forgiveness",
+    "reconciliation",
+    "love",
+    "gospel",
+    "ministry"
+  ],
+  "2 Corinthians 6": [
+    "grace",
+    "salvation",
+    "holiness",
+    "endurance",
+    "church"
+  ],
+  "2 Corinthians 7": [
+    "repentance",
+    "holiness",
+    "reconciliation",
+    "joy",
+    "comfort"
+  ],
+  "2 Corinthians 8": [
+    "generosity",
+    "grace",
+    "love",
+    "stewardship",
+    "unity"
+  ],
+  "2 Corinthians 9": [
+    "generosity",
+    "thanksgiving",
+    "grace",
+    "provision",
+    "gospel"
+  ],
+  "2 Corinthians 10": [
+    "spiritual warfare",
+    "humility",
+    "truth",
+    "spiritual leadership",
+    "glory of god"
+  ],
+  "2 Corinthians 11": [
+    "faithfulness",
+    "gospel",
+    "suffering",
+    "discernment",
+    "humility"
+  ],
+  "2 Corinthians 13": [
+    "repentance",
+    "restoration",
+    "peace",
+    "grace",
+    "holy spirit"
+  ],
+  "Galatians 1": [
+    "gospel",
+    "grace",
+    "christ",
+    "calling",
+    "faithfulness"
+  ],
+  "Galatians 3": [
+    "faith",
+    "holy spirit",
+    "redemption",
+    "promise",
+    "unity"
+  ],
+  "Galatians 4": [
+    "adoption",
+    "freedom",
+    "holy spirit",
+    "grace",
+    "promise"
+  ],
+  "Colossians 4": [
+    "prayer",
+    "mission",
+    "wise speech",
+    "fellowship",
+    "perseverance"
+  ],
+  "1 Thessalonians 1": [
+    "faith",
+    "love",
+    "hope",
+    "holy spirit",
+    "conversion"
+  ],
+  "1 Thessalonians 2": [
+    "gospel ministry",
+    "integrity",
+    "discipleship",
+    "suffering",
+    "joy"
+  ],
+  "1 Thessalonians 3": [
+    "encouragement",
+    "faith",
+    "love",
+    "holiness",
+    "perseverance"
+  ],
+  "2 Thessalonians 1": [
+    "perseverance",
+    "justice",
+    "second coming",
+    "faith",
+    "glory of christ"
+  ],
+  "2 Thessalonians 2": [
+    "discernment",
+    "second coming",
+    "steadfastness",
+    "truth",
+    "hope"
+  ],
+  "2 Thessalonians 3": [
+    "prayer",
+    "faithfulness",
+    "work",
+    "discipline",
+    "peace"
+  ],
+  "1 Timothy 2": [
+    "prayer",
+    "salvation",
+    "christ our mediator",
+    "worship",
+    "godliness"
+  ],
+  "1 Timothy 3": [
+    "church leadership",
+    "integrity",
+    "godliness",
+    "church",
+    "christ"
+  ],
+  "1 Timothy 4": [
+    "discernment",
+    "thanksgiving",
+    "godliness",
+    "scripture",
+    "discipleship"
+  ],
+  "1 Timothy 5": [
+    "care for widows",
+    "family",
+    "justice",
+    "church leadership",
+    "integrity"
+  ],
+  "1 Timothy 6": [
+    "contentment",
+    "generosity",
+    "godliness",
+    "eternal life",
+    "faithfulness"
+  ],
+  "2 Timothy 1": [
+    "courage",
+    "holy spirit",
+    "gospel",
+    "perseverance",
+    "faithfulness"
+  ],
+  "2 Timothy 2": [
+    "grace",
+    "discipleship",
+    "endurance",
+    "scripture",
+    "gentleness"
+  ],
+  "2 Timothy 4": [
+    "preaching",
+    "faithfulness",
+    "perseverance",
+    "eternal reward",
+    "hope"
+  ],
+  "Titus 1": [
+    "church leadership",
+    "integrity",
+    "sound doctrine",
+    "godliness",
+    "truth"
+  ],
+  "Titus 3": [
+    "mercy",
+    "salvation",
+    "holy spirit",
+    "good works",
+    "unity"
+  ],
+  "Philemon 1": [
+    "reconciliation",
+    "forgiveness",
+    "brotherly love",
+    "grace",
+    "unity"
+  ],
+  "Hebrews 2": [
+    "salvation",
+    "incarnation",
+    "victory over death",
+    "priesthood of christ",
+    "perseverance"
+  ],
+  "Hebrews 3": [
+    "faithfulness",
+    "perseverance",
+    "unbelief",
+    "encouragement",
+    "jesus christ"
+  ],
+  "Hebrews 5": [
+    "priesthood of christ",
+    "obedience",
+    "salvation",
+    "spiritual maturity",
+    "suffering"
+  ],
+  "Hebrews 6": [
+    "spiritual maturity",
+    "perseverance",
+    "hope",
+    "god’s promises",
+    "assurance"
+  ],
+  "Hebrews 7": [
+    "priesthood of christ",
+    "intercession",
+    "new covenant",
+    "salvation",
+    "hope"
+  ],
+  "Hebrews 8": [
+    "new covenant",
+    "forgiveness",
+    "priesthood of christ",
+    "god’s promises",
+    "renewal"
+  ],
+  "Hebrews 13": [
+    "brotherly love",
+    "contentment",
+    "worship",
+    "generosity",
+    "faithfulness"
+  ],
+  "James 3": [
+    "wisdom",
+    "speech",
+    "peace",
+    "humility",
+    "mercy"
+  ],
+  "James 5": [
+    "justice",
+    "patience",
+    "prayer",
+    "healing",
+    "restoration"
+  ],
+  "1 Peter 4": [
+    "suffering",
+    "service",
+    "spiritual gifts",
+    "love",
+    "faithfulness"
+  ],
+  "2 Peter 1": [
+    "godliness",
+    "spiritual growth",
+    "god’s promises",
+    "scripture",
+    "jesus christ"
+  ],
+  "2 Peter 2": [
+    "false teaching",
+    "judgment",
+    "discernment",
+    "holiness",
+    "deliverance"
+  ],
+  "1 John 2": [
+    "assurance",
+    "obedience",
+    "brotherly love",
+    "abiding in christ",
+    "truth"
+  ],
+  "1 John 5": [
+    "faith",
+    "eternal life",
+    "assurance",
+    "prayer",
+    "obedience"
+  ],
+  "2 John 1": [
+    "truth",
+    "love",
+    "obedience",
+    "discernment",
+    "jesus christ"
+  ],
+  "3 John 1": [
+    "hospitality",
+    "truth",
+    "humility",
+    "generosity",
+    "faithful leadership"
+  ],
+  "Revelation 2": [
+    "church",
+    "repentance",
+    "perseverance",
+    "holiness",
+    "faithfulness"
+  ],
+  "Revelation 3": [
+    "repentance",
+    "faithfulness",
+    "spiritual renewal",
+    "fellowship",
+    "perseverance"
+  ],
+  "Revelation 6": [
+    "judgment",
+    "persecution",
+    "sovereignty of god",
+    "justice",
+    "endurance"
+  ],
+  "Revelation 8": [
+    "prayer",
+    "judgment",
+    "creation",
+    "sovereignty of god",
+    "repentance"
+  ],
+  "Revelation 9": [
+    "judgment",
+    "repentance",
+    "idolatry",
+    "evil",
+    "sovereignty of god"
+  ],
+  "Revelation 10": [
+    "word of god",
+    "prophetic calling",
+    "judgment",
+    "god’s purposes",
+    "obedience"
+  ],
+  "Revelation 11": [
+    "faithful witness",
+    "resurrection",
+    "kingdom of god",
+    "judgment",
+    "worship"
+  ],
+  "Revelation 12": [
+    "victory of christ",
+    "spiritual warfare",
+    "faithful witness",
+    "persecution",
+    "perseverance"
+  ],
+  "Revelation 13": [
+    "idolatry",
+    "discernment",
+    "persecution",
+    "faithfulness",
+    "spiritual warfare"
+  ],
+  "Revelation 14": [
+    "worship",
+    "redemption",
+    "faithfulness",
+    "judgment",
+    "eternal gospel"
+  ],
+  "Revelation 15": [
+    "worship",
+    "holiness",
+    "justice",
+    "victory",
+    "judgment"
+  ],
+  "Revelation 16": [
+    "judgment",
+    "repentance",
+    "justice",
+    "watchfulness",
+    "sovereignty of god"
+  ],
+  "Revelation 17": [
+    "idolatry",
+    "corruption",
+    "judgment",
+    "sovereignty of god",
+    "victory of christ"
+  ],
+  "Revelation 18": [
+    "judgment",
+    "justice",
+    "materialism",
+    "faithfulness",
+    "sovereignty of god"
+  ],
+  "Revelation 20": [
+    "final judgment",
+    "victory over evil",
+    "resurrection",
+    "kingdom of god",
+    "eternal life"
   ]
 }

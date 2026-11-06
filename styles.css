@@ -498,3 +498,12 @@ footer span:first-child{
 @media (max-width: 600px) {
   .masthead { background-size: 100% auto !important; }
 }
+
+/* ==============================
+   SONG MATCH EXPLANATIONS
+   ============================== */
+.match-explanation { margin-top: 13px; padding: 11px 13px; border: 1px solid rgba(30,43,34,.14); border-radius: 7px; background: rgba(246,247,242,.75); font-size: 12px; line-height: 1.55; }
+.match-label { font-weight: 700; font-size: 11px; letter-spacing: .035em; text-transform: uppercase; margin-bottom: 5px; }
+.match-reasons { display: flex; flex-direction: column; gap: 2px; color: #48564b; }
+.match-reasons span:before { content: "• "; }
+.match-scriptures { margin-top: 5px; font-size: 11px; color: #536455; }

@@ -1,0 +1,1 @@
+V3.6.2: Judges 1–21 original chapter-specific editorial summaries and five chapter themes each. Total written: 284. Preserves UI fixes and sync. These summaries are drafts pending verse-level editorial review.
