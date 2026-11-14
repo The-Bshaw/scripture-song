@@ -3,7 +3,7 @@
 import json, os, pathlib, re, sys, urllib.request, unicodedata
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 SONGS=ROOT/'data'/'songs.json'
-CATS={'Global','Ancient','Heritage','Advent'}
+CATS={'Global','Ancient','Heritage','Advent','Shelved'}
 MIN_SONGS=50
 
 def norm(s):

@@ -1,0 +1,1007 @@
+{
+  "sampledPassages": 43,
+  "prioritySongs": [
+    {
+      "id": "song-0140",
+      "title": "Great Are You Lord",
+      "top12_count": 3,
+      "top3_count": 3,
+      "examples": [
+        "Genesis 1",
+        "Psalm 139",
+        "Colossians 1"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0125",
+      "title": "He Is Our God",
+      "top12_count": 8,
+      "top3_count": 2,
+      "examples": [
+        "Psalm 139",
+        "Isaiah 6",
+        "Matthew 5",
+        "Romans 3",
+        "Galatians 5"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0082",
+      "title": "Here I Am to Worship",
+      "top12_count": 6,
+      "top3_count": 2,
+      "examples": [
+        "Micah 6",
+        "John 1",
+        "Romans 12",
+        "1 Corinthians 13",
+        "2 Corinthians 12"
+      ],
+      "top_score": 128
+    },
+    {
+      "id": "song-0114",
+      "title": "His Glory and My Good",
+      "top12_count": 6,
+      "top3_count": 2,
+      "examples": [
+        "Genesis 1",
+        "Psalm 139",
+        "Isaiah 6",
+        "Matthew 5",
+        "Galatians 5"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0095",
+      "title": "God of This City",
+      "top12_count": 4,
+      "top3_count": 2,
+      "examples": [
+        "Matthew 5",
+        "Matthew 6:9-13",
+        "Revelation 5",
+        "Revelation 19"
+      ],
+      "top_score": 126
+    },
+    {
+      "id": "song-0032",
+      "title": "10,000 Reasons (Bless the Lord)",
+      "top12_count": 3,
+      "top3_count": 2,
+      "examples": [
+        "Lamentations 3",
+        "Micah 6",
+        "Luke 15"
+      ],
+      "top_score": 138
+    },
+    {
+      "id": "song-0091",
+      "title": "At the Cross (Love Ran Red)",
+      "top12_count": 3,
+      "top3_count": 2,
+      "examples": [
+        "Isaiah 53",
+        "Romans 5",
+        "1 Corinthians 13"
+      ],
+      "top_score": 138
+    },
+    {
+      "id": "song-0094",
+      "title": "Indescribable",
+      "top12_count": 3,
+      "top3_count": 2,
+      "examples": [
+        "Genesis 1",
+        "Psalm 139",
+        "Colossians 1"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0096",
+      "title": "Lord Have Mercy (For What We Have Done)",
+      "top12_count": 3,
+      "top3_count": 2,
+      "examples": [
+        "Jeremiah 31",
+        "Micah 6",
+        "Luke 15"
+      ],
+      "top_score": 138
+    },
+    {
+      "id": "song-0108",
+      "title": "God Is for Us",
+      "top12_count": 8,
+      "top3_count": 1,
+      "examples": [
+        "Psalm 23",
+        "Psalm 46",
+        "Romans 3",
+        "Romans 5",
+        "Romans 8"
+      ],
+      "top_score": 109
+    },
+    {
+      "id": "song-0142",
+      "title": "Because He Lives (Amen)",
+      "top12_count": 6,
+      "top3_count": 1,
+      "examples": [
+        "Matthew 28",
+        "John 3:16-17",
+        "John 11",
+        "James 1",
+        "1 Peter 1"
+      ],
+      "top_score": 109
+    },
+    {
+      "id": "song-0083",
+      "title": "The Heart of Worship",
+      "top12_count": 6,
+      "top3_count": 1,
+      "examples": [
+        "Micah 6",
+        "Luke 15",
+        "Romans 12",
+        "1 Corinthians 13",
+        "2 Corinthians 12"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0156",
+      "title": "All Glory Be to Christ",
+      "top12_count": 5,
+      "top3_count": 1,
+      "examples": [
+        "Matthew 5",
+        "1 Peter 1",
+        "Revelation 5",
+        "Revelation 19",
+        "Revelation 21"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0134",
+      "title": "Rest on Us",
+      "top12_count": 5,
+      "top3_count": 1,
+      "examples": [
+        "Ezekiel 37",
+        "Matthew 6:9-13",
+        "Acts 2",
+        "Galatians 5",
+        "Ephesians 2:11-22"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0107",
+      "title": "Ancient of Days",
+      "top12_count": 4,
+      "top3_count": 1,
+      "examples": [
+        "Genesis 1",
+        "Matthew 5",
+        "Revelation 5",
+        "Revelation 19"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0120",
+      "title": "I Will Wait for You (Psalm 130)",
+      "top12_count": 4,
+      "top3_count": 1,
+      "examples": [
+        "Jeremiah 31",
+        "Romans 3",
+        "Colossians 1",
+        "Revelation 5"
+      ],
+      "top_score": 85
+    },
+    {
+      "id": "song-0028",
+      "title": "Living Hope",
+      "top12_count": 4,
+      "top3_count": 1,
+      "examples": [
+        "Micah 6",
+        "Matthew 28",
+        "Luke 15",
+        "John 11"
+      ],
+      "top_score": 120
+    },
+    {
+      "id": "song-0117",
+      "title": "Psalm 139 (Far Too Wonderful)",
+      "top12_count": 4,
+      "top3_count": 1,
+      "examples": [
+        "Genesis 1",
+        "Psalm 139",
+        "Ephesians 2:11-22",
+        "Colossians 1"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0057",
+      "title": "Another in the Fire",
+      "top12_count": 3,
+      "top3_count": 1,
+      "examples": [
+        "Exodus 14",
+        "2 Corinthians 4",
+        "Ephesians 2:11-22"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0145",
+      "title": "How He Loves",
+      "top12_count": 3,
+      "top3_count": 1,
+      "examples": [
+        "Micah 6",
+        "Luke 15",
+        "1 Corinthians 13"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0036",
+      "title": "Is He Worthy?",
+      "top12_count": 3,
+      "top3_count": 1,
+      "examples": [
+        "Colossians 1",
+        "Revelation 5",
+        "Revelation 19"
+      ],
+      "top_score": 108
+    },
+    {
+      "id": "song-0143",
+      "title": "Lord I Need You (Matt Maher)",
+      "top12_count": 3,
+      "top3_count": 1,
+      "examples": [
+        "Micah 6",
+        "Matthew 6:9-13",
+        "Luke 15"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0061",
+      "title": "Same God",
+      "top12_count": 3,
+      "top3_count": 1,
+      "examples": [
+        "Exodus 14",
+        "Daniel 3",
+        "Matthew 6:9-13"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0055",
+      "title": "So Will I (100 Billion X)",
+      "top12_count": 3,
+      "top3_count": 1,
+      "examples": [
+        "Genesis 1",
+        "Psalm 139",
+        "Colossians 1"
+      ],
+      "top_score": 128
+    },
+    {
+      "id": "song-0092",
+      "title": "Amazing Grace (My Chains Are Gone)",
+      "top12_count": 2,
+      "top3_count": 1,
+      "examples": [
+        "Romans 8",
+        "Galatians 5"
+      ],
+      "top_score": 119
+    },
+    {
+      "id": "song-0131",
+      "title": "Egypt",
+      "top12_count": 2,
+      "top3_count": 1,
+      "examples": [
+        "Exodus 14",
+        "Galatians 5"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0086",
+      "title": "Our God",
+      "top12_count": 2,
+      "top3_count": 1,
+      "examples": [
+        "Exodus 14",
+        "James 1"
+      ],
+      "top_score": 109
+    },
+    {
+      "id": "song-0052",
+      "title": "Good Good Father",
+      "top12_count": 1,
+      "top3_count": 1,
+      "examples": [
+        "1 Corinthians 13"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0093",
+      "title": "I Will Follow",
+      "top12_count": 1,
+      "top3_count": 1,
+      "examples": [
+        "John 15:4-5"
+      ],
+      "top_score": 60
+    },
+    {
+      "id": "song-0099",
+      "title": "Jesus Thank You",
+      "top12_count": 1,
+      "top3_count": 1,
+      "examples": [
+        "Ephesians 2:11-22"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0037",
+      "title": "Psalm 23 (Surely Goodness, Surely Mercy)",
+      "top12_count": 1,
+      "top3_count": 1,
+      "examples": [
+        "Psalm 23"
+      ],
+      "top_score": 135
+    },
+    {
+      "id": "song-0038",
+      "title": "Psalm 46 (Lord of Hosts)",
+      "top12_count": 1,
+      "top3_count": 1,
+      "examples": [
+        "Psalm 46"
+      ],
+      "top_score": 133
+    },
+    {
+      "id": "song-0116",
+      "title": "Psalm 91 (On Eagles' Wings)",
+      "top12_count": 1,
+      "top3_count": 1,
+      "examples": [
+        "Psalm 46"
+      ],
+      "top_score": 123
+    },
+    {
+      "id": "song-0063",
+      "title": "The Blessing (Live)",
+      "top12_count": 1,
+      "top3_count": 1,
+      "examples": [
+        "Ephesians 2:11-22"
+      ],
+      "top_score": 42
+    },
+    {
+      "id": "song-0122",
+      "title": "The Power of the Cross",
+      "top12_count": 1,
+      "top3_count": 1,
+      "examples": [
+        "Isaiah 53"
+      ],
+      "top_score": 147
+    },
+    {
+      "id": "song-0119",
+      "title": "Though You Slay Me",
+      "top12_count": 1,
+      "top3_count": 1,
+      "examples": [
+        "James 1"
+      ],
+      "top_score": 138
+    },
+    {
+      "id": "song-0097",
+      "title": "All I Have Is Christ (Sovereign Grace)",
+      "top12_count": 8,
+      "top3_count": 0,
+      "examples": [
+        "John 3:16-17",
+        "Acts 2",
+        "Romans 3",
+        "Romans 5",
+        "2 Corinthians 4"
+      ],
+      "top_score": 138
+    },
+    {
+      "id": "song-0150",
+      "title": "All Sufficient Merit",
+      "top12_count": 8,
+      "top3_count": 0,
+      "examples": [
+        "John 3:16-17",
+        "Acts 2",
+        "Romans 3",
+        "Romans 5",
+        "2 Corinthians 4"
+      ],
+      "top_score": 138
+    },
+    {
+      "id": "song-0141",
+      "title": "Your Grace Is Enough",
+      "top12_count": 8,
+      "top3_count": 0,
+      "examples": [
+        "John 3:16-17",
+        "Acts 2",
+        "Romans 3",
+        "Romans 5",
+        "2 Corinthians 4"
+      ],
+      "top_score": 138
+    },
+    {
+      "id": "song-0040",
+      "title": "Come Behold the Wondrous Mystery",
+      "top12_count": 4,
+      "top3_count": 0,
+      "examples": [
+        "Matthew 28",
+        "John 1",
+        "John 11",
+        "Philippians 2"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0111",
+      "title": "Good and Gracious King",
+      "top12_count": 4,
+      "top3_count": 0,
+      "examples": [
+        "Romans 3",
+        "2 Corinthians 12",
+        "Ephesians 2:1-10",
+        "Hebrews 4"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0160",
+      "title": "Holy Forever (Chris Tomlin)",
+      "top12_count": 4,
+      "top3_count": 0,
+      "examples": [
+        "Psalm 139",
+        "Isaiah 6",
+        "Matthew 5",
+        "1 Thessalonians 4"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0088",
+      "title": "Holy Is the Lord",
+      "top12_count": 4,
+      "top3_count": 0,
+      "examples": [
+        "Psalm 139",
+        "Isaiah 6",
+        "Matthew 5",
+        "1 Thessalonians 4"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0098",
+      "title": "O Great God",
+      "top12_count": 4,
+      "top3_count": 0,
+      "examples": [
+        "Psalm 139",
+        "Isaiah 6",
+        "Matthew 5",
+        "1 Thessalonians 4"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0044",
+      "title": "Speak O Lord",
+      "top12_count": 4,
+      "top3_count": 0,
+      "examples": [
+        "Isaiah 6",
+        "Matthew 5",
+        "John 15:4-5",
+        "1 Thessalonians 4"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0039",
+      "title": "All I Have Is Christ",
+      "top12_count": 3,
+      "top3_count": 0,
+      "examples": [
+        "Romans 3",
+        "Colossians 1",
+        "Revelation 5"
+      ],
+      "top_score": 60
+    },
+    {
+      "id": "song-0110",
+      "title": "All My Ways Are Known to You",
+      "top12_count": 3,
+      "top3_count": 0,
+      "examples": [
+        "Genesis 1",
+        "Psalm 23",
+        "Romans 8"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0056",
+      "title": "Oceans (Where Feet May Fail)",
+      "top12_count": 3,
+      "top3_count": 0,
+      "examples": [
+        "John 15:4-5",
+        "Ephesians 2:11-22",
+        "James 1"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0076",
+      "title": "The Jesus Way",
+      "top12_count": 3,
+      "top3_count": 0,
+      "examples": [
+        "Micah 6",
+        "Luke 15",
+        "John 15:4-5"
+      ],
+      "top_score": 85
+    },
+    {
+      "id": "song-0124",
+      "title": "The Lord Almighty Reigns",
+      "top12_count": 3,
+      "top3_count": 0,
+      "examples": [
+        "Genesis 1",
+        "Matthew 5",
+        "Revelation 19"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0109",
+      "title": "There Is One Gospel",
+      "top12_count": 3,
+      "top3_count": 0,
+      "examples": [
+        "John 3:16-17",
+        "Acts 2",
+        "2 Corinthians 4"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0072",
+      "title": "Battle Belongs",
+      "top12_count": 2,
+      "top3_count": 0,
+      "examples": [
+        "Exodus 14",
+        "Matthew 6:9-13"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0113",
+      "title": "Christ the Sure and Steady Anchor",
+      "top12_count": 2,
+      "top3_count": 0,
+      "examples": [
+        "Romans 8",
+        "2 Corinthians 4"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0153",
+      "title": "Come Ye Sinners",
+      "top12_count": 2,
+      "top3_count": 0,
+      "examples": [
+        "Micah 6",
+        "Luke 15"
+      ],
+      "top_score": 101
+    },
+    {
+      "id": "song-0080",
+      "title": "Forever (We Sing Hallelujah)",
+      "top12_count": 2,
+      "top3_count": 0,
+      "examples": [
+        "Matthew 28",
+        "1 Corinthians 15"
+      ],
+      "top_score": 128
+    },
+    {
+      "id": "song-0146",
+      "title": "Goodness Gracious",
+      "top12_count": 2,
+      "top3_count": 0,
+      "examples": [
+        "Micah 6",
+        "Luke 15"
+      ],
+      "top_score": 85
+    },
+    {
+      "id": "song-0026",
+      "title": "He Will Hold Me Fast",
+      "top12_count": 2,
+      "top3_count": 0,
+      "examples": [
+        "Romans 8",
+        "James 1"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0074",
+      "title": "House of the Lord",
+      "top12_count": 2,
+      "top3_count": 0,
+      "examples": [
+        "Luke 15",
+        "Galatians 5"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0138",
+      "title": "I Speak Jesus",
+      "top12_count": 2,
+      "top3_count": 0,
+      "examples": [
+        "Exodus 14",
+        "Matthew 6:9-13"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0148",
+      "title": "Let the Nations Be Glad",
+      "top12_count": 2,
+      "top3_count": 0,
+      "examples": [
+        "Matthew 5",
+        "Revelation 19"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0085",
+      "title": "Never Once",
+      "top12_count": 2,
+      "top3_count": 0,
+      "examples": [
+        "Ephesians 2:11-22",
+        "James 1"
+      ],
+      "top_score": 102
+    },
+    {
+      "id": "song-0041",
+      "title": "Only a Holy God",
+      "top12_count": 2,
+      "top3_count": 0,
+      "examples": [
+        "Isaiah 6",
+        "1 Thessalonians 4"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0105",
+      "title": "Only a Holy God (CityAlight)",
+      "top12_count": 2,
+      "top3_count": 0,
+      "examples": [
+        "Isaiah 6",
+        "1 Thessalonians 4"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0115",
+      "title": "Psalm 34 (Taste and See)",
+      "top12_count": 2,
+      "top3_count": 0,
+      "examples": [
+        "Exodus 14",
+        "Psalm 46"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0136",
+      "title": "Refiner",
+      "top12_count": 2,
+      "top3_count": 0,
+      "examples": [
+        "Isaiah 6",
+        "1 Thessalonians 4"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0079",
+      "title": "Revelation Song",
+      "top12_count": 2,
+      "top3_count": 0,
+      "examples": [
+        "Isaiah 6",
+        "1 Thessalonians 4"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0101",
+      "title": "The Glorious Christ",
+      "top12_count": 2,
+      "top3_count": 0,
+      "examples": [
+        "John 1",
+        "Philippians 2"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0089",
+      "title": "Whom Shall I Fear (God of Angel Armies)",
+      "top12_count": 2,
+      "top3_count": 0,
+      "examples": [
+        "Psalm 46",
+        "Ephesians 2:11-22"
+      ],
+      "top_score": 119
+    },
+    {
+      "id": "song-0157",
+      "title": "Yet Not I but Through Christ in Me (CityAlight)",
+      "top12_count": 2,
+      "top3_count": 0,
+      "examples": [
+        "Isaiah 6",
+        "1 Thessalonians 4"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0151",
+      "title": "Almost Home",
+      "top12_count": 1,
+      "top3_count": 0,
+      "examples": [
+        "James 1"
+      ],
+      "top_score": 85
+    },
+    {
+      "id": "song-0100",
+      "title": "Behold Our God",
+      "top12_count": 1,
+      "top3_count": 0,
+      "examples": [
+        "Genesis 1"
+      ],
+      "top_score": 60
+    },
+    {
+      "id": "song-0121",
+      "title": "By Faith",
+      "top12_count": 1,
+      "top3_count": 0,
+      "examples": [
+        "James 1"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0016",
+      "title": "Christ the Lord Is Risen Today",
+      "top12_count": 1,
+      "top3_count": 0,
+      "examples": [
+        "1 Corinthians 15"
+      ],
+      "top_score": 124
+    },
+    {
+      "id": "song-0158",
+      "title": "Come Jesus Come",
+      "top12_count": 1,
+      "top3_count": 0,
+      "examples": [
+        "Matthew 6:9-13"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0062",
+      "title": "Do It Again",
+      "top12_count": 1,
+      "top3_count": 0,
+      "examples": [
+        "Psalm 23"
+      ],
+      "top_score": 87
+    },
+    {
+      "id": "song-0112",
+      "title": "How I Long to Breathe the Air of Heaven",
+      "top12_count": 1,
+      "top3_count": 0,
+      "examples": [
+        "James 1"
+      ],
+      "top_score": 85
+    },
+    {
+      "id": "song-0144",
+      "title": "I Thank God",
+      "top12_count": 1,
+      "top3_count": 0,
+      "examples": [
+        "Galatians 5"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0090",
+      "title": "Jesus Messiah",
+      "top12_count": 1,
+      "top3_count": 0,
+      "examples": [
+        "Isaiah 53"
+      ],
+      "top_score": 138
+    },
+    {
+      "id": "song-0129",
+      "title": "No Longer Slaves",
+      "top12_count": 1,
+      "top3_count": 0,
+      "examples": [
+        "Galatians 5"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0126",
+      "title": "Resurrecting",
+      "top12_count": 1,
+      "top3_count": 0,
+      "examples": [
+        "1 Corinthians 15"
+      ],
+      "top_score": 128
+    },
+    {
+      "id": "song-0064",
+      "title": "See a Victory",
+      "top12_count": 1,
+      "top3_count": 0,
+      "examples": [
+        "Exodus 14"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0123",
+      "title": "Speak O Lord (Getty)",
+      "top12_count": 1,
+      "top3_count": 0,
+      "examples": [
+        "Matthew 6:9-13"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0070",
+      "title": "The Cross Has the Final Word",
+      "top12_count": 1,
+      "top3_count": 0,
+      "examples": [
+        "Isaiah 53"
+      ],
+      "top_score": 138
+    },
+    {
+      "id": "song-0133",
+      "title": "The Father's House",
+      "top12_count": 1,
+      "top3_count": 0,
+      "examples": [
+        "Jeremiah 31"
+      ],
+      "top_score": 85
+    },
+    {
+      "id": "song-0025",
+      "title": "The Lord Is My Salvation",
+      "top12_count": 1,
+      "top3_count": 0,
+      "examples": [
+        "Psalm 46"
+      ],
+      "top_score": 105
+    },
+    {
+      "id": "song-0106",
+      "title": "The Night Song",
+      "top12_count": 1,
+      "top3_count": 0,
+      "examples": [
+        "2 Corinthians 4"
+      ],
+      "top_score": 85
+    },
+    {
+      "id": "song-0103",
+      "title": "Your Will Be Done",
+      "top12_count": 1,
+      "top3_count": 0,
+      "examples": [
+        "Matthew 6:9-13"
+      ],
+      "top_score": 105
+    }
+  ]
+}

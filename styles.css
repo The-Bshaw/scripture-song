@@ -507,3 +507,56 @@ footer span:first-child{
 .match-reasons { display: flex; flex-direction: column; gap: 2px; color: #48564b; }
 .match-reasons span:before { content: "• "; }
 .match-scriptures { margin-top: 5px; font-size: 11px; color: #536455; }
+
+
+/* ==============================
+   SITE NAVIGATION
+   ============================== */
+.site-nav{display:flex;align-items:center;justify-content:flex-end;gap:clamp(14px,2.6vw,36px);flex-wrap:wrap;}
+.site-nav a{color:#fff;text-decoration:none;font-size:14px;font-weight:650;letter-spacing:.025em;padding:9px 0;border-bottom:2px solid transparent;transition:border-color .2s,opacity .2s;}
+.site-nav a:hover{opacity:.8;}
+.site-nav a[aria-current="page"]{border-bottom-color:#d4bb8d;}
+@media(max-width:820px){.site-nav{display:flex;}}
+@media(max-width:570px){.site-nav{gap:16px}.site-nav a{font-size:12px}.masthead .top .brand img{height:38px!important;max-width:155px!important;}}
+@media(max-width:375px){.site-nav{gap:10px}.site-nav a{font-size:11px}.masthead .top .brand img{max-width:128px!important;}}
+
+/* ==============================
+   SONG LIBRARY PAGE
+   ============================== */
+.library-page{background:#fefdf9;}
+.library-page .library-masthead{background-image:linear-gradient(rgba(8,15,10,.35),rgba(8,15,10,.56)),url('assets/worship-header.jpg')!important;background-size:100% auto!important;background-position:center top!important;background-repeat:no-repeat!important;background-color:#111!important;}
+.library-hero{max-width:1160px;margin:0 auto;padding:88px 32px 92px;color:#fff;}
+.library-eyebrow,.library-overline{display:block;font-size:11px;font-weight:750;letter-spacing:.15em;text-transform:uppercase;}
+.library-eyebrow{color:#efe1c9;}
+.library-hero h1{font-size:clamp(46px,6vw,76px);font-weight:550;line-height:1.1;letter-spacing:-.035em;margin:15px 0 12px;color:#fff;}
+.library-hero p{font-size:18px;line-height:1.6;max-width:680px;margin:0;color:rgba(255,255,255,.94);}
+.library-main{background:#fefdf9;min-height:60vh;padding:54px 0 90px;}
+.library-container{max-width:1224px;margin:auto;padding:0 32px;}
+.library-tools{display:flex;align-items:center;justify-content:space-between;gap:20px;border-bottom:1px solid #e1e3dc;padding-bottom:20px;}
+.library-tools p{margin:0;color:#536552;font-size:13px;font-weight:700;}
+.library-tools label{display:flex;align-items:center;gap:12px;font-size:11px;font-weight:700;letter-spacing:.09em;color:#55675a;}
+.library-tools input{font-size:14px;color:#29342a;background:#fff;border:1px solid #cbd2c9;border-radius:7px;padding:11px 14px;width:min(270px,40vw);}
+.library-tools input:focus-visible,.library-categories a:focus-visible,.site-nav a:focus-visible{outline:2px solid #b18c4c;outline-offset:3px;}
+.library-categories{display:flex;flex-wrap:wrap;gap:9px;padding:25px 0 13px;}
+.library-categories a{text-decoration:none;color:#435c46;border:1px solid #cbd6c9;background:#f2f5ef;border-radius:30px;padding:9px 15px;font-size:12px;font-weight:700;}
+.library-categories a:hover{background:#e4ede1;}
+.library-section{scroll-margin-top:18px;padding-top:30px;}
+.library-section-head{border-top:1px solid #dce2d8;padding:31px 0 22px;}
+.library-overline{color:#758979;}
+.library-section-head h2{font-size:clamp(28px,3vw,42px);letter-spacing:-.03em;font-weight:500;color:#243028;margin:9px 0 7px;}
+.library-section-count{font-size:16px;color:#88988b;vertical-align:middle;font-weight:600;letter-spacing:normal;margin-left:5px;}
+.library-section-head p{margin:0;color:#647266;font-size:14px;line-height:1.5;}
+.library-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;}
+.library-song{min-width:0;background:#fff;border:1px solid #e6e8e2;border-radius:11px;padding:19px 18px 16px;box-shadow:0 8px 22px rgba(0,0,0,.045);display:flex;flex-direction:column;}
+.library-song-info{min-height:76px;}
+.library-song-info h3{color:#28342b;font-size:19px;font-weight:600;line-height:1.33;letter-spacing:-.015em;margin:0 0 7px;}
+.library-song-info p{font-size:12px;color:#849085;margin:0 0 12px;}
+.library-spotify{width:100%;height:80px;border:0;border-radius:9px;display:block;background:#f1f2ef;}
+.library-no-preview{height:80px;border:1px dashed #ccd5c9;border-radius:9px;background:#f6f7f3;color:#7a897a;display:flex;justify-content:center;align-items:center;gap:9px;font-size:12px;text-align:center;padding:8px;}
+.library-play-symbol{font-size:19px;color:#8eaa8b;}
+.library-spotify-link{margin-top:13px;align-self:flex-start;font-size:12px;color:#567557;font-weight:700;text-decoration:none;}
+.library-spotify-link:hover{text-decoration:underline;}
+.library-footnote{font-size:12px;line-height:1.6;color:#788579;margin:48px 0 0;}
+.library-error,.library-no-results{padding:30px;border:1px dashed #c2cfbf;border-radius:8px;color:#657769;}
+@media(max-width:900px){.library-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+@media(max-width:600px){.library-page .library-masthead{background-size:auto 100%!important;}.library-hero{padding:54px 20px 65px;}.library-hero p{font-size:15px;}.library-main{padding:35px 0 65px;}.library-container{padding:0 20px;}.library-tools{align-items:flex-start;flex-direction:column;gap:14px;}.library-tools label{width:100%;justify-content:space-between;}.library-tools input{width:min(100%,280px);}.library-grid{grid-template-columns:1fr;gap:13px;}.library-song-info{min-height:0;padding-bottom:17px;}.library-section{padding-top:15px;}.library-categories{gap:7px;}.library-categories a{font-size:11px;padding:8px 11px;}}

@@ -166,7 +166,7 @@ function rank(refs,topics=[]){
     }
   }
   return songs.map(song=>{
-    if(song.wellLibrary&&song.auditState!=='source-reviewed')return null;
+    if(song.auditState!=='source-reviewed'||song.wellCategory==='Shelved')return null;
     const explicit=topics.map(t=>({name:t,...songEvidence(song,t)}));
     if(explicit.some(e=>!e.primary&&!e.secondary))return null;
     const matches=passageRows.map(t=>({...t,...songEvidence(song,t.name)}))
@@ -193,7 +193,9 @@ function rank(refs,topics=[]){
     const evidenceScore=direct.length?(180+(verseExact?28:0)):sourced.length?(145+(verseExact?22:0)):editorialFit?(45+(verseLinked?25:0)+(verseExact?12:0)):0;
     const topicScore=explicit.reduce((n,m)=>n+m.primary*85+m.secondary*24,0);
     const contemporaryBonus=song.type==='Contemporary'?4:0;
-    const score=Math.round(coreScore+supportingScore+genericScore+evidenceScore+topicScore+contemporaryBonus);
+    // Small tie preference for records with a published lyric-text source; not a claim that Scripture links are verified.
+    const auditedThemeBonus=song.auditState==='source-reviewed'&&song.lyricalAudit?.lyricSourceUrl?7:0;
+    const score=Math.round(coreScore+supportingScore+genericScore+evidenceScore+topicScore+contemporaryBonus+auditedThemeBonus);
     const reasonParts=[];
     if(direct.length)reasonParts.push('Direct Scripture link recorded in the catalog');
     else if(sourced.length)reasonParts.push('Publisher-linked Scripture reference');

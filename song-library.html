@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f8f7f3">
+  <meta name="description" content="Browse The Well's worship song library, organized by song rotation, with Spotify previews when available.">
+  <title>Song Library | Scripture &amp; Song</title>
+  <link rel="stylesheet" href="https://use.typekit.net/uuu3hgb.css">
+  <link rel="stylesheet" href="styles.css?v=3.9.3">
+</head>
+<body class="library-page">
+  <div class="masthead library-masthead">
+    <header class="top">
+      <a class="brand" href="./" aria-label="Scripture &amp; Song home"><img src="assets/scripture-song-logo-white.png" alt="scripture&amp;song"></a>
+      <nav class="site-nav" aria-label="Main navigation"><a href="./">Song Search</a><a href="song-library.html" aria-current="page">Song Library</a></nav>
+    </header>
+    <div class="library-hero"><span class="library-eyebrow">THE WELL · WORSHIP MUSIC</span><h1>Song Library</h1><p>Our worship songs, organized by collection. Explore the rotation and listen to the recordings linked in our song sheet.</p></div>
+  </div>
+  <main class="library-main" id="main">
+    <div class="library-container">
+      <div class="library-tools"><p id="library-count" aria-live="polite">Loading library…</p><label for="library-filter">FIND A SONG <input type="search" id="library-filter" placeholder="Search song titles" autocomplete="off"></label></div>
+      <nav class="library-categories" id="library-categories" aria-label="Jump to a category"></nav>
+      <div id="library-sections" aria-live="polite"></div>
+      <div id="library-error" class="library-error" hidden>Unable to load the library. Please refresh the page.</div>
+      <p class="library-footnote">Spotify previews are available where a track is linked in the Google Sheet. Preview playback and clip length depend on Spotify. Songs without a verified track link remain listed and can be searched on Spotify.</p>
+    </div>
+  </main>
+  <footer><span class="footer-brand"><img src="assets/scripture-song-logo-white.png" alt="scripture&amp;song"></span><span>THE WELL SONG LIBRARY · SCRIPTURE-LED WORSHIP PLANNING</span></footer>
+  <script src="data/local-preview.js?v=393" defer></script>
+  <script src="song-library.js?v=393" defer></script>
+</body>
+</html>
