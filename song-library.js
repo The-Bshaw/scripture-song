@@ -21,6 +21,8 @@ const dockTarget=document.querySelector('#spotify-embed-target');
 const status=document.querySelector('#library-player-status');
 const dockClose=document.querySelector('#spotify-dock-close');
 const setStatus=message=>{status.textContent=message;};
+const playIconSvg='<svg viewBox="0 0 12 14" width="12" height="14" aria-hidden="true" focusable="false"><path d="M1.5 1.9C1.5 1.136 2.331.655 2.998 1.036l7.066 4.035c.674.385.674 1.358 0 1.743L2.998 10.85c-.667.381-1.498-.1-1.498-.864V1.9Z" fill="currentColor"/></svg>';
+const pauseIconSvg='<svg class="pause-icon" viewBox="0 0 12 14" width="12" height="14" aria-hidden="true" focusable="false"><rect x="1.5" y="1" width="3.1" height="12" rx="1.55" fill="currentColor"/><rect x="7.4" y="1" width="3.1" height="12" rx="1.55" fill="currentColor"/></svg>';
 function revealFallback(message){
  if(!activeTrack)return;
  if(!controller&&!dockTarget.querySelector('iframe')){
@@ -39,7 +41,7 @@ function concealFallback(){dock.classList.remove('is-visible');dock.setAttribute
 function clearWatchdog(){if(playbackTimeout!==null){clearTimeout(playbackTimeout);playbackTimeout=null;}}
 function setButtonState(button,playing){
  if(!button)return;
- button.innerHTML='<span aria-hidden="true">'+(playing?'Ⅱ':'▶')+'</span>';
+ button.innerHTML=playing?pauseIconSvg:playIconSvg;
  button.setAttribute('aria-label',(playing?'Pause ':'Play ')+(button.dataset.title||'song'));
  button.setAttribute('aria-pressed',String(playing));
  button.closest('.library-song')?.classList.toggle('library-song-playing',playing);
@@ -132,13 +134,13 @@ function makeCard(song){
  const controls=document.createElement('div');controls.className='library-song-controls';
  if(id){
   const button=document.createElement('button');button.type='button';button.className='library-play';
-  button.innerHTML='<span aria-hidden="true">▶</span>';button.dataset.title=song.title;
+  button.innerHTML=playIconSvg;button.dataset.title=song.title;
   button.setAttribute('aria-label','Play '+song.title);button.setAttribute('aria-pressed','false');
   button.addEventListener('click',()=>playTrack(id,button));controls.append(button);
-  const link=document.createElement('a');link.href='https://open.spotify.com/track/'+id;link.target='_blank';link.rel='noopener noreferrer';link.textContent='Spotify ↗';link.className='library-spotify-link';controls.append(link);
+  const link=document.createElement('a');link.href='https://open.spotify.com/track/'+id;link.target='_blank';link.rel='noopener noreferrer';link.className='library-spotify-link';link.innerHTML='<span>Spotify</span><span class="library-link-chevron" aria-hidden="true">›</span>';controls.append(link);
  }else{
   const icon=document.createElement('span');icon.className='library-play library-play-unavailable';icon.textContent='♫';icon.setAttribute('aria-label','Spotify recording not linked');icon.title='Spotify recording not linked';controls.append(icon);
-  const link=document.createElement('a');link.href='https://open.spotify.com/search/'+encodeURIComponent(song.title);link.target='_blank';link.rel='noopener noreferrer';link.textContent='Find on Spotify ↗';link.className='library-spotify-link';controls.append(link);
+  const link=document.createElement('a');link.href='https://open.spotify.com/search/'+encodeURIComponent(song.title);link.target='_blank';link.rel='noopener noreferrer';link.className='library-spotify-link';link.innerHTML='<span>Find on Spotify</span><span class="library-link-chevron" aria-hidden="true">›</span>';controls.append(link);
  }
  card.append(controls);return card;
 }
