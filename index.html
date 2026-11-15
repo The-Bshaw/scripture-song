@@ -7,7 +7,7 @@
   <meta name="description" content="Find worship songs and hymns by Scripture passage, topic, or theme.">
   <title>Scripture & Song — Worship Planning</title>
   <link rel="stylesheet" href="https://use.typekit.net/uuu3hgb.css">
-  <link rel="stylesheet" href="styles.css?v=3.9.6">
+  <link rel="stylesheet" href="styles.css?v=3.9.7">
 </head>
 <body>
   <div class="masthead">
@@ -61,7 +61,11 @@
   </div>
 
   <footer><span class="footer-brand"><img src="assets/scripture-song-logo-white.png" alt="scripture&song"></span><span>THE WELL SONG LIBRARY · SCRIPTURE-LED WORSHIP PLANNING</span></footer>
+  <div class="spotify-playback-dock" id="spotify-playback-dock" aria-label="Spotify playback" aria-hidden="true"><div class="spotify-dock-heading"><span>Spotify playback</span><button type="button" id="spotify-dock-close" aria-label="Close Spotify player">×</button></div><div id="spotify-embed-target"></div></div>
+  <div id="search-player-status" class="visually-hidden" role="status" aria-live="polite"></div>
   <script src="data/local-preview.js?v=393" defer></script>
-  <script src="app.js?v=3.9.6" defer></script>
+  <script src="app.js?v=3.9.7" defer></script>
+  <script src="search-playback.js?v=397" defer></script>
+  <script src="https://open.spotify.com/embed/iframe-api/v1" defer></script>
 </body>
 </html>

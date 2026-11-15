@@ -600,7 +600,7 @@ footer span:first-child{
 .library-song-category{font-size:10px;font-weight:650;color:#6e8371;white-space:nowrap;}
 .library-song-controls{display:flex;align-items:center;gap:12px;margin-top:auto;}
 .library-play{width:34px;height:34px;border:0;border-radius:50%;background:#486b50;color:white;display:inline-flex;justify-content:center;align-items:center;flex:none;padding:0;line-height:1;}
-.library-play svg{display:block;transform:translateX(2px);}
+.library-play svg{display:block;transform:translateX(0);}
 .library-play .pause-icon{transform:none;}
 .library-play:hover{background:#34533b;}
 .library-play-unavailable{background:#e8ede7;color:#859387;cursor:default;}
@@ -636,3 +636,17 @@ footer span:first-child{
 #spotify-embed-target iframe{display:block;width:100%;height:80px;border:0;border-radius:9px;}
 .library-song-playing .library-play{background:#2f5039;}
 @media(prefers-reduced-motion:reduce){.spotify-playback-dock{transition:none;}}
+
+/* ==============================
+   SEARCH RESULT CATEGORY TOTALS AND PLAYBACK
+   ============================== */
+.search-category-counts{display:flex;flex-wrap:wrap;align-items:center;gap:10px 22px;padding:8px 0 4px;}
+.search-category-count{display:inline-flex;gap:7px;align-items:baseline;color:#3e493f;font-size:14px;font-weight:650;}
+.search-category-count strong{color:#141414;font-size:16px;font-variant-numeric:tabular-nums;}
+.search-song-playback{display:flex;align-items:center;gap:12px;margin-top:auto;padding-top:15px;}
+.search-song-playback .library-play{flex:0 0 34px;}
+.search-song-playing{border-color:#a7bba8;}
+.search-song-playing .library-play{background:#2f5039;}
+.search-song-playback .library-spotify-link{margin:0;}
+.song-links{margin-top:12px;padding-top:13px;border-top:1px solid #eceee8;}
+@media(max-width:570px){.search-category-counts{gap:8px 16px}.search-category-count{font-size:12px}.search-category-count strong{font-size:14px}}
