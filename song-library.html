@@ -7,7 +7,7 @@
   <meta name="description" content="Browse The Well's worship song library, organized by song rotation, with Spotify previews when available.">
   <title>Song Library | Scripture &amp; Song</title>
   <link rel="stylesheet" href="https://use.typekit.net/uuu3hgb.css">
-  <link rel="stylesheet" href="styles.css?v=3.9.4">
+  <link rel="stylesheet" href="styles.css?v=3.9.5">
 </head>
 <body class="library-page">
   <div class="masthead library-masthead">
@@ -19,15 +19,17 @@
   </div>
   <main class="library-main" id="main">
     <div class="library-container">
-      <div class="library-tools"><label for="library-filter" class="visually-hidden">Search songs</label><input type="search" id="library-filter" placeholder="Search song titles" autocomplete="off" aria-label="Search song titles"></div>
-      <nav class="library-categories" id="library-categories" aria-label="Filter song collection"></nav>
+      <div class="library-filter-row"><nav class="library-categories" id="library-categories" aria-label="Filter song collection"></nav><div class="library-tools"><label for="library-filter" class="visually-hidden">Search songs</label><input type="search" id="library-filter" placeholder="Search songs" autocomplete="off" aria-label="Search song titles"></div></div>
       <div id="library-sections" aria-live="polite"></div>
       <div id="library-error" class="library-error" hidden>Unable to load the library. Please refresh the page.</div>
-      <p class="library-footnote">Select a play button to open a compact Spotify player. Spotify controls playback and preview availability. Songs without a linked recording can be found through Spotify search.</p>
+      <p class="library-footnote">Select a play button to listen. If your browser blocks automatic playback, Spotify controls will appear. Spotify decides which previews are available.</p>
     </div>
   </main>
+  <div class="spotify-playback-dock" id="spotify-playback-dock" aria-label="Spotify playback" aria-hidden="true"><div class="spotify-dock-heading"><span>Spotify playback</span><button type="button" id="spotify-dock-close" aria-label="Close Spotify player">×</button></div><div id="spotify-embed-target"></div></div>
+  <div id="library-player-status" class="visually-hidden" role="status" aria-live="polite"></div>
   <footer><span class="footer-brand"><img src="assets/scripture-song-logo-white.png" alt="scripture&amp;song"></span><span>THE WELL SONG LIBRARY · SCRIPTURE-LED WORSHIP PLANNING</span></footer>
   <script src="data/local-preview.js?v=393" defer></script>
-  <script src="song-library.js?v=394" defer></script>
+  <script src="song-library.js?v=395" defer></script>
+  <script src="https://open.spotify.com/embed/iframe-api/v1" defer></script>
 </body>
 </html>
